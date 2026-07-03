@@ -1,0 +1,1502 @@
+id_laptop,marca,modelo,precio_soles,stock,tienda,categoria
+1,Acer,Aspire 5,2210.0,21,San Miguel,Oficina
+2,HP,15-fd,2206.0,9,San Miguel,Oficina
+3,HP,15-fd,2118.0,21,Centro de Lima,Oficina
+4,MSI,Modern 15,3678.0,39,Arequipa,Profesional
+5,ASUS,Vivobook 15,2664.0,23,San Miguel,Profesional
+6,Lenovo,ThinkPad E14,3334.0,56,Centro de Lima,Profesional
+7,Apple,MacBook Air M2,5416.0,34,Surco,Gaming
+8,Dell,Inspiron 15,2850.0,31,Los Olivos,Profesional
+9,Acer,Nitro V 15,3618.0,8,Trujillo,Profesional
+10,Dell,Vostro 3520,3131.0,24,San Isidro,Profesional
+11,ASUS,Zenbook 14,4276.0,7,Miraflores,Gaming
+12,Apple,MacBook Air M2,4973.0,42,Trujillo,Gaming
+13,Lenovo,IdeaPad Slim 3,2723.0,58,Surco,Profesional
+14,Apple,MacBook Air M2,4981.0,47,Los Olivos,Gaming
+15,Acer,Nitro V 15,4070.0,4,Piura,Gaming
+16,Dell,Inspiron 15,2869.0,48,Surco,Profesional
+17,Lenovo,IdeaPad Slim 3,2826.0,52,Piura,Profesional
+18,Acer,Aspire 5,2345.0,44,San Isidro,Oficina
+19,HP,15-fd,2095.0,57,Piura,Oficina
+20,ASUS,Zenbook 14,5026.0,33,Centro de Lima,Gaming
+21,HP,15-fd,2589.0,53,Piura,Profesional
+22,Apple,MacBook Air M2,5362.0,52,Los Olivos,Gaming
+23,ASUS,Vivobook 15,3014.0,30,Los Olivos,Profesional
+24,ASUS,Vivobook 15,2568.0,16,Arequipa,Profesional
+25,HP,15-fd,2594.0,52,San Isidro,Profesional
+26,Apple,MacBook Air M3,5883.0,51,San Miguel,Premium
+27,ASUS,Zenbook 14,4313.0,48,San Miguel,Gaming
+28,MSI,Katana 15,5261.0,24,Chiclayo,Gaming
+29,Lenovo,ThinkPad E14,3251.0,42,San Isidro,Profesional
+30,ASUS,Vivobook 15,2896.0,60,Arequipa,Profesional
+31,MSI,Modern 15,3203.0,59,San Isidro,Profesional
+32,Acer,Nitro V 15,3911.0,5,Chiclayo,Profesional
+33,HP,Pavilion 15,3599.0,27,Centro de Lima,Profesional
+34,Apple,MacBook Air M2,4910.0,9,San Miguel,Gaming
+35,MSI,Katana 15,5220.0,19,Chiclayo,Gaming
+36,Dell,Inspiron 15,2670.0,55,Miraflores,Profesional
+37,Dell,Inspiron 15,2838.0,43,Trujillo,Profesional
+38,Lenovo,IdeaPad Slim 3,3059.0,26,Centro de Lima,Profesional
+39,Dell,Vostro 3520,2959.0,1,Chiclayo,Profesional
+40,Apple,MacBook Air M3,5637.0,12,Chiclayo,Premium
+41,HP,15-fd,1960.0,20,Miraflores,Oficina
+42,MSI,Katana 15,4971.0,57,San Isidro,Gaming
+43,Acer,Nitro V 15,3663.0,12,San Isidro,Profesional
+44,HP,Pavilion 15,3660.0,39,San Miguel,Profesional
+45,HP,Pavilion 15,3416.0,2,Chiclayo,Profesional
+46,HP,15-fd,2220.0,16,San Miguel,Oficina
+47,HP,Pavilion 15,2958.0,47,Piura,Profesional
+48,Dell,Vostro 3520,2672.0,24,San Isidro,Profesional
+49,ASUS,Zenbook 14,4257.0,20,Trujillo,Gaming
+50,MSI,Modern 15,2988.0,6,Surco,Profesional
+51,Dell,Vostro 3520,2468.0,11,Surco,Oficina
+52,Lenovo,IdeaPad Slim 3,2522.0,4,Centro de Lima,Profesional
+53,Apple,MacBook Air M2,4779.0,47,Surco,Gaming
+54,Lenovo,IdeaPad Slim 3,3072.0,50,Miraflores,Profesional
+55,Acer,Nitro V 15,4332.0,19,Surco,Gaming
+56,Apple,MacBook Air M2,4625.0,57,San Miguel,Gaming
+57,HP,Pavilion 15,3510.0,1,Los Olivos,Profesional
+58,Lenovo,ThinkPad E14,3480.0,56,Chiclayo,Profesional
+59,HP,Pavilion 15,3273.0,4,Centro de Lima,Profesional
+60,Dell,Inspiron 15,3148.0,43,Surco,Profesional
+61,HP,15-fd,2409.0,43,Arequipa,Oficina
+62,Acer,Aspire 5,2559.0,20,San Miguel,Profesional
+63,Dell,Inspiron 15,3238.0,13,Piura,Profesional
+64,Acer,Nitro V 15,4071.0,6,Arequipa,Gaming
+65,HP,15-fd,2448.0,54,Surco,Oficina
+66,MSI,Katana 15,5529.0,40,Los Olivos,Premium
+67,Acer,Nitro V 15,3931.0,23,Los Olivos,Profesional
+68,Dell,Inspiron 15,3489.0,38,Chiclayo,Profesional
+69,ASUS,Zenbook 14,4892.0,57,Miraflores,Gaming
+70,Lenovo,ThinkPad E14,3128.0,51,Surco,Profesional
+71,HP,15-fd,2451.0,18,Chiclayo,Oficina
+72,HP,15-fd,1826.0,6,Surco,Oficina
+73,Acer,Nitro V 15,3738.0,31,Centro de Lima,Profesional
+74,MSI,Katana 15,5701.0,59,Centro de Lima,Premium
+75,Dell,Vostro 3520,2487.0,57,San Isidro,Oficina
+76,Acer,Aspire 5,2602.0,53,Los Olivos,Profesional
+77,ASUS,Zenbook 14,4843.0,48,San Miguel,Gaming
+78,Apple,MacBook Air M2,5050.0,18,Los Olivos,Gaming
+79,Apple,MacBook Air M3,6322.0,54,Trujillo,Premium
+80,HP,15-fd,2292.0,10,Piura,Oficina
+81,Lenovo,ThinkPad E14,3975.0,53,Trujillo,Profesional
+82,Apple,MacBook Air M2,4662.0,12,Piura,Gaming
+83,Dell,Vostro 3520,3230.0,10,San Miguel,Profesional
+84,ASUS,Zenbook 14,4384.0,2,Chiclayo,Gaming
+85,MSI,Katana 15,4956.0,30,San Miguel,Gaming
+86,Dell,Vostro 3520,2588.0,12,Miraflores,Profesional
+87,Dell,Vostro 3520,2907.0,2,Chiclayo,Profesional
+88,Acer,Aspire 5,2894.0,21,Chiclayo,Profesional
+89,HP,15-fd,2258.0,33,San Isidro,Oficina
+90,Apple,MacBook Air M3,6091.0,52,San Miguel,Premium
+91,Dell,Vostro 3520,2826.0,34,Arequipa,Profesional
+92,Lenovo,IdeaPad Slim 3,2488.0,37,Arequipa,Oficina
+93,MSI,Katana 15,5609.0,27,Miraflores,Premium
+94,Apple,MacBook Air M2,5471.0,22,Trujillo,Gaming
+95,ASUS,Zenbook 14,4420.0,37,San Isidro,Gaming
+96,MSI,Katana 15,5349.0,47,Centro de Lima,Gaming
+97,HP,Pavilion 15,3515.0,45,Piura,Profesional
+98,MSI,Modern 15,3034.0,21,Miraflores,Profesional
+99,MSI,Modern 15,3597.0,55,Piura,Profesional
+100,Acer,Nitro V 15,4006.0,11,Trujillo,Gaming
+101,ASUS,Zenbook 14,4916.0,39,Miraflores,Gaming
+102,Lenovo,ThinkPad E14,3808.0,10,Miraflores,Profesional
+103,Apple,MacBook Air M3,6386.0,42,Piura,Premium
+104,Apple,MacBook Air M3,5616.0,6,Surco,Premium
+105,Lenovo,ThinkPad E14,3234.0,51,San Miguel,Profesional
+106,Lenovo,ThinkPad E14,3411.0,48,Arequipa,Profesional
+107,HP,Pavilion 15,3717.0,34,Miraflores,Profesional
+108,Lenovo,ThinkPad E14,3332.0,44,Arequipa,Profesional
+109,MSI,Katana 15,5109.0,56,Chiclayo,Gaming
+110,Dell,Inspiron 15,2932.0,9,San Isidro,Profesional
+111,HP,15-fd,1808.0,50,Surco,Oficina
+112,Apple,MacBook Air M2,5033.0,27,San Miguel,Gaming
+113,Dell,Vostro 3520,2543.0,35,Piura,Profesional
+114,HP,15-fd,2578.0,24,Miraflores,Profesional
+115,HP,Pavilion 15,2927.0,25,San Isidro,Profesional
+116,Dell,Inspiron 15,2834.0,37,Chiclayo,Profesional
+117,Lenovo,IdeaPad Slim 3,2751.0,22,Chiclayo,Profesional
+118,Apple,MacBook Air M2,5090.0,11,Los Olivos,Gaming
+119,Apple,MacBook Air M2,4631.0,1,Chiclayo,Gaming
+120,MSI,Katana 15,5309.0,3,San Miguel,Gaming
+121,Acer,Aspire 5,2131.0,19,Chiclayo,Oficina
+122,HP,15-fd,2480.0,14,Miraflores,Oficina
+123,MSI,Modern 15,3373.0,15,San Isidro,Profesional
+124,MSI,Katana 15,5734.0,5,Arequipa,Premium
+125,Dell,Vostro 3520,2902.0,15,Piura,Profesional
+126,Lenovo,ThinkPad E14,3372.0,10,Surco,Profesional
+127,MSI,Modern 15,3494.0,11,Centro de Lima,Profesional
+128,ASUS,Vivobook 15,2633.0,6,Centro de Lima,Profesional
+129,ASUS,Vivobook 15,2602.0,56,Arequipa,Profesional
+130,HP,Pavilion 15,2998.0,14,Chiclayo,Profesional
+131,ASUS,Zenbook 14,4511.0,34,Los Olivos,Gaming
+132,ASUS,Zenbook 14,4520.0,42,Arequipa,Gaming
+133,Lenovo,ThinkPad E14,3234.0,59,Trujillo,Profesional
+134,Lenovo,ThinkPad E14,3407.0,12,Miraflores,Profesional
+135,ASUS,Zenbook 14,4791.0,59,Piura,Gaming
+136,HP,Pavilion 15,3245.0,45,Miraflores,Profesional
+137,MSI,Katana 15,5592.0,35,Miraflores,Premium
+138,MSI,Katana 15,5364.0,34,Los Olivos,Gaming
+139,Dell,Inspiron 15,3302.0,8,Chiclayo,Profesional
+140,HP,15-fd,2504.0,9,Los Olivos,Profesional
+141,Lenovo,IdeaPad Slim 3,3053.0,29,Miraflores,Profesional
+142,Dell,Inspiron 15,3322.0,41,Miraflores,Profesional
+143,ASUS,Vivobook 15,2954.0,39,Centro de Lima,Profesional
+144,Apple,MacBook Air M3,5777.0,44,Piura,Premium
+145,Dell,Inspiron 15,3306.0,20,Trujillo,Profesional
+146,HP,15-fd,2266.0,29,San Isidro,Oficina
+147,MSI,Modern 15,3191.0,4,San Isidro,Profesional
+148,Apple,MacBook Air M3,6242.0,46,San Miguel,Premium
+149,Dell,Vostro 3520,3057.0,14,Los Olivos,Profesional
+150,Apple,MacBook Air M3,5890.0,59,San Isidro,Premium
+151,MSI,Modern 15,3277.0,31,Los Olivos,Profesional
+152,Lenovo,IdeaPad Slim 3,2877.0,34,Miraflores,Profesional
+153,ASUS,Zenbook 14,4804.0,47,Trujillo,Gaming
+154,Lenovo,IdeaPad Slim 3,3127.0,29,Surco,Profesional
+155,MSI,Modern 15,3663.0,58,San Isidro,Profesional
+156,Dell,Inspiron 15,2861.0,12,San Miguel,Profesional
+157,Acer,Aspire 5,2447.0,45,Chiclayo,Oficina
+158,ASUS,Zenbook 14,4594.0,43,Centro de Lima,Gaming
+159,Lenovo,IdeaPad Slim 3,2302.0,4,San Isidro,Oficina
+160,Apple,MacBook Air M3,5779.0,14,Arequipa,Premium
+161,ASUS,Zenbook 14,4637.0,20,Los Olivos,Gaming
+162,HP,Pavilion 15,3736.0,42,San Miguel,Profesional
+163,HP,Pavilion 15,3679.0,19,Chiclayo,Profesional
+164,MSI,Modern 15,2947.0,57,San Miguel,Profesional
+165,MSI,Modern 15,3215.0,18,Piura,Profesional
+166,HP,15-fd,2581.0,44,Miraflores,Profesional
+167,Dell,Inspiron 15,2727.0,58,Piura,Profesional
+168,Dell,Inspiron 15,3463.0,42,Los Olivos,Profesional
+169,Apple,MacBook Air M2,5341.0,14,San Isidro,Gaming
+170,MSI,Modern 15,2945.0,6,Trujillo,Profesional
+171,ASUS,Zenbook 14,5008.0,6,Surco,Gaming
+172,HP,Pavilion 15,3284.0,1,Piura,Profesional
+173,ASUS,Zenbook 14,4567.0,3,Arequipa,Gaming
+174,HP,Pavilion 15,3314.0,57,Piura,Profesional
+175,HP,Pavilion 15,3590.0,23,San Isidro,Profesional
+176,MSI,Modern 15,3618.0,41,Trujillo,Profesional
+177,MSI,Modern 15,2907.0,3,San Miguel,Profesional
+178,Apple,MacBook Air M2,5425.0,54,Los Olivos,Gaming
+179,Apple,MacBook Air M2,5048.0,53,Piura,Gaming
+180,Apple,MacBook Air M2,4744.0,17,San Miguel,Gaming
+181,Apple,MacBook Air M2,5039.0,54,Centro de Lima,Gaming
+182,ASUS,Zenbook 14,4878.0,57,Centro de Lima,Gaming
+183,Acer,Nitro V 15,3868.0,10,Miraflores,Profesional
+184,MSI,Modern 15,3125.0,1,Surco,Profesional
+185,MSI,Katana 15,5495.0,9,Piura,Gaming
+186,HP,Pavilion 15,3217.0,38,Miraflores,Profesional
+187,Dell,Vostro 3520,2552.0,1,Arequipa,Profesional
+188,Dell,Inspiron 15,3334.0,14,Los Olivos,Profesional
+189,Dell,Vostro 3520,2449.0,32,Surco,Oficina
+190,Dell,Vostro 3520,2941.0,47,Surco,Profesional
+191,Acer,Nitro V 15,3981.0,26,Trujillo,Profesional
+192,Dell,Vostro 3520,3187.0,34,Chiclayo,Profesional
+193,Dell,Inspiron 15,3470.0,50,Piura,Profesional
+194,Apple,MacBook Air M2,5364.0,60,Arequipa,Gaming
+195,ASUS,Vivobook 15,2741.0,33,Surco,Profesional
+196,Apple,MacBook Air M3,6096.0,18,Miraflores,Premium
+197,Lenovo,ThinkPad E14,3553.0,25,San Isidro,Profesional
+198,MSI,Katana 15,5464.0,57,Centro de Lima,Gaming
+199,ASUS,Vivobook 15,2448.0,38,Surco,Oficina
+200,Dell,Vostro 3520,2794.0,42,Arequipa,Profesional
+201,MSI,Katana 15,5167.0,45,Piura,Gaming
+202,Apple,MacBook Air M2,5069.0,1,San Isidro,Gaming
+203,MSI,Katana 15,5532.0,14,Centro de Lima,Premium
+204,Acer,Nitro V 15,4391.0,47,Los Olivos,Gaming
+205,MSI,Modern 15,3338.0,35,Trujillo,Profesional
+206,ASUS,Zenbook 14,4534.0,47,Arequipa,Gaming
+207,Dell,Vostro 3520,2434.0,15,Trujillo,Oficina
+208,Lenovo,ThinkPad E14,3932.0,29,Surco,Profesional
+209,HP,15-fd,2191.0,43,Chiclayo,Oficina
+210,Acer,Nitro V 15,3889.0,4,Trujillo,Profesional
+211,MSI,Katana 15,5186.0,32,San Miguel,Gaming
+212,Dell,Vostro 3520,2782.0,59,Arequipa,Profesional
+213,HP,15-fd,1938.0,49,Arequipa,Oficina
+214,HP,15-fd,2007.0,14,Arequipa,Oficina
+215,Apple,MacBook Air M3,6137.0,46,San Isidro,Premium
+216,Dell,Vostro 3520,2868.0,11,Centro de Lima,Profesional
+217,Lenovo,IdeaPad Slim 3,2475.0,21,Surco,Oficina
+218,HP,Pavilion 15,3624.0,22,Surco,Profesional
+219,Acer,Aspire 5,2382.0,44,San Miguel,Oficina
+220,MSI,Katana 15,5514.0,2,Arequipa,Premium
+221,Dell,Inspiron 15,3248.0,31,Piura,Profesional
+222,Apple,MacBook Air M2,4672.0,26,Piura,Gaming
+223,HP,Pavilion 15,3567.0,16,San Miguel,Profesional
+224,Acer,Aspire 5,2759.0,26,Miraflores,Profesional
+225,Apple,MacBook Air M3,5957.0,18,San Miguel,Premium
+226,Dell,Vostro 3520,3018.0,34,Surco,Profesional
+227,MSI,Modern 15,3322.0,18,Arequipa,Profesional
+228,Lenovo,IdeaPad Slim 3,2870.0,16,Centro de Lima,Profesional
+229,Acer,Nitro V 15,4401.0,4,San Miguel,Gaming
+230,Acer,Nitro V 15,4069.0,27,Miraflores,Gaming
+231,Dell,Inspiron 15,3091.0,30,Centro de Lima,Profesional
+232,Dell,Vostro 3520,3056.0,47,Surco,Profesional
+233,HP,Pavilion 15,3301.0,51,Trujillo,Profesional
+234,Lenovo,ThinkPad E14,3128.0,5,San Isidro,Profesional
+235,ASUS,Zenbook 14,4270.0,15,Chiclayo,Gaming
+236,Dell,Vostro 3520,3056.0,41,Los Olivos,Profesional
+237,HP,15-fd,1859.0,8,Arequipa,Oficina
+238,Apple,MacBook Air M2,4893.0,15,Trujillo,Gaming
+239,Lenovo,ThinkPad E14,3163.0,58,Chiclayo,Profesional
+240,HP,15-fd,1831.0,30,Piura,Oficina
+241,Lenovo,IdeaPad Slim 3,2538.0,53,San Miguel,Profesional
+242,Acer,Aspire 5,2143.0,27,Trujillo,Oficina
+243,HP,Pavilion 15,3432.0,19,Piura,Profesional
+244,HP,Pavilion 15,3691.0,56,Arequipa,Profesional
+245,Dell,Inspiron 15,3073.0,50,Chiclayo,Profesional
+246,Lenovo,IdeaPad Slim 3,2926.0,22,Trujillo,Profesional
+247,Dell,Inspiron 15,2708.0,12,San Miguel,Profesional
+248,Lenovo,IdeaPad Slim 3,2457.0,50,San Miguel,Oficina
+249,Dell,Inspiron 15,2713.0,54,Centro de Lima,Profesional
+250,ASUS,Vivobook 15,2903.0,54,Piura,Profesional
+251,Apple,MacBook Air M3,6359.0,60,Los Olivos,Premium
+252,HP,Pavilion 15,3299.0,40,Los Olivos,Profesional
+253,Dell,Vostro 3520,2808.0,7,Chiclayo,Profesional
+254,Acer,Aspire 5,2363.0,5,Arequipa,Oficina
+255,MSI,Modern 15,3089.0,8,Piura,Profesional
+256,HP,15-fd,1964.0,35,San Isidro,Oficina
+257,Dell,Vostro 3520,2964.0,50,San Miguel,Profesional
+258,Dell,Inspiron 15,2911.0,54,Arequipa,Profesional
+259,Acer,Nitro V 15,4170.0,30,San Miguel,Gaming
+260,MSI,Katana 15,5288.0,44,Miraflores,Gaming
+261,Acer,Aspire 5,2268.0,9,Trujillo,Oficina
+262,Lenovo,IdeaPad Slim 3,2653.0,56,Piura,Profesional
+263,ASUS,Vivobook 15,3085.0,23,Piura,Profesional
+264,Apple,MacBook Air M2,4872.0,39,Piura,Gaming
+265,Dell,Vostro 3520,3196.0,18,Miraflores,Profesional
+266,MSI,Modern 15,3122.0,20,Los Olivos,Profesional
+267,MSI,Katana 15,5298.0,23,Trujillo,Gaming
+268,HP,15-fd,2554.0,60,Surco,Profesional
+269,HP,Pavilion 15,3554.0,8,San Isidro,Profesional
+270,Lenovo,ThinkPad E14,3277.0,1,Los Olivos,Profesional
+271,HP,15-fd,2377.0,2,San Miguel,Oficina
+272,MSI,Katana 15,5223.0,21,Arequipa,Gaming
+273,Dell,Vostro 3520,2454.0,13,Miraflores,Oficina
+274,Acer,Aspire 5,2960.0,47,San Isidro,Profesional
+275,MSI,Modern 15,3111.0,31,Centro de Lima,Profesional
+276,Acer,Aspire 5,2959.0,9,Miraflores,Profesional
+277,Acer,Aspire 5,2854.0,50,Surco,Profesional
+278,Apple,MacBook Air M2,4601.0,49,Piura,Gaming
+279,HP,Pavilion 15,3506.0,28,Trujillo,Profesional
+280,Dell,Inspiron 15,2629.0,49,Miraflores,Profesional
+281,Dell,Vostro 3520,3217.0,12,Los Olivos,Profesional
+282,HP,15-fd,2359.0,1,Centro de Lima,Oficina
+283,Apple,MacBook Air M3,5852.0,20,Trujillo,Premium
+284,Dell,Vostro 3520,2936.0,45,San Isidro,Profesional
+285,HP,15-fd,2138.0,53,Piura,Oficina
+286,MSI,Modern 15,3019.0,37,San Isidro,Profesional
+287,ASUS,Zenbook 14,4245.0,39,Los Olivos,Gaming
+288,ASUS,Vivobook 15,3026.0,52,Surco,Profesional
+289,ASUS,Zenbook 14,4684.0,56,Centro de Lima,Gaming
+290,Acer,Aspire 5,2806.0,53,San Miguel,Profesional
+291,Apple,MacBook Air M3,6435.0,12,Piura,Premium
+292,HP,Pavilion 15,2918.0,46,Piura,Profesional
+293,Lenovo,ThinkPad E14,3314.0,6,Piura,Profesional
+294,HP,Pavilion 15,3344.0,46,Los Olivos,Profesional
+295,ASUS,Vivobook 15,2458.0,17,Surco,Oficina
+296,Lenovo,ThinkPad E14,3219.0,26,Los Olivos,Profesional
+297,MSI,Katana 15,5219.0,54,Piura,Gaming
+298,ASUS,Vivobook 15,2461.0,45,San Isidro,Oficina
+299,Apple,MacBook Air M2,5022.0,15,Los Olivos,Gaming
+300,MSI,Katana 15,5693.0,1,San Isidro,Premium
+301,Dell,Inspiron 15,2795.0,56,Centro de Lima,Profesional
+302,ASUS,Vivobook 15,2639.0,10,San Miguel,Profesional
+303,Lenovo,ThinkPad E14,3633.0,31,Trujillo,Profesional
+304,Dell,Vostro 3520,2996.0,1,San Miguel,Profesional
+305,HP,Pavilion 15,3000.0,9,Piura,Profesional
+306,Apple,MacBook Air M3,6215.0,33,Trujillo,Premium
+307,Acer,Aspire 5,2744.0,52,Chiclayo,Profesional
+308,HP,15-fd,2252.0,10,Surco,Oficina
+309,Dell,Inspiron 15,3429.0,49,Los Olivos,Profesional
+310,MSI,Katana 15,5294.0,35,San Miguel,Gaming
+311,Acer,Nitro V 15,4218.0,27,Miraflores,Gaming
+312,ASUS,Zenbook 14,4722.0,23,Arequipa,Gaming
+313,Apple,MacBook Air M2,4852.0,1,Arequipa,Gaming
+314,MSI,Modern 15,3113.0,2,San Isidro,Profesional
+315,ASUS,Zenbook 14,5052.0,18,Los Olivos,Gaming
+316,HP,15-fd,2400.0,4,Piura,Oficina
+317,MSI,Modern 15,3502.0,42,San Miguel,Profesional
+318,Apple,MacBook Air M3,5720.0,23,Centro de Lima,Premium
+319,MSI,Modern 15,3675.0,31,Centro de Lima,Profesional
+320,MSI,Katana 15,5139.0,21,Los Olivos,Gaming
+321,Dell,Inspiron 15,3042.0,56,Miraflores,Profesional
+322,Apple,MacBook Air M2,4624.0,13,Miraflores,Gaming
+323,ASUS,Vivobook 15,2522.0,4,Arequipa,Profesional
+324,ASUS,Zenbook 14,4431.0,10,Arequipa,Gaming
+325,Acer,Nitro V 15,3802.0,17,Trujillo,Profesional
+326,Dell,Inspiron 15,3400.0,36,Chiclayo,Profesional
+327,MSI,Modern 15,3551.0,11,Centro de Lima,Profesional
+328,Acer,Aspire 5,2261.0,10,Surco,Oficina
+329,Apple,MacBook Air M3,5744.0,45,Arequipa,Premium
+330,ASUS,Vivobook 15,2256.0,5,Surco,Oficina
+331,Apple,MacBook Air M2,5083.0,30,Trujillo,Gaming
+332,MSI,Modern 15,3023.0,4,Centro de Lima,Profesional
+333,Dell,Vostro 3520,2587.0,48,Piura,Profesional
+334,Acer,Nitro V 15,4055.0,22,San Miguel,Gaming
+335,Acer,Nitro V 15,4247.0,51,Chiclayo,Gaming
+336,Acer,Nitro V 15,4255.0,10,Los Olivos,Gaming
+337,Apple,MacBook Air M2,4726.0,40,Centro de Lima,Gaming
+338,Dell,Vostro 3520,2657.0,56,Los Olivos,Profesional
+339,MSI,Katana 15,4948.0,10,Trujillo,Gaming
+340,MSI,Katana 15,5498.0,29,Miraflores,Gaming
+341,Lenovo,ThinkPad E14,3556.0,3,Arequipa,Profesional
+342,ASUS,Zenbook 14,4354.0,21,Arequipa,Gaming
+343,Apple,MacBook Air M3,6052.0,55,Piura,Premium
+344,Acer,Nitro V 15,4307.0,3,San Isidro,Gaming
+345,ASUS,Zenbook 14,4603.0,43,Centro de Lima,Gaming
+346,MSI,Modern 15,3482.0,19,Surco,Profesional
+347,ASUS,Zenbook 14,4716.0,43,Centro de Lima,Gaming
+348,ASUS,Vivobook 15,2538.0,59,Centro de Lima,Profesional
+349,HP,Pavilion 15,3193.0,2,Chiclayo,Profesional
+350,Apple,MacBook Air M2,4838.0,8,Miraflores,Gaming
+351,Apple,MacBook Air M2,5306.0,7,Centro de Lima,Gaming
+352,Acer,Aspire 5,2797.0,13,San Isidro,Profesional
+353,Lenovo,IdeaPad Slim 3,2736.0,8,Chiclayo,Profesional
+354,Acer,Nitro V 15,3721.0,57,San Isidro,Profesional
+355,HP,Pavilion 15,3607.0,33,Piura,Profesional
+356,Lenovo,ThinkPad E14,3185.0,55,Los Olivos,Profesional
+357,Dell,Vostro 3520,2456.0,41,Trujillo,Oficina
+358,MSI,Modern 15,2826.0,42,Surco,Profesional
+359,ASUS,Zenbook 14,4965.0,38,Centro de Lima,Gaming
+360,MSI,Katana 15,5418.0,53,Surco,Gaming
+361,Acer,Aspire 5,2331.0,48,Piura,Oficina
+362,Lenovo,IdeaPad Slim 3,3141.0,42,Trujillo,Profesional
+363,ASUS,Vivobook 15,2538.0,37,Los Olivos,Profesional
+364,MSI,Katana 15,5249.0,5,San Isidro,Gaming
+365,ASUS,Zenbook 14,4527.0,23,Surco,Gaming
+366,HP,15-fd,2497.0,18,Trujillo,Oficina
+367,Dell,Inspiron 15,3442.0,56,San Isidro,Profesional
+368,Lenovo,ThinkPad E14,3704.0,22,Trujillo,Profesional
+369,HP,Pavilion 15,3633.0,41,Centro de Lima,Profesional
+370,Dell,Inspiron 15,3207.0,4,Trujillo,Profesional
+371,Lenovo,IdeaPad Slim 3,2404.0,41,San Miguel,Oficina
+372,MSI,Katana 15,5570.0,14,San Isidro,Premium
+373,HP,15-fd,1858.0,13,San Miguel,Oficina
+374,HP,Pavilion 15,3311.0,4,San Miguel,Profesional
+375,Acer,Aspire 5,2662.0,35,Centro de Lima,Profesional
+376,Apple,MacBook Air M3,6194.0,50,Surco,Premium
+377,HP,Pavilion 15,3345.0,33,Chiclayo,Profesional
+378,Acer,Aspire 5,2609.0,30,Los Olivos,Profesional
+379,Acer,Aspire 5,2415.0,21,Centro de Lima,Oficina
+380,Acer,Aspire 5,2199.0,48,San Isidro,Oficina
+381,Lenovo,ThinkPad E14,3544.0,26,Surco,Profesional
+382,ASUS,Vivobook 15,2315.0,44,Piura,Oficina
+383,Apple,MacBook Air M2,5043.0,43,Centro de Lima,Gaming
+384,Dell,Vostro 3520,2700.0,7,San Isidro,Profesional
+385,Acer,Aspire 5,2470.0,35,Miraflores,Oficina
+386,ASUS,Zenbook 14,4572.0,37,Centro de Lima,Gaming
+387,Apple,MacBook Air M2,4946.0,30,Miraflores,Gaming
+388,Dell,Inspiron 15,3215.0,53,Centro de Lima,Profesional
+389,Apple,MacBook Air M3,5769.0,27,Piura,Premium
+390,Apple,MacBook Air M2,5408.0,46,Surco,Gaming
+391,MSI,Katana 15,5454.0,15,Chiclayo,Gaming
+392,Acer,Nitro V 15,4320.0,2,Chiclayo,Gaming
+393,ASUS,Zenbook 14,4400.0,11,San Miguel,Gaming
+394,HP,Pavilion 15,2975.0,7,Centro de Lima,Profesional
+395,Lenovo,IdeaPad Slim 3,2358.0,41,Arequipa,Oficina
+396,HP,15-fd,2463.0,9,San Isidro,Oficina
+397,HP,Pavilion 15,3014.0,29,San Miguel,Profesional
+398,HP,15-fd,2548.0,58,Trujillo,Profesional
+399,Dell,Inspiron 15,2619.0,58,San Miguel,Profesional
+400,Apple,MacBook Air M3,5752.0,49,Los Olivos,Premium
+401,Acer,Aspire 5,2224.0,22,Centro de Lima,Oficina
+402,MSI,Modern 15,2990.0,56,Arequipa,Profesional
+403,Apple,MacBook Air M3,5638.0,26,Miraflores,Premium
+404,Apple,MacBook Air M3,6037.0,39,San Miguel,Premium
+405,MSI,Modern 15,3324.0,17,Chiclayo,Profesional
+406,Dell,Inspiron 15,3161.0,31,Piura,Profesional
+407,HP,15-fd,2239.0,31,Surco,Oficina
+408,Dell,Inspiron 15,2901.0,5,San Isidro,Profesional
+409,HP,15-fd,2078.0,10,San Isidro,Oficina
+410,Acer,Nitro V 15,4228.0,27,San Isidro,Gaming
+411,ASUS,Zenbook 14,4620.0,4,Piura,Gaming
+412,Dell,Inspiron 15,3234.0,1,Miraflores,Profesional
+413,Lenovo,ThinkPad E14,3872.0,10,Miraflores,Profesional
+414,Lenovo,ThinkPad E14,3323.0,27,Piura,Profesional
+415,ASUS,Vivobook 15,2761.0,46,Miraflores,Profesional
+416,ASUS,Zenbook 14,4595.0,34,Trujillo,Gaming
+417,Dell,Inspiron 15,3465.0,6,San Isidro,Profesional
+418,MSI,Modern 15,3126.0,50,San Isidro,Profesional
+419,Dell,Inspiron 15,3183.0,30,Trujillo,Profesional
+420,HP,15-fd,2198.0,11,Chiclayo,Oficina
+421,Apple,MacBook Air M2,5410.0,23,Arequipa,Gaming
+422,Apple,MacBook Air M3,5892.0,56,Centro de Lima,Premium
+423,MSI,Modern 15,2980.0,60,Arequipa,Profesional
+424,Acer,Aspire 5,2670.0,7,Trujillo,Profesional
+425,Acer,Nitro V 15,3812.0,53,Trujillo,Profesional
+426,Acer,Nitro V 15,3944.0,56,Chiclayo,Profesional
+427,Dell,Inspiron 15,3166.0,23,San Miguel,Profesional
+428,ASUS,Vivobook 15,2902.0,57,San Isidro,Profesional
+429,MSI,Katana 15,5258.0,33,Centro de Lima,Gaming
+430,HP,Pavilion 15,3530.0,4,Los Olivos,Profesional
+431,HP,15-fd,2048.0,6,San Miguel,Oficina
+432,HP,Pavilion 15,3060.0,36,San Isidro,Profesional
+433,Apple,MacBook Air M3,6156.0,55,Piura,Premium
+434,MSI,Modern 15,2801.0,33,Arequipa,Profesional
+435,ASUS,Zenbook 14,4467.0,20,Arequipa,Gaming
+436,MSI,Modern 15,2852.0,40,Piura,Profesional
+437,Lenovo,ThinkPad E14,3133.0,41,Piura,Profesional
+438,Dell,Vostro 3520,3019.0,12,Los Olivos,Profesional
+439,HP,15-fd,2463.0,36,Trujillo,Oficina
+440,ASUS,Zenbook 14,4291.0,26,Miraflores,Gaming
+441,Dell,Vostro 3520,3020.0,33,Trujillo,Profesional
+442,Apple,MacBook Air M2,4747.0,1,Chiclayo,Gaming
+443,Lenovo,ThinkPad E14,3113.0,31,Centro de Lima,Profesional
+444,Acer,Aspire 5,2599.0,14,Miraflores,Profesional
+445,Acer,Aspire 5,2107.0,28,Centro de Lima,Oficina
+446,MSI,Modern 15,3530.0,29,San Miguel,Profesional
+447,MSI,Katana 15,5230.0,24,Arequipa,Gaming
+448,Dell,Inspiron 15,2979.0,30,Arequipa,Profesional
+449,Acer,Aspire 5,2209.0,31,San Miguel,Oficina
+450,Dell,Vostro 3520,2533.0,42,Trujillo,Profesional
+451,ASUS,Zenbook 14,4300.0,18,Miraflores,Gaming
+452,Acer,Nitro V 15,4281.0,37,Chiclayo,Gaming
+453,Lenovo,IdeaPad Slim 3,2509.0,39,Chiclayo,Profesional
+454,Lenovo,IdeaPad Slim 3,2535.0,18,Trujillo,Profesional
+455,Apple,MacBook Air M2,5160.0,39,Centro de Lima,Gaming
+456,HP,15-fd,2148.0,44,Piura,Oficina
+457,Lenovo,IdeaPad Slim 3,3031.0,32,Los Olivos,Profesional
+458,Dell,Vostro 3520,2931.0,46,Centro de Lima,Profesional
+459,ASUS,Vivobook 15,2812.0,58,Surco,Profesional
+460,Dell,Vostro 3520,2965.0,16,San Miguel,Profesional
+461,Acer,Aspire 5,2882.0,12,Miraflores,Profesional
+462,MSI,Katana 15,5633.0,52,Surco,Premium
+463,Dell,Vostro 3520,2663.0,57,Piura,Profesional
+464,ASUS,Zenbook 14,4365.0,51,Arequipa,Gaming
+465,Lenovo,IdeaPad Slim 3,2302.0,40,Los Olivos,Oficina
+466,HP,15-fd,2317.0,11,Trujillo,Oficina
+467,MSI,Katana 15,4923.0,37,San Miguel,Gaming
+468,Apple,MacBook Air M3,6204.0,57,Trujillo,Premium
+469,Dell,Vostro 3520,2701.0,48,Miraflores,Profesional
+470,Apple,MacBook Air M3,5851.0,42,Los Olivos,Premium
+471,Dell,Inspiron 15,2727.0,10,Miraflores,Profesional
+472,Acer,Nitro V 15,3939.0,38,Piura,Profesional
+473,Dell,Inspiron 15,2990.0,32,Centro de Lima,Profesional
+474,HP,Pavilion 15,2940.0,48,Surco,Profesional
+475,MSI,Katana 15,5527.0,43,San Isidro,Premium
+476,Acer,Aspire 5,2319.0,23,Piura,Oficina
+477,HP,15-fd,2508.0,55,Arequipa,Profesional
+478,Apple,MacBook Air M3,5915.0,12,San Isidro,Premium
+479,Dell,Vostro 3520,2906.0,7,Piura,Profesional
+480,MSI,Katana 15,5152.0,16,Arequipa,Gaming
+481,Apple,MacBook Air M2,5388.0,41,San Miguel,Gaming
+482,Dell,Vostro 3520,3140.0,1,Chiclayo,Profesional
+483,MSI,Katana 15,5436.0,27,Arequipa,Gaming
+484,MSI,Modern 15,3482.0,5,Centro de Lima,Profesional
+485,Lenovo,ThinkPad E14,3492.0,49,San Miguel,Profesional
+486,HP,Pavilion 15,3143.0,8,Miraflores,Profesional
+487,Apple,MacBook Air M2,5125.0,33,Piura,Gaming
+488,HP,Pavilion 15,3258.0,4,Piura,Profesional
+489,Lenovo,IdeaPad Slim 3,2406.0,24,Centro de Lima,Oficina
+490,Acer,Nitro V 15,3882.0,20,Arequipa,Profesional
+491,Dell,Vostro 3520,2499.0,25,Piura,Oficina
+492,Lenovo,ThinkPad E14,3419.0,37,Chiclayo,Profesional
+493,HP,15-fd,1989.0,56,Arequipa,Oficina
+494,MSI,Modern 15,3195.0,24,Miraflores,Profesional
+495,HP,15-fd,2337.0,40,Piura,Oficina
+496,MSI,Modern 15,3370.0,2,Miraflores,Profesional
+497,ASUS,Zenbook 14,4962.0,37,Miraflores,Gaming
+498,MSI,Modern 15,3593.0,19,Arequipa,Profesional
+499,Lenovo,IdeaPad Slim 3,2419.0,40,Arequipa,Oficina
+500,Acer,Nitro V 15,3858.0,45,San Isidro,Profesional
+501,Dell,Vostro 3520,2494.0,39,San Isidro,Oficina
+502,Apple,MacBook Air M3,5710.0,40,San Isidro,Premium
+503,ASUS,Vivobook 15,3078.0,34,Los Olivos,Profesional
+504,HP,15-fd,2608.0,30,Chiclayo,Profesional
+505,Acer,Aspire 5,2273.0,1,San Isidro,Oficina
+506,MSI,Katana 15,5027.0,26,Chiclayo,Gaming
+507,HP,Pavilion 15,3523.0,55,Piura,Profesional
+508,HP,15-fd,2259.0,28,Chiclayo,Oficina
+509,HP,15-fd,2326.0,30,Piura,Oficina
+510,Acer,Nitro V 15,3966.0,22,Chiclayo,Profesional
+511,HP,15-fd,2364.0,35,Arequipa,Oficina
+512,Apple,MacBook Air M3,6396.0,6,San Miguel,Premium
+513,HP,15-fd,2401.0,2,Centro de Lima,Oficina
+514,Lenovo,IdeaPad Slim 3,2936.0,30,Surco,Profesional
+515,Acer,Nitro V 15,4120.0,43,Surco,Gaming
+516,Dell,Inspiron 15,2734.0,25,Miraflores,Profesional
+517,Lenovo,IdeaPad Slim 3,2679.0,55,San Isidro,Profesional
+518,HP,Pavilion 15,3090.0,19,San Isidro,Profesional
+519,Lenovo,ThinkPad E14,3164.0,19,San Isidro,Profesional
+520,Lenovo,ThinkPad E14,3160.0,29,Arequipa,Profesional
+521,Acer,Nitro V 15,4248.0,8,San Isidro,Gaming
+522,HP,Pavilion 15,3380.0,50,Chiclayo,Profesional
+523,ASUS,Zenbook 14,4643.0,4,Los Olivos,Gaming
+524,Lenovo,ThinkPad E14,3489.0,48,Miraflores,Profesional
+525,HP,15-fd,2468.0,40,Trujillo,Oficina
+526,Acer,Nitro V 15,4134.0,20,Piura,Gaming
+527,MSI,Modern 15,3641.0,31,Los Olivos,Profesional
+528,MSI,Katana 15,5771.0,18,Arequipa,Premium
+529,Acer,Nitro V 15,3622.0,56,Centro de Lima,Profesional
+530,Dell,Inspiron 15,2896.0,51,Los Olivos,Profesional
+531,Apple,MacBook Air M3,5879.0,50,Centro de Lima,Premium
+532,Acer,Nitro V 15,4090.0,39,Piura,Gaming
+533,Apple,MacBook Air M3,6043.0,55,Miraflores,Premium
+534,Acer,Aspire 5,2175.0,16,Centro de Lima,Oficina
+535,Apple,MacBook Air M2,5185.0,52,San Isidro,Gaming
+536,Dell,Vostro 3520,2965.0,15,Centro de Lima,Profesional
+537,Acer,Nitro V 15,4149.0,4,Chiclayo,Gaming
+538,MSI,Modern 15,3178.0,49,Surco,Profesional
+539,Acer,Nitro V 15,3861.0,25,Piura,Profesional
+540,Dell,Vostro 3520,2560.0,44,Surco,Profesional
+541,HP,Pavilion 15,3226.0,46,San Isidro,Profesional
+542,Dell,Inspiron 15,3465.0,52,Trujillo,Profesional
+543,ASUS,Vivobook 15,2816.0,15,Surco,Profesional
+544,Acer,Aspire 5,2921.0,45,San Miguel,Profesional
+545,Lenovo,ThinkPad E14,3521.0,10,Miraflores,Profesional
+546,HP,Pavilion 15,3639.0,48,San Isidro,Profesional
+547,MSI,Modern 15,2960.0,9,Piura,Profesional
+548,Lenovo,ThinkPad E14,3180.0,36,Centro de Lima,Profesional
+549,Dell,Inspiron 15,3153.0,38,San Isidro,Profesional
+550,Apple,MacBook Air M3,6157.0,8,Arequipa,Premium
+551,HP,15-fd,2058.0,26,San Miguel,Oficina
+552,Dell,Vostro 3520,2902.0,55,Chiclayo,Profesional
+553,ASUS,Vivobook 15,2808.0,52,Chiclayo,Profesional
+554,ASUS,Zenbook 14,5049.0,20,San Miguel,Gaming
+555,Apple,MacBook Air M2,5066.0,19,Los Olivos,Gaming
+556,MSI,Katana 15,5327.0,18,San Miguel,Gaming
+557,Dell,Inspiron 15,3380.0,48,Chiclayo,Profesional
+558,MSI,Modern 15,3573.0,42,San Isidro,Profesional
+559,Acer,Nitro V 15,4067.0,21,Chiclayo,Gaming
+560,HP,15-fd,1960.0,31,San Isidro,Oficina
+561,Apple,MacBook Air M2,4915.0,12,San Isidro,Gaming
+562,Apple,MacBook Air M3,6342.0,27,San Isidro,Premium
+563,Lenovo,ThinkPad E14,3941.0,11,Los Olivos,Profesional
+564,Apple,MacBook Air M2,5125.0,13,Chiclayo,Gaming
+565,Lenovo,IdeaPad Slim 3,2413.0,17,San Isidro,Oficina
+566,HP,Pavilion 15,3739.0,42,Chiclayo,Profesional
+567,HP,Pavilion 15,3059.0,10,Chiclayo,Profesional
+568,Acer,Nitro V 15,3647.0,6,Surco,Profesional
+569,Apple,MacBook Air M3,5833.0,7,Chiclayo,Premium
+570,ASUS,Vivobook 15,2316.0,17,Miraflores,Oficina
+571,ASUS,Zenbook 14,4746.0,53,Centro de Lima,Gaming
+572,Dell,Inspiron 15,3468.0,5,Miraflores,Profesional
+573,Dell,Vostro 3520,3041.0,53,Los Olivos,Profesional
+574,Dell,Vostro 3520,3122.0,3,Los Olivos,Profesional
+575,Apple,MacBook Air M2,4707.0,15,Miraflores,Gaming
+576,Acer,Aspire 5,2185.0,35,San Isidro,Oficina
+577,MSI,Katana 15,5694.0,4,Surco,Premium
+578,HP,Pavilion 15,3641.0,54,Los Olivos,Profesional
+579,HP,15-fd,2309.0,30,Piura,Oficina
+580,HP,Pavilion 15,3248.0,30,San Isidro,Profesional
+581,HP,15-fd,2156.0,54,Arequipa,Oficina
+582,Acer,Aspire 5,2973.0,5,San Miguel,Profesional
+583,Acer,Nitro V 15,4368.0,25,Surco,Gaming
+584,HP,15-fd,2465.0,5,Trujillo,Oficina
+585,Acer,Nitro V 15,3658.0,55,Piura,Profesional
+586,Apple,MacBook Air M2,5233.0,43,Surco,Gaming
+587,MSI,Katana 15,5015.0,32,Piura,Gaming
+588,MSI,Modern 15,3350.0,3,Centro de Lima,Profesional
+589,Acer,Aspire 5,2896.0,56,Arequipa,Profesional
+590,Lenovo,IdeaPad Slim 3,2654.0,41,Centro de Lima,Profesional
+591,Apple,MacBook Air M3,6427.0,54,San Miguel,Premium
+592,HP,15-fd,2102.0,19,Miraflores,Oficina
+593,MSI,Katana 15,5680.0,54,Miraflores,Premium
+594,Apple,MacBook Air M3,5694.0,38,Trujillo,Premium
+595,ASUS,Zenbook 14,4827.0,54,Los Olivos,Gaming
+596,HP,15-fd,1816.0,48,San Miguel,Oficina
+597,ASUS,Vivobook 15,2368.0,19,Miraflores,Oficina
+598,MSI,Modern 15,3337.0,7,Surco,Profesional
+599,Apple,MacBook Air M3,5675.0,52,Piura,Premium
+600,ASUS,Vivobook 15,2658.0,3,Arequipa,Profesional
+601,Dell,Inspiron 15,3022.0,38,Miraflores,Profesional
+602,Acer,Nitro V 15,3604.0,16,San Miguel,Profesional
+603,Lenovo,ThinkPad E14,3804.0,4,Chiclayo,Profesional
+604,Apple,MacBook Air M2,5218.0,18,Piura,Gaming
+605,Acer,Aspire 5,2792.0,19,San Miguel,Profesional
+606,Apple,MacBook Air M3,6118.0,31,San Miguel,Premium
+607,HP,15-fd,2697.0,60,Miraflores,Profesional
+608,HP,15-fd,2378.0,40,Los Olivos,Oficina
+609,ASUS,Vivobook 15,2308.0,13,Los Olivos,Oficina
+610,Acer,Aspire 5,2115.0,44,San Isidro,Oficina
+611,Lenovo,ThinkPad E14,3622.0,35,Miraflores,Profesional
+612,ASUS,Zenbook 14,4486.0,16,Surco,Gaming
+613,MSI,Katana 15,5393.0,57,Piura,Gaming
+614,HP,15-fd,1864.0,60,Surco,Oficina
+615,HP,15-fd,1894.0,57,San Isidro,Oficina
+616,HP,Pavilion 15,3482.0,34,Chiclayo,Profesional
+617,Dell,Vostro 3520,2517.0,35,Los Olivos,Profesional
+618,ASUS,Vivobook 15,2951.0,20,Miraflores,Profesional
+619,HP,15-fd,2361.0,58,Trujillo,Oficina
+620,HP,Pavilion 15,3618.0,18,Miraflores,Profesional
+621,Apple,MacBook Air M2,4823.0,13,San Miguel,Gaming
+622,HP,Pavilion 15,3227.0,23,Centro de Lima,Profesional
+623,Apple,MacBook Air M2,4733.0,46,San Isidro,Gaming
+624,Apple,MacBook Air M3,6126.0,42,San Miguel,Premium
+625,MSI,Modern 15,3277.0,30,Piura,Profesional
+626,Dell,Vostro 3520,3136.0,47,Surco,Profesional
+627,Dell,Inspiron 15,3138.0,43,Miraflores,Profesional
+628,Apple,MacBook Air M3,6046.0,51,Surco,Premium
+629,MSI,Modern 15,3329.0,5,Piura,Profesional
+630,Dell,Vostro 3520,3030.0,23,San Isidro,Profesional
+631,Acer,Nitro V 15,4253.0,2,Los Olivos,Gaming
+632,Lenovo,IdeaPad Slim 3,2634.0,11,Centro de Lima,Profesional
+633,Lenovo,ThinkPad E14,3534.0,57,Arequipa,Profesional
+634,Acer,Aspire 5,2233.0,44,Arequipa,Oficina
+635,Lenovo,IdeaPad Slim 3,2938.0,30,Trujillo,Profesional
+636,Acer,Nitro V 15,3683.0,57,Surco,Profesional
+637,ASUS,Vivobook 15,3020.0,11,Piura,Profesional
+638,Dell,Inspiron 15,2707.0,38,Trujillo,Profesional
+639,Lenovo,ThinkPad E14,3921.0,28,Centro de Lima,Profesional
+640,MSI,Katana 15,4917.0,32,Piura,Gaming
+641,Lenovo,IdeaPad Slim 3,2437.0,27,Arequipa,Oficina
+642,Apple,MacBook Air M2,5299.0,23,Surco,Gaming
+643,Dell,Vostro 3520,3292.0,3,San Miguel,Profesional
+644,Apple,MacBook Air M3,6041.0,16,Los Olivos,Premium
+645,HP,Pavilion 15,3538.0,25,Piura,Profesional
+646,Lenovo,IdeaPad Slim 3,3097.0,3,San Miguel,Profesional
+647,MSI,Katana 15,5579.0,28,Surco,Premium
+648,Dell,Vostro 3520,2563.0,14,Chiclayo,Profesional
+649,Dell,Inspiron 15,2717.0,23,Trujillo,Profesional
+650,ASUS,Vivobook 15,2404.0,49,Piura,Oficina
+651,Lenovo,IdeaPad Slim 3,3195.0,42,Chiclayo,Profesional
+652,MSI,Modern 15,3369.0,29,Piura,Profesional
+653,MSI,Katana 15,5481.0,28,Miraflores,Gaming
+654,Dell,Vostro 3520,2941.0,30,San Miguel,Profesional
+655,Apple,MacBook Air M2,4664.0,54,Trujillo,Gaming
+656,ASUS,Vivobook 15,2864.0,45,San Miguel,Profesional
+657,Acer,Aspire 5,2419.0,48,Surco,Oficina
+658,MSI,Modern 15,3072.0,49,Miraflores,Profesional
+659,HP,Pavilion 15,3389.0,39,Los Olivos,Profesional
+660,ASUS,Zenbook 14,4930.0,41,San Isidro,Gaming
+661,Dell,Vostro 3520,2669.0,51,San Miguel,Profesional
+662,Dell,Inspiron 15,2874.0,11,San Isidro,Profesional
+663,HP,15-fd,1825.0,8,Los Olivos,Oficina
+664,HP,Pavilion 15,3368.0,26,Surco,Profesional
+665,Apple,MacBook Air M3,6188.0,42,Miraflores,Premium
+666,ASUS,Zenbook 14,4892.0,33,Piura,Gaming
+667,ASUS,Zenbook 14,4643.0,50,San Isidro,Gaming
+668,Acer,Nitro V 15,4421.0,56,Piura,Gaming
+669,Lenovo,IdeaPad Slim 3,2326.0,6,Los Olivos,Oficina
+670,Acer,Aspire 5,2104.0,2,Miraflores,Oficina
+671,HP,15-fd,2206.0,28,Chiclayo,Oficina
+672,Acer,Nitro V 15,4229.0,17,Surco,Gaming
+673,Dell,Vostro 3520,2548.0,23,Trujillo,Profesional
+674,ASUS,Zenbook 14,4712.0,59,San Isidro,Gaming
+675,Apple,MacBook Air M2,5255.0,27,Chiclayo,Gaming
+676,Lenovo,IdeaPad Slim 3,3116.0,18,Trujillo,Profesional
+677,Apple,MacBook Air M2,5111.0,48,Surco,Gaming
+678,Lenovo,ThinkPad E14,3580.0,8,San Isidro,Profesional
+679,Acer,Nitro V 15,4035.0,57,San Isidro,Gaming
+680,Dell,Vostro 3520,2921.0,56,Piura,Profesional
+681,Dell,Inspiron 15,3282.0,50,Trujillo,Profesional
+682,Apple,MacBook Air M3,6014.0,19,San Isidro,Premium
+683,MSI,Katana 15,5712.0,35,Surco,Premium
+684,Dell,Vostro 3520,2673.0,51,San Isidro,Profesional
+685,ASUS,Vivobook 15,2847.0,50,Arequipa,Profesional
+686,Acer,Nitro V 15,4207.0,22,Chiclayo,Gaming
+687,Dell,Inspiron 15,2923.0,23,Chiclayo,Profesional
+688,Acer,Aspire 5,2873.0,56,Arequipa,Profesional
+689,Apple,MacBook Air M3,6427.0,56,Surco,Premium
+690,Acer,Nitro V 15,4123.0,10,San Isidro,Gaming
+691,Lenovo,IdeaPad Slim 3,2802.0,34,Trujillo,Profesional
+692,Lenovo,ThinkPad E14,3653.0,57,Piura,Profesional
+693,MSI,Modern 15,3283.0,38,Chiclayo,Profesional
+694,Apple,MacBook Air M2,4720.0,17,Chiclayo,Gaming
+695,Lenovo,ThinkPad E14,3509.0,13,Arequipa,Profesional
+696,Dell,Inspiron 15,3458.0,20,Miraflores,Profesional
+697,ASUS,Zenbook 14,4725.0,17,Miraflores,Gaming
+698,Lenovo,ThinkPad E14,3341.0,38,San Miguel,Profesional
+699,Apple,MacBook Air M2,5379.0,5,San Miguel,Gaming
+700,Dell,Inspiron 15,3186.0,30,Centro de Lima,Profesional
+701,ASUS,Zenbook 14,4763.0,19,Chiclayo,Gaming
+702,HP,Pavilion 15,3596.0,16,Trujillo,Profesional
+703,Acer,Nitro V 15,4484.0,29,Chiclayo,Gaming
+704,Dell,Vostro 3520,2631.0,52,San Miguel,Profesional
+705,Acer,Aspire 5,2597.0,21,San Isidro,Profesional
+706,ASUS,Zenbook 14,4460.0,37,Miraflores,Gaming
+707,MSI,Modern 15,3231.0,43,Los Olivos,Profesional
+708,Apple,MacBook Air M2,5153.0,38,San Miguel,Gaming
+709,Acer,Aspire 5,2616.0,8,Surco,Profesional
+710,Lenovo,ThinkPad E14,3968.0,51,Miraflores,Profesional
+711,ASUS,Vivobook 15,2618.0,42,Los Olivos,Profesional
+712,Apple,MacBook Air M3,5993.0,13,Trujillo,Premium
+713,Apple,MacBook Air M3,6055.0,50,Arequipa,Premium
+714,ASUS,Zenbook 14,4342.0,19,Chiclayo,Gaming
+715,Lenovo,IdeaPad Slim 3,2549.0,32,Trujillo,Profesional
+716,Acer,Nitro V 15,3881.0,11,Piura,Profesional
+717,HP,Pavilion 15,3297.0,37,San Isidro,Profesional
+718,HP,Pavilion 15,3357.0,6,San Miguel,Profesional
+719,Dell,Inspiron 15,3339.0,25,Surco,Profesional
+720,Dell,Inspiron 15,2904.0,9,Trujillo,Profesional
+721,ASUS,Vivobook 15,2598.0,27,San Isidro,Profesional
+722,MSI,Modern 15,3454.0,35,Piura,Profesional
+723,HP,Pavilion 15,3523.0,55,Chiclayo,Profesional
+724,ASUS,Vivobook 15,3074.0,48,Chiclayo,Profesional
+725,ASUS,Zenbook 14,4896.0,34,Trujillo,Gaming
+726,MSI,Katana 15,5164.0,36,Trujillo,Gaming
+727,Acer,Nitro V 15,3953.0,2,Trujillo,Profesional
+728,HP,15-fd,2023.0,14,Arequipa,Oficina
+729,ASUS,Vivobook 15,3036.0,10,Arequipa,Profesional
+730,MSI,Modern 15,3484.0,42,Centro de Lima,Profesional
+731,Acer,Nitro V 15,3818.0,14,Centro de Lima,Profesional
+732,Lenovo,IdeaPad Slim 3,3037.0,50,San Miguel,Profesional
+733,ASUS,Zenbook 14,4540.0,35,San Miguel,Gaming
+734,Acer,Aspire 5,2131.0,42,Chiclayo,Oficina
+735,Lenovo,ThinkPad E14,3307.0,1,San Isidro,Profesional
+736,HP,Pavilion 15,3239.0,25,San Isidro,Profesional
+737,Acer,Aspire 5,2868.0,31,Arequipa,Profesional
+738,ASUS,Zenbook 14,4910.0,3,Chiclayo,Gaming
+739,Lenovo,IdeaPad Slim 3,3184.0,9,Miraflores,Profesional
+740,Lenovo,ThinkPad E14,3512.0,13,Surco,Profesional
+741,MSI,Katana 15,5531.0,39,Surco,Premium
+742,HP,Pavilion 15,3285.0,26,Arequipa,Profesional
+743,MSI,Modern 15,3403.0,4,Piura,Profesional
+744,MSI,Katana 15,5507.0,50,San Miguel,Premium
+745,HP,15-fd,2060.0,13,San Isidro,Oficina
+746,Acer,Nitro V 15,3935.0,55,Chiclayo,Profesional
+747,Apple,MacBook Air M3,6227.0,34,Chiclayo,Premium
+748,Dell,Inspiron 15,3190.0,34,Surco,Profesional
+749,ASUS,Zenbook 14,4741.0,15,Piura,Gaming
+750,Dell,Vostro 3520,2665.0,4,Piura,Profesional
+751,Lenovo,IdeaPad Slim 3,2443.0,16,Arequipa,Oficina
+752,Lenovo,ThinkPad E14,3925.0,49,Chiclayo,Profesional
+753,HP,Pavilion 15,3554.0,23,Piura,Profesional
+754,HP,15-fd,2682.0,26,Miraflores,Profesional
+755,Apple,MacBook Air M3,6439.0,49,Piura,Premium
+756,Lenovo,ThinkPad E14,3582.0,50,Piura,Profesional
+757,MSI,Katana 15,5033.0,8,Surco,Gaming
+758,Apple,MacBook Air M2,5328.0,2,Centro de Lima,Gaming
+759,Dell,Vostro 3520,2791.0,29,Arequipa,Profesional
+760,Acer,Nitro V 15,4121.0,22,Centro de Lima,Gaming
+761,Lenovo,ThinkPad E14,3197.0,43,Miraflores,Profesional
+762,Apple,MacBook Air M3,6023.0,60,Piura,Premium
+763,Dell,Inspiron 15,2631.0,23,Surco,Profesional
+764,Dell,Inspiron 15,3096.0,21,Centro de Lima,Profesional
+765,MSI,Katana 15,4910.0,14,Miraflores,Gaming
+766,ASUS,Zenbook 14,4861.0,49,San Miguel,Gaming
+767,ASUS,Zenbook 14,5005.0,57,San Miguel,Gaming
+768,ASUS,Zenbook 14,4387.0,50,San Isidro,Gaming
+769,Dell,Inspiron 15,3028.0,49,Trujillo,Profesional
+770,Acer,Aspire 5,2619.0,2,Centro de Lima,Profesional
+771,MSI,Katana 15,5658.0,13,Chiclayo,Premium
+772,MSI,Katana 15,5570.0,22,Chiclayo,Premium
+773,HP,15-fd,2506.0,15,Trujillo,Profesional
+774,Acer,Aspire 5,2643.0,17,San Isidro,Profesional
+775,MSI,Modern 15,3504.0,29,Arequipa,Profesional
+776,HP,15-fd,2407.0,45,Trujillo,Oficina
+777,Lenovo,ThinkPad E14,3721.0,22,Piura,Profesional
+778,Lenovo,ThinkPad E14,3233.0,30,Los Olivos,Profesional
+779,Acer,Nitro V 15,4481.0,33,Piura,Gaming
+780,MSI,Katana 15,5000.0,26,Centro de Lima,Gaming
+781,Acer,Aspire 5,2408.0,20,Arequipa,Oficina
+782,Lenovo,ThinkPad E14,3999.0,58,Miraflores,Profesional
+783,Apple,MacBook Air M2,4785.0,60,Chiclayo,Gaming
+784,Apple,MacBook Air M3,6078.0,13,Arequipa,Premium
+785,Acer,Nitro V 15,3690.0,40,Los Olivos,Profesional
+786,Apple,MacBook Air M3,6350.0,60,Arequipa,Premium
+787,HP,Pavilion 15,3640.0,4,Los Olivos,Profesional
+788,Acer,Nitro V 15,4193.0,33,Chiclayo,Gaming
+789,Apple,MacBook Air M3,6193.0,42,Trujillo,Premium
+790,Lenovo,ThinkPad E14,3874.0,19,Chiclayo,Profesional
+791,Acer,Nitro V 15,4244.0,1,Chiclayo,Gaming
+792,Acer,Aspire 5,2453.0,38,Los Olivos,Oficina
+793,Apple,MacBook Air M3,6425.0,54,Piura,Premium
+794,Lenovo,ThinkPad E14,3953.0,52,Chiclayo,Profesional
+795,Acer,Aspire 5,2383.0,8,Chiclayo,Oficina
+796,Apple,MacBook Air M3,5727.0,37,San Isidro,Premium
+797,HP,Pavilion 15,3332.0,33,San Isidro,Profesional
+798,Dell,Inspiron 15,3117.0,34,Centro de Lima,Profesional
+799,Dell,Vostro 3520,2509.0,39,Chiclayo,Profesional
+800,HP,Pavilion 15,2903.0,52,Piura,Profesional
+801,Lenovo,IdeaPad Slim 3,2801.0,40,Surco,Profesional
+802,Lenovo,IdeaPad Slim 3,2673.0,2,Chiclayo,Profesional
+803,Apple,MacBook Air M3,5967.0,3,Los Olivos,Premium
+804,HP,15-fd,2633.0,16,San Miguel,Profesional
+805,MSI,Katana 15,4914.0,19,Arequipa,Gaming
+806,Lenovo,IdeaPad Slim 3,2694.0,57,San Miguel,Profesional
+807,MSI,Katana 15,5142.0,30,Piura,Gaming
+808,Dell,Vostro 3520,3178.0,40,San Miguel,Profesional
+809,MSI,Modern 15,2954.0,4,San Isidro,Profesional
+810,HP,Pavilion 15,3454.0,1,Chiclayo,Profesional
+811,MSI,Modern 15,2809.0,43,Chiclayo,Profesional
+812,Dell,Vostro 3520,2407.0,5,Miraflores,Oficina
+813,Lenovo,ThinkPad E14,3880.0,40,Arequipa,Profesional
+814,HP,Pavilion 15,3720.0,40,San Miguel,Profesional
+815,HP,Pavilion 15,3648.0,24,San Isidro,Profesional
+816,Acer,Aspire 5,2235.0,23,Los Olivos,Oficina
+817,Apple,MacBook Air M2,5220.0,2,Piura,Gaming
+818,ASUS,Zenbook 14,4504.0,13,Piura,Gaming
+819,Lenovo,IdeaPad Slim 3,2901.0,57,San Isidro,Profesional
+820,HP,Pavilion 15,3448.0,10,Surco,Profesional
+821,HP,Pavilion 15,3447.0,11,Chiclayo,Profesional
+822,Lenovo,ThinkPad E14,3733.0,47,Arequipa,Profesional
+823,Dell,Vostro 3520,3225.0,39,Miraflores,Profesional
+824,Dell,Inspiron 15,3301.0,30,Piura,Profesional
+825,Apple,MacBook Air M2,4661.0,26,San Miguel,Gaming
+826,ASUS,Vivobook 15,2583.0,53,San Miguel,Profesional
+827,Lenovo,ThinkPad E14,3899.0,58,Surco,Profesional
+828,Lenovo,ThinkPad E14,3749.0,34,Chiclayo,Profesional
+829,Lenovo,ThinkPad E14,3502.0,30,Los Olivos,Profesional
+830,HP,15-fd,2589.0,20,Los Olivos,Profesional
+831,Dell,Vostro 3520,2562.0,22,Piura,Profesional
+832,Dell,Inspiron 15,3314.0,20,Miraflores,Profesional
+833,Lenovo,IdeaPad Slim 3,2588.0,24,San Miguel,Profesional
+834,Acer,Aspire 5,2186.0,25,Miraflores,Oficina
+835,HP,15-fd,2451.0,39,Arequipa,Oficina
+836,HP,Pavilion 15,3170.0,1,San Miguel,Profesional
+837,MSI,Katana 15,5386.0,9,Miraflores,Gaming
+838,Acer,Nitro V 15,3852.0,39,Los Olivos,Profesional
+839,MSI,Katana 15,5667.0,12,Centro de Lima,Premium
+840,Apple,MacBook Air M2,5495.0,54,Chiclayo,Gaming
+841,Acer,Aspire 5,2496.0,31,Surco,Oficina
+842,MSI,Katana 15,5502.0,13,San Miguel,Premium
+843,ASUS,Vivobook 15,2889.0,38,Piura,Profesional
+844,HP,15-fd,2637.0,60,San Isidro,Profesional
+845,MSI,Modern 15,3398.0,25,San Miguel,Profesional
+846,Lenovo,ThinkPad E14,3460.0,3,San Isidro,Profesional
+847,Dell,Vostro 3520,2479.0,58,Arequipa,Oficina
+848,Apple,MacBook Air M2,4994.0,51,Piura,Gaming
+849,Dell,Vostro 3520,2662.0,60,Arequipa,Profesional
+850,Dell,Vostro 3520,3202.0,22,Los Olivos,Profesional
+851,Dell,Vostro 3520,2702.0,44,Los Olivos,Profesional
+852,ASUS,Vivobook 15,2570.0,19,Piura,Profesional
+853,Lenovo,ThinkPad E14,3380.0,57,Chiclayo,Profesional
+854,Dell,Vostro 3520,2454.0,46,Miraflores,Oficina
+855,Apple,MacBook Air M3,5943.0,30,Piura,Premium
+856,Apple,MacBook Air M3,5849.0,55,Arequipa,Premium
+857,Dell,Inspiron 15,2642.0,49,Centro de Lima,Profesional
+858,Acer,Nitro V 15,4180.0,19,Trujillo,Gaming
+859,ASUS,Vivobook 15,3017.0,26,Surco,Profesional
+860,ASUS,Zenbook 14,5045.0,2,Los Olivos,Gaming
+861,ASUS,Vivobook 15,2337.0,2,Chiclayo,Oficina
+862,Lenovo,IdeaPad Slim 3,3018.0,11,San Miguel,Profesional
+863,Acer,Aspire 5,2243.0,4,Los Olivos,Oficina
+864,ASUS,Vivobook 15,2507.0,21,San Miguel,Profesional
+865,ASUS,Zenbook 14,5010.0,36,Chiclayo,Gaming
+866,Acer,Aspire 5,2843.0,28,San Isidro,Profesional
+867,ASUS,Zenbook 14,4935.0,25,Arequipa,Gaming
+868,Apple,MacBook Air M3,5930.0,22,Piura,Premium
+869,HP,15-fd,2021.0,44,Los Olivos,Oficina
+870,ASUS,Vivobook 15,2939.0,39,San Miguel,Profesional
+871,Lenovo,IdeaPad Slim 3,2746.0,57,Trujillo,Profesional
+872,ASUS,Zenbook 14,4769.0,8,Chiclayo,Gaming
+873,Acer,Aspire 5,2117.0,48,San Isidro,Oficina
+874,Dell,Inspiron 15,2877.0,15,Arequipa,Profesional
+875,MSI,Katana 15,4941.0,29,Piura,Gaming
+876,Acer,Aspire 5,2759.0,35,Miraflores,Profesional
+877,ASUS,Zenbook 14,4453.0,41,Los Olivos,Gaming
+878,ASUS,Zenbook 14,4567.0,40,Trujillo,Gaming
+879,Dell,Vostro 3520,3126.0,60,Trujillo,Profesional
+880,Lenovo,ThinkPad E14,3852.0,50,Trujillo,Profesional
+881,Dell,Inspiron 15,2639.0,14,Surco,Profesional
+882,HP,15-fd,2139.0,59,Trujillo,Oficina
+883,MSI,Katana 15,5020.0,52,Los Olivos,Gaming
+884,Dell,Vostro 3520,2569.0,5,Arequipa,Profesional
+885,Lenovo,ThinkPad E14,3925.0,51,Piura,Profesional
+886,MSI,Modern 15,3686.0,34,San Isidro,Profesional
+887,Dell,Vostro 3520,2605.0,37,San Miguel,Profesional
+888,HP,15-fd,2027.0,30,Chiclayo,Oficina
+889,Lenovo,IdeaPad Slim 3,2823.0,7,Surco,Profesional
+890,Acer,Nitro V 15,3646.0,33,Centro de Lima,Profesional
+891,ASUS,Zenbook 14,4771.0,24,San Isidro,Gaming
+892,Lenovo,IdeaPad Slim 3,2383.0,49,Surco,Oficina
+893,ASUS,Vivobook 15,2843.0,46,Arequipa,Profesional
+894,Apple,MacBook Air M3,5968.0,2,Surco,Premium
+895,MSI,Katana 15,5579.0,56,Trujillo,Premium
+896,HP,15-fd,1813.0,31,Surco,Oficina
+897,MSI,Katana 15,5713.0,15,Piura,Premium
+898,MSI,Katana 15,5479.0,50,San Isidro,Gaming
+899,Dell,Vostro 3520,3023.0,8,San Miguel,Profesional
+900,Lenovo,IdeaPad Slim 3,2772.0,49,Miraflores,Profesional
+901,ASUS,Vivobook 15,2805.0,11,Miraflores,Profesional
+902,HP,15-fd,2147.0,41,Chiclayo,Oficina
+903,ASUS,Vivobook 15,2414.0,27,Arequipa,Oficina
+904,Dell,Inspiron 15,3356.0,17,Centro de Lima,Profesional
+905,Acer,Aspire 5,2683.0,36,Arequipa,Profesional
+906,Lenovo,IdeaPad Slim 3,2556.0,36,Los Olivos,Profesional
+907,MSI,Modern 15,3430.0,56,Piura,Profesional
+908,MSI,Modern 15,2861.0,23,Centro de Lima,Profesional
+909,Dell,Inspiron 15,2644.0,24,Los Olivos,Profesional
+910,Dell,Inspiron 15,3160.0,5,San Miguel,Profesional
+911,Lenovo,IdeaPad Slim 3,2479.0,28,Los Olivos,Oficina
+912,Dell,Inspiron 15,2717.0,47,Centro de Lima,Profesional
+913,Dell,Vostro 3520,3145.0,24,Trujillo,Profesional
+914,ASUS,Zenbook 14,4537.0,8,Centro de Lima,Gaming
+915,MSI,Katana 15,5386.0,48,San Miguel,Gaming
+916,Acer,Aspire 5,2549.0,4,Chiclayo,Profesional
+917,Lenovo,IdeaPad Slim 3,2393.0,23,Trujillo,Oficina
+918,MSI,Katana 15,5042.0,34,Centro de Lima,Gaming
+919,Acer,Aspire 5,2552.0,8,San Isidro,Profesional
+920,Apple,MacBook Air M2,5044.0,12,Los Olivos,Gaming
+921,Dell,Vostro 3520,2435.0,58,Miraflores,Oficina
+922,Dell,Inspiron 15,3469.0,60,Trujillo,Profesional
+923,ASUS,Zenbook 14,4681.0,45,Chiclayo,Gaming
+924,ASUS,Vivobook 15,3006.0,10,Arequipa,Profesional
+925,ASUS,Zenbook 14,4238.0,22,Surco,Gaming
+926,MSI,Modern 15,3309.0,2,San Isidro,Profesional
+927,MSI,Modern 15,3176.0,3,Trujillo,Profesional
+928,MSI,Katana 15,5731.0,33,San Isidro,Premium
+929,Lenovo,IdeaPad Slim 3,2805.0,47,Surco,Profesional
+930,Acer,Aspire 5,2720.0,39,Trujillo,Profesional
+931,Acer,Nitro V 15,3650.0,3,Chiclayo,Profesional
+932,Apple,MacBook Air M3,6012.0,49,Chiclayo,Premium
+933,Dell,Vostro 3520,2527.0,59,Los Olivos,Profesional
+934,Apple,MacBook Air M3,6073.0,22,Arequipa,Premium
+935,Apple,MacBook Air M3,6269.0,41,Los Olivos,Premium
+936,Dell,Inspiron 15,2804.0,32,Piura,Profesional
+937,Lenovo,ThinkPad E14,3826.0,60,Trujillo,Profesional
+938,Lenovo,ThinkPad E14,3160.0,28,Chiclayo,Profesional
+939,Dell,Inspiron 15,3177.0,9,Chiclayo,Profesional
+940,Lenovo,IdeaPad Slim 3,2844.0,28,Arequipa,Profesional
+941,Apple,MacBook Air M2,4920.0,26,San Miguel,Gaming
+942,ASUS,Vivobook 15,2768.0,19,Arequipa,Profesional
+943,Acer,Aspire 5,2493.0,4,Arequipa,Oficina
+944,Acer,Nitro V 15,3973.0,13,San Miguel,Profesional
+945,Acer,Nitro V 15,4109.0,12,Chiclayo,Gaming
+946,HP,15-fd,1956.0,46,Los Olivos,Oficina
+947,Acer,Aspire 5,2900.0,5,Piura,Profesional
+948,Apple,MacBook Air M2,4966.0,55,Surco,Gaming
+949,ASUS,Zenbook 14,5039.0,41,Miraflores,Gaming
+950,Lenovo,IdeaPad Slim 3,2316.0,57,San Miguel,Oficina
+951,HP,Pavilion 15,3216.0,23,San Isidro,Profesional
+952,Dell,Inspiron 15,3414.0,57,Piura,Profesional
+953,Apple,MacBook Air M2,5096.0,59,Miraflores,Gaming
+954,HP,Pavilion 15,3221.0,31,Miraflores,Profesional
+955,Dell,Vostro 3520,2437.0,25,San Miguel,Oficina
+956,HP,15-fd,1886.0,35,Piura,Oficina
+957,Apple,MacBook Air M3,6217.0,57,Chiclayo,Premium
+958,Lenovo,ThinkPad E14,3461.0,40,Los Olivos,Profesional
+959,Acer,Nitro V 15,3761.0,24,Arequipa,Profesional
+960,Lenovo,IdeaPad Slim 3,2313.0,7,Los Olivos,Oficina
+961,Lenovo,IdeaPad Slim 3,2751.0,19,San Isidro,Profesional
+962,Dell,Vostro 3520,3002.0,48,Miraflores,Profesional
+963,Acer,Nitro V 15,3790.0,1,Miraflores,Profesional
+964,MSI,Modern 15,3024.0,50,Piura,Profesional
+965,ASUS,Vivobook 15,2455.0,28,Chiclayo,Oficina
+966,HP,Pavilion 15,3236.0,37,Los Olivos,Profesional
+967,Apple,MacBook Air M3,5749.0,16,Centro de Lima,Premium
+968,Acer,Aspire 5,2247.0,6,Arequipa,Oficina
+969,ASUS,Zenbook 14,4832.0,44,Surco,Gaming
+970,Acer,Nitro V 15,3657.0,47,Surco,Profesional
+971,ASUS,Vivobook 15,2519.0,28,Miraflores,Profesional
+972,Apple,MacBook Air M2,5093.0,4,Los Olivos,Gaming
+973,HP,15-fd,2256.0,29,Piura,Oficina
+974,Apple,MacBook Air M2,5323.0,43,Centro de Lima,Gaming
+975,MSI,Katana 15,5204.0,22,Arequipa,Gaming
+976,Acer,Nitro V 15,3744.0,39,San Miguel,Profesional
+977,Acer,Nitro V 15,4469.0,46,Trujillo,Gaming
+978,Acer,Nitro V 15,3721.0,31,Trujillo,Profesional
+979,ASUS,Zenbook 14,4611.0,53,Trujillo,Gaming
+980,HP,Pavilion 15,3698.0,33,Surco,Profesional
+981,Lenovo,IdeaPad Slim 3,3168.0,35,Piura,Profesional
+982,MSI,Katana 15,5612.0,31,Los Olivos,Premium
+983,Dell,Vostro 3520,3044.0,8,San Isidro,Profesional
+984,Dell,Vostro 3520,3172.0,35,Trujillo,Profesional
+985,HP,15-fd,1853.0,34,Los Olivos,Oficina
+986,Apple,MacBook Air M3,5674.0,27,Arequipa,Premium
+987,MSI,Modern 15,2853.0,52,Miraflores,Profesional
+988,HP,15-fd,2287.0,24,Chiclayo,Oficina
+989,Acer,Aspire 5,2969.0,24,Miraflores,Profesional
+990,HP,Pavilion 15,3198.0,3,San Isidro,Profesional
+991,Apple,MacBook Air M3,6211.0,1,Miraflores,Premium
+992,HP,Pavilion 15,3199.0,60,San Isidro,Profesional
+993,Dell,Inspiron 15,3136.0,48,Los Olivos,Profesional
+994,Dell,Inspiron 15,3392.0,21,San Isidro,Profesional
+995,Acer,Nitro V 15,4492.0,48,Los Olivos,Gaming
+996,MSI,Katana 15,5326.0,60,Arequipa,Gaming
+997,HP,Pavilion 15,3098.0,1,Centro de Lima,Profesional
+998,Lenovo,IdeaPad Slim 3,3197.0,46,Centro de Lima,Profesional
+999,ASUS,Vivobook 15,3033.0,33,Centro de Lima,Profesional
+1000,Lenovo,IdeaPad Slim 3,2319.0,17,Piura,Oficina
+1001,ASUS,Zenbook 14,4338.0,18,Miraflores,Gaming
+1002,Apple,MacBook Air M3,5715.0,39,Arequipa,Premium
+1003,Dell,Inspiron 15,3406.0,57,Arequipa,Profesional
+1004,ASUS,Vivobook 15,2942.0,36,Miraflores,Profesional
+1005,MSI,Katana 15,5485.0,29,Los Olivos,Gaming
+1006,Dell,Inspiron 15,2780.0,20,Arequipa,Profesional
+1007,HP,15-fd,2635.0,51,Arequipa,Profesional
+1008,Lenovo,ThinkPad E14,3443.0,55,San Miguel,Profesional
+1009,Apple,MacBook Air M3,5696.0,10,San Isidro,Premium
+1010,Apple,MacBook Air M2,4862.0,22,San Miguel,Gaming
+1011,HP,Pavilion 15,3262.0,46,Centro de Lima,Profesional
+1012,ASUS,Zenbook 14,4289.0,51,Los Olivos,Gaming
+1013,MSI,Katana 15,4936.0,31,San Isidro,Gaming
+1014,MSI,Modern 15,3039.0,46,Piura,Profesional
+1015,HP,Pavilion 15,3415.0,18,Miraflores,Profesional
+1016,Lenovo,ThinkPad E14,3970.0,19,Trujillo,Profesional
+1017,Lenovo,ThinkPad E14,3889.0,1,Los Olivos,Profesional
+1018,Apple,MacBook Air M3,6341.0,53,Trujillo,Premium
+1019,HP,15-fd,2379.0,52,Centro de Lima,Oficina
+1020,MSI,Modern 15,3142.0,39,San Isidro,Profesional
+1021,Acer,Nitro V 15,4492.0,16,Arequipa,Gaming
+1022,Acer,Aspire 5,2321.0,37,Arequipa,Oficina
+1023,Dell,Vostro 3520,2831.0,51,Chiclayo,Profesional
+1024,Apple,MacBook Air M3,6344.0,23,Arequipa,Premium
+1025,Lenovo,IdeaPad Slim 3,3144.0,41,Chiclayo,Profesional
+1026,Apple,MacBook Air M3,6183.0,49,Chiclayo,Premium
+1027,HP,15-fd,2564.0,53,Surco,Profesional
+1028,HP,Pavilion 15,3395.0,33,San Isidro,Profesional
+1029,Apple,MacBook Air M2,5255.0,38,Piura,Gaming
+1030,HP,15-fd,2234.0,4,Arequipa,Oficina
+1031,HP,15-fd,2658.0,14,Piura,Profesional
+1032,Dell,Inspiron 15,3398.0,17,Arequipa,Profesional
+1033,Lenovo,ThinkPad E14,3343.0,18,Arequipa,Profesional
+1034,Lenovo,ThinkPad E14,3136.0,23,Arequipa,Profesional
+1035,MSI,Modern 15,3177.0,51,San Miguel,Profesional
+1036,MSI,Modern 15,3542.0,14,Miraflores,Profesional
+1037,ASUS,Zenbook 14,4493.0,46,Piura,Gaming
+1038,Lenovo,ThinkPad E14,3870.0,23,Chiclayo,Profesional
+1039,ASUS,Vivobook 15,2605.0,8,Miraflores,Profesional
+1040,Dell,Inspiron 15,3033.0,36,Surco,Profesional
+1041,Dell,Inspiron 15,2729.0,57,San Miguel,Profesional
+1042,Apple,MacBook Air M2,4820.0,59,Chiclayo,Gaming
+1043,HP,15-fd,1868.0,51,San Miguel,Oficina
+1044,HP,15-fd,2448.0,18,Surco,Oficina
+1045,Acer,Aspire 5,2986.0,44,Surco,Profesional
+1046,Dell,Vostro 3520,2792.0,39,Miraflores,Profesional
+1047,Acer,Nitro V 15,3947.0,41,Miraflores,Profesional
+1048,ASUS,Vivobook 15,2703.0,23,Arequipa,Profesional
+1049,HP,15-fd,2302.0,37,Arequipa,Oficina
+1050,Lenovo,ThinkPad E14,3885.0,54,Miraflores,Profesional
+1051,Lenovo,IdeaPad Slim 3,2795.0,19,Piura,Profesional
+1052,HP,Pavilion 15,3097.0,25,Surco,Profesional
+1053,Dell,Inspiron 15,2968.0,50,Centro de Lima,Profesional
+1054,MSI,Katana 15,5274.0,49,Trujillo,Gaming
+1055,ASUS,Vivobook 15,2796.0,21,Piura,Profesional
+1056,ASUS,Zenbook 14,4468.0,28,San Isidro,Gaming
+1057,Lenovo,ThinkPad E14,3376.0,46,San Isidro,Profesional
+1058,Apple,MacBook Air M3,6451.0,16,Piura,Premium
+1059,Apple,MacBook Air M2,5460.0,40,Miraflores,Gaming
+1060,ASUS,Vivobook 15,2863.0,18,Arequipa,Profesional
+1061,MSI,Katana 15,5411.0,6,Chiclayo,Gaming
+1062,Dell,Inspiron 15,3156.0,41,Miraflores,Profesional
+1063,Dell,Inspiron 15,3147.0,33,Piura,Profesional
+1064,ASUS,Zenbook 14,4881.0,49,Trujillo,Gaming
+1065,MSI,Modern 15,2960.0,60,Trujillo,Profesional
+1066,Dell,Vostro 3520,2905.0,59,Los Olivos,Profesional
+1067,MSI,Modern 15,3472.0,5,Los Olivos,Profesional
+1068,HP,Pavilion 15,3637.0,32,San Isidro,Profesional
+1069,ASUS,Vivobook 15,2646.0,36,San Miguel,Profesional
+1070,Lenovo,IdeaPad Slim 3,3083.0,12,Surco,Profesional
+1071,Dell,Vostro 3520,2402.0,38,San Miguel,Oficina
+1072,Apple,MacBook Air M2,4970.0,32,Miraflores,Gaming
+1073,HP,15-fd,2012.0,57,Miraflores,Oficina
+1074,Acer,Aspire 5,2344.0,1,San Miguel,Oficina
+1075,HP,15-fd,2242.0,7,Los Olivos,Oficina
+1076,HP,15-fd,2364.0,15,Piura,Oficina
+1077,MSI,Modern 15,2977.0,47,Arequipa,Profesional
+1078,MSI,Katana 15,5543.0,10,Los Olivos,Premium
+1079,HP,15-fd,1962.0,17,Los Olivos,Oficina
+1080,MSI,Katana 15,5795.0,39,San Miguel,Premium
+1081,Dell,Inspiron 15,2667.0,7,San Isidro,Profesional
+1082,ASUS,Vivobook 15,2918.0,10,San Isidro,Profesional
+1083,ASUS,Zenbook 14,4805.0,50,Surco,Gaming
+1084,Acer,Nitro V 15,4035.0,35,San Miguel,Gaming
+1085,ASUS,Zenbook 14,4789.0,5,Miraflores,Gaming
+1086,Apple,MacBook Air M2,4654.0,9,Los Olivos,Gaming
+1087,Lenovo,IdeaPad Slim 3,3104.0,3,Los Olivos,Profesional
+1088,ASUS,Zenbook 14,4244.0,41,San Isidro,Gaming
+1089,MSI,Modern 15,3202.0,20,Trujillo,Profesional
+1090,MSI,Katana 15,5736.0,48,Los Olivos,Premium
+1091,Lenovo,ThinkPad E14,3440.0,43,Arequipa,Profesional
+1092,HP,15-fd,1992.0,37,San Miguel,Oficina
+1093,Acer,Aspire 5,2924.0,53,Trujillo,Profesional
+1094,ASUS,Vivobook 15,2267.0,12,San Miguel,Oficina
+1095,ASUS,Zenbook 14,4278.0,26,Centro de Lima,Gaming
+1096,Dell,Vostro 3520,2871.0,21,Miraflores,Profesional
+1097,Lenovo,ThinkPad E14,3344.0,3,Piura,Profesional
+1098,HP,Pavilion 15,3278.0,29,Chiclayo,Profesional
+1099,HP,15-fd,2306.0,14,Los Olivos,Oficina
+1100,Acer,Aspire 5,2624.0,18,Surco,Profesional
+1101,Dell,Vostro 3520,2592.0,41,Arequipa,Profesional
+1102,Lenovo,ThinkPad E14,3475.0,33,Los Olivos,Profesional
+1103,ASUS,Vivobook 15,2582.0,8,Trujillo,Profesional
+1104,MSI,Katana 15,5511.0,41,Chiclayo,Premium
+1105,HP,15-fd,2696.0,23,Centro de Lima,Profesional
+1106,Acer,Aspire 5,2148.0,59,San Miguel,Oficina
+1107,ASUS,Zenbook 14,4814.0,60,San Miguel,Gaming
+1108,Apple,MacBook Air M3,5996.0,51,Piura,Premium
+1109,HP,15-fd,2506.0,24,Miraflores,Profesional
+1110,Acer,Nitro V 15,3970.0,45,Centro de Lima,Profesional
+1111,Apple,MacBook Air M2,5148.0,2,Arequipa,Gaming
+1112,Dell,Inspiron 15,2750.0,34,Los Olivos,Profesional
+1113,ASUS,Zenbook 14,4905.0,40,Miraflores,Gaming
+1114,Dell,Inspiron 15,2920.0,16,Centro de Lima,Profesional
+1115,Apple,MacBook Air M2,4741.0,15,Arequipa,Gaming
+1116,Acer,Aspire 5,2983.0,39,Centro de Lima,Profesional
+1117,MSI,Modern 15,2807.0,3,Surco,Profesional
+1118,Acer,Nitro V 15,3685.0,16,Surco,Profesional
+1119,HP,15-fd,2190.0,16,Los Olivos,Oficina
+1120,HP,15-fd,2519.0,34,San Miguel,Profesional
+1121,ASUS,Vivobook 15,2453.0,12,Centro de Lima,Oficina
+1122,Dell,Vostro 3520,2814.0,34,Miraflores,Profesional
+1123,HP,15-fd,2047.0,19,San Miguel,Oficina
+1124,Acer,Aspire 5,2477.0,14,Chiclayo,Oficina
+1125,Lenovo,IdeaPad Slim 3,2577.0,57,Chiclayo,Profesional
+1126,Dell,Vostro 3520,2966.0,48,Trujillo,Profesional
+1127,Acer,Nitro V 15,3689.0,17,San Isidro,Profesional
+1128,HP,15-fd,1986.0,52,Chiclayo,Oficina
+1129,Dell,Inspiron 15,2999.0,29,Piura,Profesional
+1130,Apple,MacBook Air M2,5229.0,24,Centro de Lima,Gaming
+1131,HP,15-fd,2158.0,40,Miraflores,Oficina
+1132,Dell,Vostro 3520,2883.0,6,Piura,Profesional
+1133,HP,Pavilion 15,3512.0,41,Los Olivos,Profesional
+1134,Apple,MacBook Air M3,5850.0,22,San Miguel,Premium
+1135,Acer,Aspire 5,2707.0,14,Piura,Profesional
+1136,Apple,MacBook Air M2,4868.0,36,Los Olivos,Gaming
+1137,ASUS,Zenbook 14,4311.0,9,Surco,Gaming
+1138,Lenovo,ThinkPad E14,3949.0,23,Surco,Profesional
+1139,MSI,Modern 15,3252.0,43,Trujillo,Profesional
+1140,HP,Pavilion 15,3274.0,27,Miraflores,Profesional
+1141,ASUS,Vivobook 15,3059.0,30,Los Olivos,Profesional
+1142,Apple,MacBook Air M3,5990.0,34,San Isidro,Premium
+1143,Apple,MacBook Air M2,4761.0,52,Piura,Gaming
+1144,HP,Pavilion 15,2994.0,41,Trujillo,Profesional
+1145,Dell,Vostro 3520,2681.0,27,Centro de Lima,Profesional
+1146,HP,15-fd,1900.0,31,San Miguel,Oficina
+1147,Apple,MacBook Air M2,4853.0,10,Piura,Gaming
+1148,HP,15-fd,2443.0,27,Centro de Lima,Oficina
+1149,Lenovo,ThinkPad E14,3210.0,55,San Miguel,Profesional
+1150,Lenovo,ThinkPad E14,3577.0,36,Chiclayo,Profesional
+1151,HP,15-fd,2573.0,55,Surco,Profesional
+1152,Lenovo,IdeaPad Slim 3,2431.0,50,Surco,Oficina
+1153,MSI,Katana 15,5710.0,29,Los Olivos,Premium
+1154,Acer,Nitro V 15,3629.0,45,Arequipa,Profesional
+1155,Lenovo,ThinkPad E14,3970.0,11,Piura,Profesional
+1156,Dell,Inspiron 15,3474.0,53,Miraflores,Profesional
+1157,Apple,MacBook Air M3,6041.0,36,Surco,Premium
+1158,Apple,MacBook Air M3,6233.0,53,San Isidro,Premium
+1159,Acer,Nitro V 15,3645.0,38,San Miguel,Profesional
+1160,Acer,Aspire 5,2225.0,44,Trujillo,Oficina
+1161,Lenovo,ThinkPad E14,3587.0,31,Trujillo,Profesional
+1162,MSI,Katana 15,5127.0,37,San Isidro,Gaming
+1163,Dell,Inspiron 15,3301.0,42,Miraflores,Profesional
+1164,Apple,MacBook Air M3,6306.0,36,Chiclayo,Premium
+1165,Lenovo,IdeaPad Slim 3,3050.0,49,Chiclayo,Profesional
+1166,HP,Pavilion 15,3322.0,14,Los Olivos,Profesional
+1167,Apple,MacBook Air M3,5769.0,32,Trujillo,Premium
+1168,HP,15-fd,2084.0,57,Chiclayo,Oficina
+1169,Lenovo,ThinkPad E14,3421.0,1,Chiclayo,Profesional
+1170,MSI,Modern 15,3223.0,34,Centro de Lima,Profesional
+1171,Lenovo,IdeaPad Slim 3,2954.0,35,Surco,Profesional
+1172,Apple,MacBook Air M3,5857.0,42,Piura,Premium
+1173,HP,Pavilion 15,3610.0,50,Piura,Profesional
+1174,MSI,Modern 15,2896.0,15,Surco,Profesional
+1175,ASUS,Vivobook 15,2900.0,44,Los Olivos,Profesional
+1176,Acer,Aspire 5,2829.0,2,Chiclayo,Profesional
+1177,Lenovo,ThinkPad E14,3864.0,50,Trujillo,Profesional
+1178,ASUS,Vivobook 15,2811.0,17,Miraflores,Profesional
+1179,Lenovo,ThinkPad E14,3244.0,22,Surco,Profesional
+1180,HP,Pavilion 15,3141.0,53,Trujillo,Profesional
+1181,Apple,MacBook Air M2,5288.0,9,Piura,Gaming
+1182,Acer,Aspire 5,2148.0,43,San Isidro,Oficina
+1183,Acer,Aspire 5,2916.0,15,Chiclayo,Profesional
+1184,MSI,Katana 15,5002.0,22,Los Olivos,Gaming
+1185,Lenovo,ThinkPad E14,3599.0,2,San Isidro,Profesional
+1186,Apple,MacBook Air M2,5206.0,32,Trujillo,Gaming
+1187,Dell,Inspiron 15,3331.0,47,San Isidro,Profesional
+1188,Dell,Vostro 3520,3045.0,26,Miraflores,Profesional
+1189,Lenovo,IdeaPad Slim 3,2865.0,17,San Miguel,Profesional
+1190,Acer,Aspire 5,2211.0,52,Miraflores,Oficina
+1191,MSI,Katana 15,5261.0,52,Los Olivos,Gaming
+1192,HP,Pavilion 15,3438.0,8,Miraflores,Profesional
+1193,Apple,MacBook Air M3,6062.0,60,San Miguel,Premium
+1194,Dell,Inspiron 15,3340.0,47,Piura,Profesional
+1195,MSI,Katana 15,5425.0,20,Los Olivos,Gaming
+1196,Dell,Inspiron 15,3051.0,30,San Isidro,Profesional
+1197,MSI,Katana 15,5315.0,58,Surco,Gaming
+1198,Lenovo,IdeaPad Slim 3,2626.0,55,Arequipa,Profesional
+1199,Apple,MacBook Air M2,4768.0,9,Arequipa,Gaming
+1200,Dell,Inspiron 15,3360.0,31,Miraflores,Profesional
+1201,Lenovo,IdeaPad Slim 3,3198.0,1,San Miguel,Profesional
+1202,ASUS,Zenbook 14,4214.0,22,Trujillo,Gaming
+1203,Dell,Inspiron 15,3406.0,36,Chiclayo,Profesional
+1204,Acer,Aspire 5,2407.0,26,Centro de Lima,Oficina
+1205,Lenovo,ThinkPad E14,3259.0,6,Arequipa,Profesional
+1206,Lenovo,ThinkPad E14,3626.0,41,Arequipa,Profesional
+1207,MSI,Modern 15,3695.0,26,San Miguel,Profesional
+1208,Dell,Inspiron 15,3128.0,38,San Miguel,Profesional
+1209,Apple,MacBook Air M3,5690.0,55,Chiclayo,Premium
+1210,Dell,Vostro 3520,2802.0,18,San Isidro,Profesional
+1211,Lenovo,ThinkPad E14,3327.0,8,San Isidro,Profesional
+1212,Apple,MacBook Air M3,6373.0,32,Los Olivos,Premium
+1213,MSI,Modern 15,2864.0,43,San Isidro,Profesional
+1214,ASUS,Vivobook 15,2942.0,14,Los Olivos,Profesional
+1215,MSI,Katana 15,5066.0,26,Trujillo,Gaming
+1216,HP,15-fd,2394.0,5,Piura,Oficina
+1217,ASUS,Zenbook 14,4887.0,1,Piura,Gaming
+1218,HP,Pavilion 15,3442.0,6,Chiclayo,Profesional
+1219,Lenovo,IdeaPad Slim 3,2689.0,29,Trujillo,Profesional
+1220,ASUS,Zenbook 14,4428.0,42,Trujillo,Gaming
+1221,MSI,Modern 15,3690.0,47,Chiclayo,Profesional
+1222,Apple,MacBook Air M2,5169.0,14,San Miguel,Gaming
+1223,HP,15-fd,2293.0,20,Los Olivos,Oficina
+1224,Apple,MacBook Air M2,4955.0,59,Centro de Lima,Gaming
+1225,HP,Pavilion 15,3615.0,16,Arequipa,Profesional
+1226,ASUS,Zenbook 14,4705.0,44,Trujillo,Gaming
+1227,Dell,Inspiron 15,2729.0,21,Chiclayo,Profesional
+1228,Apple,MacBook Air M3,5833.0,29,Centro de Lima,Premium
+1229,Lenovo,IdeaPad Slim 3,2343.0,16,Piura,Oficina
+1230,MSI,Modern 15,3074.0,11,Los Olivos,Profesional
+1231,Lenovo,IdeaPad Slim 3,2411.0,37,Miraflores,Oficina
+1232,Dell,Inspiron 15,3202.0,1,Chiclayo,Profesional
+1233,Apple,MacBook Air M3,6191.0,33,Piura,Premium
+1234,HP,Pavilion 15,3203.0,1,San Miguel,Profesional
+1235,MSI,Katana 15,4987.0,40,Centro de Lima,Gaming
+1236,ASUS,Zenbook 14,4663.0,44,Chiclayo,Gaming
+1237,Apple,MacBook Air M2,5475.0,12,Piura,Gaming
+1238,Dell,Vostro 3520,3217.0,26,San Isidro,Profesional
+1239,Apple,MacBook Air M3,6345.0,19,San Isidro,Premium
+1240,HP,Pavilion 15,3449.0,5,Centro de Lima,Profesional
+1241,Dell,Inspiron 15,3038.0,36,Piura,Profesional
+1242,MSI,Katana 15,5031.0,48,Chiclayo,Gaming
+1243,Dell,Inspiron 15,2605.0,54,Surco,Profesional
+1244,Acer,Aspire 5,2656.0,24,Trujillo,Profesional
+1245,Lenovo,IdeaPad Slim 3,2894.0,37,Chiclayo,Profesional
+1246,Lenovo,ThinkPad E14,3313.0,4,Centro de Lima,Profesional
+1247,ASUS,Vivobook 15,2792.0,2,Arequipa,Profesional
+1248,Lenovo,IdeaPad Slim 3,2946.0,37,Los Olivos,Profesional
+1249,MSI,Katana 15,5337.0,53,San Miguel,Gaming
+1250,ASUS,Zenbook 14,5035.0,28,Chiclayo,Gaming
+1251,Lenovo,ThinkPad E14,3385.0,57,Chiclayo,Profesional
+1252,Acer,Nitro V 15,3924.0,18,Surco,Profesional
+1253,Dell,Vostro 3520,2826.0,27,Trujillo,Profesional
+1254,Acer,Nitro V 15,3955.0,40,Los Olivos,Profesional
+1255,Acer,Aspire 5,2296.0,18,Trujillo,Oficina
+1256,MSI,Modern 15,2903.0,60,Trujillo,Profesional
+1257,Lenovo,ThinkPad E14,3463.0,43,Trujillo,Profesional
+1258,Dell,Inspiron 15,3376.0,20,Chiclayo,Profesional
+1259,HP,15-fd,2121.0,53,San Miguel,Oficina
+1260,ASUS,Zenbook 14,4557.0,45,Chiclayo,Gaming
+1261,MSI,Modern 15,3115.0,49,Surco,Profesional
+1262,Apple,MacBook Air M3,5853.0,30,Centro de Lima,Premium
+1263,Acer,Nitro V 15,4320.0,59,Los Olivos,Gaming
+1264,Apple,MacBook Air M2,5157.0,21,Surco,Gaming
+1265,HP,Pavilion 15,3682.0,18,Surco,Profesional
+1266,HP,15-fd,2111.0,10,San Miguel,Oficina
+1267,Acer,Nitro V 15,4185.0,11,Arequipa,Gaming
+1268,Acer,Aspire 5,2276.0,15,Surco,Oficina
+1269,MSI,Katana 15,4967.0,23,Los Olivos,Gaming
+1270,MSI,Modern 15,2992.0,22,Piura,Profesional
+1271,Apple,MacBook Air M3,6289.0,9,Piura,Premium
+1272,Dell,Vostro 3520,3052.0,46,Centro de Lima,Profesional
+1273,HP,15-fd,2222.0,17,San Miguel,Oficina
+1274,ASUS,Zenbook 14,4662.0,15,Arequipa,Gaming
+1275,Apple,MacBook Air M2,5384.0,30,Trujillo,Gaming
+1276,MSI,Modern 15,3155.0,40,Miraflores,Profesional
+1277,Apple,MacBook Air M3,6045.0,28,Arequipa,Premium
+1278,ASUS,Vivobook 15,2648.0,54,Arequipa,Profesional
+1279,MSI,Katana 15,5296.0,60,Trujillo,Gaming
+1280,Acer,Aspire 5,2333.0,19,Centro de Lima,Oficina
+1281,Apple,MacBook Air M2,5128.0,50,San Isidro,Gaming
+1282,MSI,Katana 15,5550.0,2,Piura,Premium
+1283,Apple,MacBook Air M3,5846.0,50,Trujillo,Premium
+1284,Dell,Inspiron 15,3224.0,38,San Miguel,Profesional
+1285,ASUS,Vivobook 15,2936.0,32,Trujillo,Profesional
+1286,Apple,MacBook Air M2,5037.0,7,Miraflores,Gaming
+1287,HP,Pavilion 15,3180.0,52,Chiclayo,Profesional
+1288,ASUS,Vivobook 15,2741.0,50,Miraflores,Profesional
+1289,Apple,MacBook Air M2,4689.0,9,Miraflores,Gaming
+1290,Acer,Nitro V 15,4212.0,28,Chiclayo,Gaming
+1291,HP,15-fd,1855.0,35,Trujillo,Oficina
+1292,HP,Pavilion 15,3260.0,40,Chiclayo,Profesional
+1293,Acer,Nitro V 15,4369.0,8,Trujillo,Gaming
+1294,Apple,MacBook Air M2,4952.0,30,Miraflores,Gaming
+1295,ASUS,Zenbook 14,5076.0,49,Surco,Gaming
+1296,MSI,Modern 15,3594.0,25,Centro de Lima,Profesional
+1297,HP,Pavilion 15,3260.0,30,Chiclayo,Profesional
+1298,Lenovo,ThinkPad E14,3938.0,30,San Miguel,Profesional
+1299,MSI,Katana 15,5441.0,30,Piura,Gaming
+1300,MSI,Modern 15,3238.0,5,Piura,Profesional
+1301,ASUS,Zenbook 14,4779.0,42,Chiclayo,Gaming
+1302,Apple,MacBook Air M2,5387.0,35,Trujillo,Gaming
+1303,Apple,MacBook Air M3,6129.0,32,Trujillo,Premium
+1304,HP,Pavilion 15,3619.0,21,San Miguel,Profesional
+1305,Dell,Vostro 3520,2739.0,40,Trujillo,Profesional
+1306,Lenovo,ThinkPad E14,3448.0,3,Trujillo,Profesional
+1307,Dell,Vostro 3520,3252.0,6,San Isidro,Profesional
+1308,Lenovo,IdeaPad Slim 3,2395.0,20,Los Olivos,Oficina
+1309,MSI,Modern 15,3339.0,53,Chiclayo,Profesional
+1310,MSI,Modern 15,2891.0,40,Los Olivos,Profesional
+1311,ASUS,Vivobook 15,2241.0,51,Arequipa,Oficina
+1312,Apple,MacBook Air M2,5440.0,44,Trujillo,Gaming
+1313,MSI,Katana 15,5337.0,15,Piura,Gaming
+1314,ASUS,Zenbook 14,4579.0,2,Los Olivos,Gaming
+1315,MSI,Katana 15,5623.0,44,Arequipa,Premium
+1316,HP,Pavilion 15,3093.0,14,Surco,Profesional
+1317,ASUS,Vivobook 15,2906.0,49,San Miguel,Profesional
+1318,Acer,Nitro V 15,4446.0,21,Miraflores,Gaming
+1319,Dell,Inspiron 15,3041.0,24,San Miguel,Profesional
+1320,HP,15-fd,2263.0,11,San Isidro,Oficina
+1321,Acer,Aspire 5,2297.0,27,San Miguel,Oficina
+1322,Acer,Aspire 5,2151.0,12,Piura,Oficina
+1323,HP,Pavilion 15,3128.0,24,Miraflores,Profesional
+1324,Apple,MacBook Air M3,6406.0,43,Chiclayo,Premium
+1325,HP,Pavilion 15,3479.0,12,San Miguel,Profesional
+1326,Lenovo,ThinkPad E14,3754.0,30,Arequipa,Profesional
+1327,ASUS,Zenbook 14,4426.0,13,Piura,Gaming
+1328,Apple,MacBook Air M2,4965.0,8,Arequipa,Gaming
+1329,MSI,Katana 15,5686.0,45,Miraflores,Premium
+1330,ASUS,Vivobook 15,2490.0,31,Surco,Oficina
+1331,HP,Pavilion 15,3274.0,33,Centro de Lima,Profesional
+1332,Apple,MacBook Air M2,5445.0,9,Trujillo,Gaming
+1333,MSI,Katana 15,4990.0,59,Miraflores,Gaming
+1334,ASUS,Vivobook 15,2821.0,13,Chiclayo,Profesional
+1335,HP,15-fd,1836.0,28,San Miguel,Oficina
+1336,Acer,Aspire 5,2712.0,8,Piura,Profesional
+1337,HP,15-fd,2316.0,23,San Isidro,Oficina
+1338,ASUS,Zenbook 14,4737.0,38,Piura,Gaming
+1339,ASUS,Vivobook 15,2578.0,54,Los Olivos,Profesional
+1340,HP,15-fd,1800.0,39,San Isidro,Oficina
+1341,HP,15-fd,1847.0,33,Centro de Lima,Oficina
+1342,Dell,Inspiron 15,3363.0,4,Miraflores,Profesional
+1343,HP,15-fd,2213.0,3,Piura,Oficina
+1344,MSI,Katana 15,5738.0,32,San Miguel,Premium
+1345,ASUS,Vivobook 15,2668.0,29,Trujillo,Profesional
+1346,Lenovo,ThinkPad E14,3902.0,37,Piura,Profesional
+1347,Acer,Nitro V 15,3734.0,38,Centro de Lima,Profesional
+1348,Apple,MacBook Air M3,6362.0,14,Centro de Lima,Premium
+1349,Lenovo,ThinkPad E14,3433.0,59,Surco,Profesional
+1350,Acer,Aspire 5,2172.0,11,San Isidro,Oficina
+1351,Apple,MacBook Air M2,5091.0,21,Miraflores,Gaming
+1352,ASUS,Vivobook 15,2643.0,9,Miraflores,Profesional
+1353,Lenovo,IdeaPad Slim 3,2687.0,23,Piura,Profesional
+1354,HP,15-fd,2412.0,40,Miraflores,Oficina
+1355,HP,15-fd,2641.0,1,Trujillo,Profesional
+1356,MSI,Modern 15,2839.0,3,Surco,Profesional
+1357,Lenovo,IdeaPad Slim 3,2963.0,34,Trujillo,Profesional
+1358,Acer,Nitro V 15,4212.0,50,Los Olivos,Gaming
+1359,Apple,MacBook Air M3,5874.0,60,Trujillo,Premium
+1360,Acer,Aspire 5,2629.0,13,Miraflores,Profesional
+1361,Apple,MacBook Air M2,5376.0,12,Los Olivos,Gaming
+1362,ASUS,Zenbook 14,4321.0,34,Trujillo,Gaming
+1363,HP,Pavilion 15,3794.0,12,San Isidro,Profesional
+1364,Acer,Aspire 5,2544.0,1,Arequipa,Profesional
+1365,ASUS,Zenbook 14,4545.0,24,Centro de Lima,Gaming
+1366,Dell,Inspiron 15,3140.0,22,Piura,Profesional
+1367,MSI,Modern 15,3127.0,39,Arequipa,Profesional
+1368,Dell,Inspiron 15,2783.0,58,Arequipa,Profesional
+1369,ASUS,Vivobook 15,2471.0,55,Chiclayo,Oficina
+1370,Acer,Aspire 5,2642.0,40,Piura,Profesional
+1371,MSI,Modern 15,3118.0,33,San Isidro,Profesional
+1372,Apple,MacBook Air M3,6178.0,60,Trujillo,Premium
+1373,Acer,Nitro V 15,3695.0,58,Arequipa,Profesional
+1374,HP,Pavilion 15,3232.0,23,Piura,Profesional
+1375,Apple,MacBook Air M3,6335.0,49,Los Olivos,Premium
+1376,Dell,Vostro 3520,2881.0,20,Arequipa,Profesional
+1377,MSI,Katana 15,5674.0,52,Surco,Premium
+1378,MSI,Katana 15,4966.0,8,Arequipa,Gaming
+1379,HP,Pavilion 15,3792.0,16,Trujillo,Profesional
+1380,Apple,MacBook Air M2,4635.0,2,Trujillo,Gaming
+1381,Apple,MacBook Air M3,5621.0,55,Miraflores,Premium
+1382,Lenovo,IdeaPad Slim 3,2744.0,37,Los Olivos,Profesional
+1383,MSI,Katana 15,5050.0,25,Miraflores,Gaming
+1384,ASUS,Vivobook 15,2552.0,53,Centro de Lima,Profesional
+1385,Acer,Aspire 5,2925.0,43,Centro de Lima,Profesional
+1386,HP,15-fd,2470.0,45,San Miguel,Oficina
+1387,ASUS,Vivobook 15,2506.0,40,Miraflores,Profesional
+1388,Apple,MacBook Air M2,5042.0,1,Arequipa,Gaming
+1389,Apple,MacBook Air M2,4977.0,15,Piura,Gaming
+1390,Lenovo,IdeaPad Slim 3,2649.0,17,Surco,Profesional
+1391,ASUS,Zenbook 14,4593.0,51,San Miguel,Gaming
+1392,Lenovo,ThinkPad E14,3233.0,6,Centro de Lima,Profesional
+1393,MSI,Katana 15,5132.0,44,San Isidro,Gaming
+1394,Lenovo,IdeaPad Slim 3,2901.0,32,Piura,Profesional
+1395,Dell,Vostro 3520,2912.0,24,Trujillo,Profesional
+1396,HP,Pavilion 15,3506.0,17,Los Olivos,Profesional
+1397,ASUS,Zenbook 14,4324.0,21,Centro de Lima,Gaming
+1398,Apple,MacBook Air M2,5282.0,39,Chiclayo,Gaming
+1399,ASUS,Vivobook 15,2642.0,15,Chiclayo,Profesional
+1400,Apple,MacBook Air M2,5180.0,49,Centro de Lima,Gaming
+1401,Acer,Nitro V 15,4442.0,14,Los Olivos,Gaming
+1402,Lenovo,ThinkPad E14,3489.0,39,Chiclayo,Profesional
+1403,HP,Pavilion 15,3251.0,35,Los Olivos,Profesional
+1404,Dell,Inspiron 15,3374.0,12,Chiclayo,Profesional
+1405,ASUS,Vivobook 15,2500.0,54,San Miguel,Profesional
+1406,ASUS,Zenbook 14,4710.0,15,San Isidro,Gaming
+1407,ASUS,Vivobook 15,2821.0,14,Piura,Profesional
+1408,ASUS,Zenbook 14,4456.0,16,Los Olivos,Gaming
+1409,ASUS,Vivobook 15,2519.0,55,Trujillo,Profesional
+1410,Lenovo,ThinkPad E14,3217.0,44,Trujillo,Profesional
+1411,Apple,MacBook Air M3,6334.0,60,Surco,Premium
+1412,HP,15-fd,2336.0,1,Trujillo,Oficina
+1413,Acer,Nitro V 15,4407.0,24,Arequipa,Gaming
+1414,ASUS,Zenbook 14,4455.0,21,Surco,Gaming
+1415,ASUS,Zenbook 14,4687.0,53,San Miguel,Gaming
+1416,Dell,Vostro 3520,2612.0,53,San Isidro,Profesional
+1417,Dell,Inspiron 15,2887.0,44,San Isidro,Profesional
+1418,MSI,Modern 15,3530.0,27,Los Olivos,Profesional
+1419,ASUS,Zenbook 14,4261.0,54,Chiclayo,Gaming
+1420,Dell,Vostro 3520,3162.0,53,Miraflores,Profesional
+1421,Acer,Nitro V 15,4430.0,49,Surco,Gaming
+1422,MSI,Modern 15,3649.0,24,San Isidro,Profesional
+1423,Apple,MacBook Air M2,5141.0,59,San Isidro,Gaming
+1424,HP,Pavilion 15,3387.0,26,Surco,Profesional
+1425,Acer,Nitro V 15,3684.0,24,San Isidro,Profesional
+1426,Acer,Nitro V 15,3663.0,7,Los Olivos,Profesional
+1427,Dell,Vostro 3520,3069.0,6,Los Olivos,Profesional
+1428,Dell,Inspiron 15,2940.0,13,San Miguel,Profesional
+1429,HP,15-fd,2474.0,35,Chiclayo,Oficina
+1430,HP,15-fd,2538.0,16,Los Olivos,Profesional
+1431,Dell,Vostro 3520,3181.0,49,Los Olivos,Profesional
+1432,Dell,Vostro 3520,3244.0,29,Centro de Lima,Profesional
+1433,HP,15-fd,2044.0,26,Arequipa,Oficina
+1434,Dell,Inspiron 15,2786.0,4,Piura,Profesional
+1435,MSI,Modern 15,3483.0,41,San Miguel,Profesional
+1436,ASUS,Zenbook 14,4457.0,14,Trujillo,Gaming
+1437,Apple,MacBook Air M3,6069.0,38,Los Olivos,Premium
+1438,Lenovo,ThinkPad E14,3491.0,12,San Isidro,Profesional
+1439,HP,Pavilion 15,3050.0,51,Arequipa,Profesional
+1440,Apple,MacBook Air M2,4716.0,48,Centro de Lima,Gaming
+1441,HP,Pavilion 15,3677.0,51,Los Olivos,Profesional
+1442,Acer,Nitro V 15,4117.0,5,Miraflores,Gaming
+1443,Dell,Vostro 3520,3107.0,11,San Miguel,Profesional
+1444,ASUS,Zenbook 14,4713.0,9,Trujillo,Gaming
+1445,Acer,Nitro V 15,4423.0,54,Piura,Gaming
+1446,Lenovo,ThinkPad E14,3795.0,59,Arequipa,Profesional
+1447,Apple,MacBook Air M2,5241.0,44,Los Olivos,Gaming
+1448,Lenovo,ThinkPad E14,3428.0,58,Miraflores,Profesional
+1449,HP,Pavilion 15,3177.0,28,Centro de Lima,Profesional
+1450,HP,Pavilion 15,3329.0,23,San Isidro,Profesional
+1451,ASUS,Zenbook 14,4616.0,25,Chiclayo,Gaming
+1452,MSI,Katana 15,5319.0,10,Centro de Lima,Gaming
+1453,Lenovo,IdeaPad Slim 3,2691.0,5,San Isidro,Profesional
+1454,Acer,Nitro V 15,4139.0,25,Centro de Lima,Gaming
+1455,Lenovo,IdeaPad Slim 3,2521.0,40,Miraflores,Profesional
+1456,Apple,MacBook Air M3,6239.0,40,Chiclayo,Premium
+1457,ASUS,Zenbook 14,4366.0,45,Los Olivos,Gaming
+1458,Acer,Aspire 5,2227.0,29,Miraflores,Oficina
+1459,Apple,MacBook Air M2,4813.0,42,San Miguel,Gaming
+1460,HP,Pavilion 15,2980.0,30,Centro de Lima,Profesional
+1461,ASUS,Vivobook 15,2607.0,47,Centro de Lima,Profesional
+1462,Dell,Vostro 3520,2419.0,46,San Isidro,Oficina
+1463,HP,Pavilion 15,3641.0,42,Trujillo,Profesional
+1464,ASUS,Vivobook 15,3099.0,55,Miraflores,Profesional
+1465,Acer,Aspire 5,2490.0,53,Surco,Oficina
+1466,Lenovo,ThinkPad E14,3265.0,17,Chiclayo,Profesional
+1467,Apple,MacBook Air M3,5978.0,15,San Miguel,Premium
+1468,Dell,Inspiron 15,2805.0,51,Miraflores,Profesional
+1469,Acer,Aspire 5,2708.0,29,San Isidro,Profesional
+1470,ASUS,Vivobook 15,2333.0,47,Arequipa,Oficina
+1471,MSI,Modern 15,2930.0,21,Piura,Profesional
+1472,Dell,Vostro 3520,2484.0,11,Centro de Lima,Oficina
+1473,Lenovo,ThinkPad E14,3614.0,18,Piura,Profesional
+1474,Acer,Nitro V 15,3971.0,47,Miraflores,Profesional
+1475,Dell,Inspiron 15,3233.0,14,San Isidro,Profesional
+1476,MSI,Katana 15,5659.0,12,Arequipa,Premium
+1477,Acer,Aspire 5,2146.0,58,Trujillo,Oficina
+1478,Apple,MacBook Air M2,5157.0,40,Surco,Gaming
+1479,MSI,Katana 15,5131.0,29,Trujillo,Gaming
+1480,Dell,Vostro 3520,3048.0,13,Los Olivos,Profesional
+1481,HP,Pavilion 15,3525.0,28,San Miguel,Profesional
+1482,ASUS,Vivobook 15,2998.0,43,Trujillo,Profesional
+1483,Lenovo,ThinkPad E14,3836.0,45,Chiclayo,Profesional
+1484,HP,Pavilion 15,3548.0,28,Centro de Lima,Profesional
+1485,Dell,Inspiron 15,2784.0,42,Surco,Profesional
+1486,HP,Pavilion 15,3778.0,32,San Miguel,Profesional
+1487,Dell,Inspiron 15,3049.0,11,Piura,Profesional
+1488,Apple,MacBook Air M2,4678.0,10,Surco,Gaming
+1489,ASUS,Zenbook 14,4780.0,31,Miraflores,Gaming
+1490,Apple,MacBook Air M2,5371.0,46,Centro de Lima,Gaming
+1491,Lenovo,ThinkPad E14,3812.0,7,Piura,Profesional
+1492,Lenovo,IdeaPad Slim 3,2576.0,18,Chiclayo,Profesional
+1493,Acer,Nitro V 15,4463.0,24,San Miguel,Gaming
+1494,MSI,Katana 15,5237.0,23,Piura,Gaming
+1495,Dell,Vostro 3520,2727.0,4,Surco,Profesional
+1496,Dell,Vostro 3520,3021.0,30,Centro de Lima,Profesional
+1497,Acer,Aspire 5,2881.0,58,Surco,Profesional
+1498,ASUS,Vivobook 15,2347.0,18,Chiclayo,Oficina
+1499,MSI,Katana 15,5051.0,59,Los Olivos,Gaming
+1500,Acer,Nitro V 15,4415.0,24,San Miguel,Gaming
+1501,Acer,Predator Helios,6000.0,15,La Molina,demo

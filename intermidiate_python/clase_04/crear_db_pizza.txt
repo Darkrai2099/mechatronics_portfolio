@@ -1,0 +1,16 @@
+CREATE DATABASE sistema_ventas;
+USE sistema_ventas;
+
+CREATE TABLE ventas_mall_2026 (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fecha DATE NOT NULL,
+    sede VARCHAR(100) NOT NULL,
+    vendedor VARCHAR(100) NOT NULL,
+    producto VARCHAR(100) NOT NULL,
+    tamanio VARCHAR(20) NOT NULL,
+    precio DECIMAL(10,2) NOT NULL,
+    cantidad INT NOT NULL,
+    metodo_pago VARCHAR(50) NOT NULL,
+    tipo_venta VARCHAR(50) NOT NULL
+);
+

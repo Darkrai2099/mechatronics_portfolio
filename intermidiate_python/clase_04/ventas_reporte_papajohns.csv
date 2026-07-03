@@ -1,0 +1,1201 @@
+fecha,sede,vendedor,producto,tamano,precio,cantidad,metodo_pago,tipo_venta
+2026-01-01,larcomar,Oscar Ruiz,cuatro quesos,personal,20.39,2,plin,delivery
+2026-01-01,mega plaza,vendedor3,pepperoni,regular,32.28,1,plin,local
+2026-01-01,larcomar,Oscar Ruiz,americana,personal,22.37,3,plin,local
+2026-01-01,mall aventura santa anita,Miguel Rojas,suprema,regular,33.58,4,efectivo,para_llevar
+2026-01-01,jockey plaza,Carlos Perez,vegetariana,personal,23.58,4,plin,local
+2026-01-01,mall aventura santa anita,Andres Castro,americana,personal,22.13,1,efectivo,delivery
+2026-01-01,real plaza centro civico,Ricardo Leon,hawaiana,grande,38.86,1,tarjeta,para_llevar
+2026-01-01,plaza san miguel,Eduardo Nunez,americana,grande,38.45,3,plin,para_llevar
+2026-01-01,plaza norte,Alvaro Medina,pepperoni,regular,31.03,4,yape,para_llevar
+2026-01-01,jockey plaza,Carlos Perez,cuatro quesos,familiar,60.8,3,tarjeta,delivery
+2026-01-02,larcomar,Raul Herrera,bbq chicken,regular,33.85,3,yape,para_llevar
+2026-01-02,plaza san miguel,Bruno Campos,vegetariana,regular,35.41,4,yape,delivery
+2026-01-02,mega plaza,vendedor3,pepperoni,familiar,62.18,3,tarjeta,delivery
+2026-01-02,plaza norte,Sergio Paredes,suprema,familiar,62.75,3,efectivo,delivery
+2026-01-02,larcomar,Oscar Ruiz,vegetariana,regular,35.53,4,tarjeta,delivery
+2026-01-02,real plaza salaverry,Mario Soto,vegetariana,familiar,62.28,2,tarjeta,local
+2026-01-02,real plaza centro civico,Hector Silva,americana,personal,24.5,2,plin,local
+2026-01-02,mega plaza,vendedor2,pepperoni,personal,20.55,1,tarjeta,para_llevar
+2026-01-02,plaza san miguel,Bruno Campos,vegetariana,regular,32.25,3,efectivo,para_llevar
+2026-01-02,real plaza centro civico,Ricardo Leon,suprema,grande,39.19,2,tarjeta,local
+2026-01-03,mall del sur,Ivan Castillo,bbq chicken,familiar,55.88,4,tarjeta,delivery
+2026-01-03,real plaza salaverry,Julio Vargas,vegetariana,personal,22.31,4,tarjeta,local
+2026-01-03,mall aventura santa anita,Miguel Rojas,pepperoni,grande,39.26,1,plin,para_llevar
+2026-01-03,open plaza angamos,Daniel Reyes,hawaiana,regular,35.72,4,efectivo,para_llevar
+2026-01-03,mall del sur,Hugo Aguilar,bbq chicken,regular,34.42,2,tarjeta,para_llevar
+2026-01-03,real plaza salaverry,Cesar Ortiz,suprema,regular,33.72,4,efectivo,local
+2026-01-03,mega plaza,vendedor2,vegetariana,regular,28.62,1,plin,para_llevar
+2026-01-03,plaza san miguel,Martin Cruz,pepperoni,familiar,50.27,3,plin,local
+2026-01-03,mall aventura santa anita,Miguel Rojas,americana,familiar,50.98,3,efectivo,delivery
+2026-01-03,real plaza centro civico,Hector Silva,hawaiana,familiar,54.54,3,tarjeta,local
+2026-01-03,real plaza centro civico,Hector Silva,hawaiana,regular,33.25,4,efectivo,delivery
+2026-01-03,mall del sur,Hugo Aguilar,americana,regular,33.75,3,tarjeta,delivery
+2026-01-03,plaza san miguel,Bruno Campos,suprema,grande,38.61,1,yape,delivery
+2026-01-03,plaza san miguel,Bruno Campos,americana,regular,30.62,4,yape,para_llevar
+2026-01-04,larcomar,Raul Herrera,vegetariana,personal,19.31,2,plin,delivery
+2026-01-04,open plaza angamos,Victor Chavez,pepperoni,regular,29.56,2,tarjeta,delivery
+2026-01-04,larcomar,Kevin Navarro,americana,familiar,57.57,2,yape,local
+2026-01-04,mall aventura santa anita,Andres Castro,bbq chicken,familiar,58.23,4,yape,delivery
+2026-01-04,plaza san miguel,Bruno Campos,pepperoni,grande,40.45,1,efectivo,local
+2026-01-04,plaza san miguel,Martin Cruz,cuatro quesos,regular,27.97,2,plin,delivery
+2026-01-04,real plaza salaverry,Mario Soto,vegetariana,personal,21.87,3,efectivo,para_llevar
+2026-01-04,plaza san miguel,Bruno Campos,americana,grande,42.33,3,efectivo,local
+2026-01-04,real plaza centro civico,Ricardo Leon,vegetariana,grande,43.22,4,plin,delivery
+2026-01-04,mall del sur,Hugo Aguilar,pepperoni,grande,42.64,3,tarjeta,para_llevar
+2026-01-04,mega plaza,vendedor1,vegetariana,regular,27.58,4,efectivo,para_llevar
+2026-01-04,plaza norte,Sergio Paredes,cuatro quesos,grande,41.82,4,yape,delivery
+2026-01-04,plaza san miguel,Eduardo Nunez,suprema,grande,42.63,4,yape,delivery
+2026-01-04,mega plaza,vendedor1,suprema,familiar,62.72,4,plin,para_llevar
+2026-01-04,real plaza salaverry,Mario Soto,bbq chicken,familiar,60.25,1,plin,local
+2026-01-04,plaza norte,Renato Vega,vegetariana,grande,37.55,4,efectivo,local
+2026-01-05,real plaza centro civico,Hector Silva,hawaiana,regular,30.48,4,yape,para_llevar
+2026-01-05,plaza norte,Alvaro Medina,suprema,personal,22.97,1,plin,local
+2026-01-05,mall del sur,Hugo Aguilar,americana,grande,45.48,2,tarjeta,local
+2026-01-05,plaza san miguel,Martin Cruz,bbq chicken,personal,25.16,4,efectivo,local
+2026-01-05,mega plaza,vendedor1,americana,regular,29.96,3,plin,para_llevar
+2026-01-05,jockey plaza,Carlos Perez,cuatro quesos,personal,25.58,4,tarjeta,para_llevar
+2026-01-05,real plaza centro civico,Hector Silva,hawaiana,familiar,59.98,1,plin,local
+2026-01-05,real plaza centro civico,Fernando Diaz,bbq chicken,regular,27.22,3,efectivo,local
+2026-01-05,real plaza centro civico,Fernando Diaz,bbq chicken,personal,25.5,3,plin,local
+2026-01-06,plaza san miguel,Eduardo Nunez,americana,grande,45.72,2,plin,local
+2026-01-06,larcomar,Kevin Navarro,bbq chicken,regular,28.43,1,tarjeta,local
+2026-01-06,real plaza centro civico,Fernando Diaz,pepperoni,familiar,58.96,3,plin,local
+2026-01-06,mall del sur,Leo Mendoza,cuatro quesos,familiar,61.05,1,yape,para_llevar
+2026-01-06,open plaza angamos,Pablo Morales,cuatro quesos,personal,21.68,4,efectivo,para_llevar
+2026-01-06,real plaza centro civico,Ricardo Leon,pepperoni,regular,34.62,3,plin,local
+2026-01-06,larcomar,Kevin Navarro,americana,regular,27.29,1,tarjeta,local
+2026-01-06,mall aventura santa anita,Andres Castro,hawaiana,familiar,57.49,1,efectivo,local
+2026-01-06,open plaza angamos,Daniel Reyes,cuatro quesos,personal,22.41,1,yape,local
+2026-01-06,real plaza salaverry,Julio Vargas,vegetariana,regular,32.83,4,efectivo,local
+2026-01-06,open plaza angamos,Daniel Reyes,hawaiana,familiar,62.28,2,yape,local
+2026-01-06,plaza norte,Alvaro Medina,americana,familiar,53.77,3,efectivo,delivery
+2026-01-06,plaza san miguel,Eduardo Nunez,bbq chicken,familiar,59.85,3,yape,local
+2026-01-06,larcomar,Oscar Ruiz,pepperoni,regular,33.17,2,tarjeta,para_llevar
+2026-01-07,real plaza salaverry,Julio Vargas,americana,familiar,46.96,2,plin,delivery
+2026-01-07,mall del sur,Ivan Castillo,americana,regular,34.21,1,tarjeta,local
+2026-01-07,larcomar,Raul Herrera,cuatro quesos,familiar,47.62,2,efectivo,para_llevar
+2026-01-07,open plaza angamos,Victor Chavez,americana,regular,28.47,2,tarjeta,delivery
+2026-01-07,plaza san miguel,Bruno Campos,pepperoni,grande,43.73,1,yape,local
+2026-01-07,mega plaza,vendedor3,bbq chicken,personal,21.07,4,efectivo,para_llevar
+2026-01-07,mall aventura santa anita,Andres Castro,suprema,grande,41.86,2,efectivo,para_llevar
+2026-01-07,real plaza centro civico,Fernando Diaz,pepperoni,familiar,54.29,1,efectivo,local
+2026-01-07,mall aventura santa anita,Diego Flores,vegetariana,grande,41.99,3,yape,local
+2026-01-07,mall aventura santa anita,Andres Castro,suprema,personal,21.87,1,tarjeta,local
+2026-01-07,mall aventura santa anita,Diego Flores,cuatro quesos,personal,20.76,4,tarjeta,delivery
+2026-01-08,mega plaza,vendedor1,cuatro quesos,familiar,62.45,2,tarjeta,local
+2026-01-08,real plaza salaverry,Mario Soto,americana,regular,34.32,3,tarjeta,delivery
+2026-01-08,plaza norte,Sergio Paredes,pepperoni,personal,22.01,4,tarjeta,delivery
+2026-01-08,plaza norte,Renato Vega,cuatro quesos,personal,23.43,3,yape,delivery
+2026-01-08,mega plaza,vendedor3,pepperoni,familiar,60.84,3,efectivo,local
+2026-01-08,plaza norte,Alvaro Medina,suprema,grande,42.86,2,plin,delivery
+2026-01-08,open plaza angamos,Daniel Reyes,cuatro quesos,familiar,49.6,3,efectivo,delivery
+2026-01-08,real plaza salaverry,Cesar Ortiz,cuatro quesos,grande,41.84,1,yape,local
+2026-01-08,plaza san miguel,Martin Cruz,vegetariana,personal,19.81,2,plin,para_llevar
+2026-01-08,open plaza angamos,Pablo Morales,vegetariana,personal,20.13,3,efectivo,delivery
+2026-01-08,mall aventura santa anita,Andres Castro,cuatro quesos,grande,38.58,4,yape,local
+2026-01-08,larcomar,Oscar Ruiz,bbq chicken,familiar,64.07,4,plin,para_llevar
+2026-01-08,mall aventura santa anita,Miguel Rojas,hawaiana,familiar,56.93,3,yape,local
+2026-01-08,real plaza salaverry,Julio Vargas,bbq chicken,personal,23.76,4,plin,delivery
+2026-01-09,mega plaza,vendedor3,americana,personal,22.16,4,tarjeta,delivery
+2026-01-09,open plaza angamos,Pablo Morales,americana,familiar,48.4,1,tarjeta,para_llevar
+2026-01-09,plaza san miguel,Eduardo Nunez,cuatro quesos,personal,19.43,2,yape,local
+2026-01-09,mall del sur,Hugo Aguilar,pepperoni,grande,38.3,4,yape,delivery
+2026-01-09,larcomar,Kevin Navarro,vegetariana,grande,42.33,2,plin,para_llevar
+2026-01-09,mall aventura santa anita,Miguel Rojas,vegetariana,regular,30.2,2,tarjeta,para_llevar
+2026-01-09,real plaza centro civico,Fernando Diaz,hawaiana,regular,33.68,3,tarjeta,delivery
+2026-01-09,mall del sur,Leo Mendoza,americana,personal,21.64,1,yape,para_llevar
+2026-01-09,mall aventura santa anita,Miguel Rojas,suprema,personal,21.66,2,efectivo,para_llevar
+2026-01-09,mall del sur,Leo Mendoza,suprema,regular,31.99,2,tarjeta,para_llevar
+2026-01-10,open plaza angamos,Victor Chavez,pepperoni,familiar,61.04,4,yape,para_llevar
+2026-01-10,plaza san miguel,Bruno Campos,americana,personal,19.16,4,plin,local
+2026-01-10,mega plaza,vendedor3,americana,grande,42.51,2,plin,delivery
+2026-01-10,larcomar,Oscar Ruiz,cuatro quesos,regular,27.18,4,yape,para_llevar
+2026-01-10,plaza norte,Renato Vega,bbq chicken,personal,20.87,4,plin,local
+2026-01-10,larcomar,Oscar Ruiz,americana,familiar,48.54,4,plin,para_llevar
+2026-01-10,real plaza salaverry,Julio Vargas,pepperoni,familiar,58.16,2,tarjeta,delivery
+2026-01-10,plaza san miguel,Eduardo Nunez,vegetariana,familiar,47.06,1,plin,delivery
+2026-01-10,real plaza salaverry,Mario Soto,pepperoni,familiar,60.51,4,plin,local
+2026-01-10,jockey plaza,Jorge Torres,cuatro quesos,grande,39.19,2,efectivo,para_llevar
+2026-01-10,mall del sur,Leo Mendoza,suprema,familiar,47.88,4,efectivo,local
+2026-01-10,mall aventura santa anita,Miguel Rojas,americana,regular,27.41,4,efectivo,delivery
+2026-01-10,real plaza salaverry,Julio Vargas,suprema,familiar,54.32,4,tarjeta,local
+2026-01-10,mall aventura santa anita,Miguel Rojas,cuatro quesos,familiar,63.08,4,plin,delivery
+2026-01-10,mega plaza,vendedor1,americana,personal,21.5,2,plin,para_llevar
+2026-01-10,mall del sur,Ivan Castillo,bbq chicken,regular,31.67,1,yape,delivery
+2026-01-10,mall aventura santa anita,Diego Flores,suprema,regular,32.52,3,efectivo,local
+2026-01-11,mall del sur,Leo Mendoza,vegetariana,personal,21.09,4,yape,para_llevar
+2026-01-11,mall aventura santa anita,Diego Flores,suprema,personal,23.98,1,plin,local
+2026-01-11,mall aventura santa anita,Miguel Rojas,suprema,familiar,52.22,4,efectivo,local
+2026-01-11,plaza norte,Sergio Paredes,vegetariana,grande,40.18,1,plin,local
+2026-01-11,open plaza angamos,Victor Chavez,suprema,grande,44.87,2,tarjeta,para_llevar
+2026-01-11,plaza san miguel,Bruno Campos,pepperoni,familiar,48.24,4,efectivo,para_llevar
+2026-01-11,jockey plaza,Jorge Torres,suprema,grande,44.92,1,tarjeta,local
+2026-01-11,mall aventura santa anita,Andres Castro,suprema,regular,32.69,1,yape,local
+2026-01-11,plaza san miguel,Eduardo Nunez,bbq chicken,grande,45.11,1,efectivo,local
+2026-01-11,plaza san miguel,Martin Cruz,cuatro quesos,grande,45.37,1,yape,local
+2026-01-11,larcomar,Raul Herrera,cuatro quesos,personal,24.15,4,tarjeta,local
+2026-01-11,jockey plaza,Carlos Perez,suprema,familiar,60.58,3,plin,local
+2026-01-11,mega plaza,vendedor3,suprema,familiar,64.05,4,plin,delivery
+2026-01-11,mega plaza,vendedor1,hawaiana,regular,32.42,1,yape,local
+2026-01-11,mall del sur,Leo Mendoza,americana,familiar,61.19,4,plin,local
+2026-01-11,jockey plaza,Jorge Torres,suprema,grande,45.78,2,plin,local
+2026-01-12,real plaza salaverry,Cesar Ortiz,vegetariana,personal,25.5,1,plin,local
+2026-01-12,open plaza angamos,Pablo Morales,hawaiana,grande,44.14,2,plin,para_llevar
+2026-01-12,real plaza centro civico,Ricardo Leon,americana,grande,38.83,3,tarjeta,delivery
+2026-01-12,real plaza salaverry,Julio Vargas,pepperoni,personal,21.38,1,yape,local
+2026-01-12,open plaza angamos,Victor Chavez,bbq chicken,personal,20.53,2,yape,local
+2026-01-12,plaza san miguel,Martin Cruz,americana,regular,27.22,3,yape,delivery
+2026-01-12,mall aventura santa anita,Andres Castro,hawaiana,personal,22.24,3,yape,para_llevar
+2026-01-12,real plaza salaverry,Julio Vargas,vegetariana,regular,29.36,3,plin,para_llevar
+2026-01-12,jockey plaza,Carlos Perez,americana,regular,29.77,3,efectivo,local
+2026-01-12,plaza san miguel,Bruno Campos,hawaiana,regular,30.85,2,efectivo,para_llevar
+2026-01-12,jockey plaza,Carlos Perez,cuatro quesos,personal,24.86,3,yape,delivery
+2026-01-12,plaza san miguel,Eduardo Nunez,pepperoni,familiar,57.22,4,tarjeta,delivery
+2026-01-12,mall aventura santa anita,Miguel Rojas,vegetariana,grande,39.27,3,plin,local
+2026-01-12,mall aventura santa anita,Miguel Rojas,americana,familiar,54.66,2,tarjeta,para_llevar
+2026-01-12,mall aventura santa anita,Diego Flores,cuatro quesos,personal,25.85,4,efectivo,para_llevar
+2026-01-13,larcomar,Raul Herrera,americana,personal,21.81,4,plin,local
+2026-01-13,mall del sur,Hugo Aguilar,bbq chicken,grande,41.45,3,plin,delivery
+2026-01-13,real plaza salaverry,Julio Vargas,bbq chicken,personal,22.11,3,efectivo,para_llevar
+2026-01-13,mega plaza,vendedor2,pepperoni,personal,20.72,3,efectivo,para_llevar
+2026-01-13,real plaza centro civico,Fernando Diaz,hawaiana,familiar,51.51,1,efectivo,local
+2026-01-13,real plaza salaverry,Mario Soto,suprema,personal,19.74,1,efectivo,local
+2026-01-13,jockey plaza,Carlos Perez,hawaiana,personal,24.77,1,plin,delivery
+2026-01-13,real plaza centro civico,Fernando Diaz,bbq chicken,familiar,62.54,4,efectivo,para_llevar
+2026-01-13,plaza san miguel,Martin Cruz,pepperoni,regular,30.36,1,plin,delivery
+2026-01-13,mall del sur,Leo Mendoza,americana,familiar,65.7,2,yape,local
+2026-01-13,mega plaza,vendedor2,cuatro quesos,familiar,55.34,3,plin,para_llevar
+2026-01-13,real plaza centro civico,Hector Silva,hawaiana,familiar,50.87,1,tarjeta,local
+2026-01-13,mega plaza,vendedor2,hawaiana,regular,29.0,3,tarjeta,para_llevar
+2026-01-13,open plaza angamos,Daniel Reyes,cuatro quesos,grande,43.22,4,yape,delivery
+2026-01-14,mall del sur,Hugo Aguilar,pepperoni,grande,45.88,3,efectivo,para_llevar
+2026-01-14,plaza san miguel,Eduardo Nunez,cuatro quesos,regular,27.97,1,plin,para_llevar
+2026-01-14,open plaza angamos,Pablo Morales,hawaiana,regular,32.84,4,efectivo,local
+2026-01-14,mall aventura santa anita,Andres Castro,bbq chicken,familiar,48.36,4,efectivo,local
+2026-01-14,jockey plaza,Luis Ramirez,suprema,familiar,51.56,3,tarjeta,local
+2026-01-14,mall aventura santa anita,Diego Flores,vegetariana,grande,44.92,3,yape,para_llevar
+2026-01-14,mega plaza,vendedor2,cuatro quesos,personal,25.24,1,efectivo,local
+2026-01-14,open plaza angamos,Victor Chavez,bbq chicken,personal,21.69,3,yape,delivery
+2026-01-14,real plaza salaverry,Mario Soto,americana,familiar,58.4,4,tarjeta,para_llevar
+2026-01-14,larcomar,Oscar Ruiz,hawaiana,grande,37.97,3,yape,local
+2026-01-14,plaza san miguel,Bruno Campos,hawaiana,familiar,47.38,2,yape,para_llevar
+2026-01-14,open plaza angamos,Victor Chavez,cuatro quesos,familiar,58.71,4,yape,para_llevar
+2026-01-15,real plaza centro civico,Fernando Diaz,bbq chicken,grande,43.87,4,plin,para_llevar
+2026-01-15,plaza san miguel,Martin Cruz,cuatro quesos,personal,23.31,4,yape,local
+2026-01-15,larcomar,Oscar Ruiz,suprema,personal,24.68,4,yape,para_llevar
+2026-01-15,real plaza centro civico,Fernando Diaz,hawaiana,regular,33.07,2,plin,para_llevar
+2026-01-15,plaza san miguel,Martin Cruz,cuatro quesos,personal,23.49,2,plin,local
+2026-01-15,plaza san miguel,Eduardo Nunez,pepperoni,personal,19.35,4,plin,local
+2026-01-15,jockey plaza,Luis Ramirez,vegetariana,regular,27.33,1,yape,local
+2026-01-15,mall del sur,Ivan Castillo,americana,personal,23.93,3,tarjeta,local
+2026-01-15,mega plaza,vendedor1,vegetariana,personal,19.54,3,tarjeta,local
+2026-01-15,larcomar,Raul Herrera,bbq chicken,familiar,62.67,4,tarjeta,delivery
+2026-01-15,mall del sur,Hugo Aguilar,suprema,familiar,50.68,4,tarjeta,para_llevar
+2026-01-15,plaza san miguel,Bruno Campos,americana,grande,43.42,3,yape,delivery
+2026-01-15,plaza norte,Sergio Paredes,cuatro quesos,grande,39.55,2,tarjeta,local
+2026-01-15,real plaza salaverry,Cesar Ortiz,hawaiana,regular,29.52,2,efectivo,delivery
+2026-01-15,jockey plaza,Carlos Perez,pepperoni,grande,45.09,3,efectivo,local
+2026-01-15,real plaza salaverry,Mario Soto,suprema,familiar,65.01,3,tarjeta,delivery
+2026-01-15,real plaza centro civico,Hector Silva,bbq chicken,grande,37.11,2,yape,delivery
+2026-01-15,larcomar,Raul Herrera,suprema,familiar,63.89,2,tarjeta,local
+2026-01-15,mega plaza,vendedor3,suprema,familiar,55.06,1,efectivo,para_llevar
+2026-01-16,real plaza salaverry,Cesar Ortiz,hawaiana,regular,32.36,1,plin,local
+2026-01-16,mall aventura santa anita,Diego Flores,suprema,personal,21.99,1,plin,para_llevar
+2026-01-16,plaza norte,Sergio Paredes,suprema,grande,41.81,3,plin,para_llevar
+2026-01-16,real plaza salaverry,Mario Soto,americana,regular,33.51,4,efectivo,para_llevar
+2026-01-16,mega plaza,vendedor3,americana,personal,18.99,4,efectivo,delivery
+2026-01-16,real plaza centro civico,Fernando Diaz,hawaiana,personal,23.86,2,efectivo,para_llevar
+2026-01-16,real plaza centro civico,Ricardo Leon,pepperoni,regular,33.33,4,yape,delivery
+2026-01-16,real plaza salaverry,Julio Vargas,bbq chicken,personal,23.96,2,plin,para_llevar
+2026-01-16,open plaza angamos,Victor Chavez,cuatro quesos,regular,30.99,4,yape,delivery
+2026-01-16,jockey plaza,Luis Ramirez,americana,regular,28.25,2,plin,para_llevar
+2026-01-16,plaza san miguel,Martin Cruz,hawaiana,personal,23.06,3,plin,delivery
+2026-01-17,mall aventura santa anita,Diego Flores,hawaiana,grande,40.68,3,tarjeta,para_llevar
+2026-01-17,mall aventura santa anita,Andres Castro,cuatro quesos,familiar,57.43,3,plin,delivery
+2026-01-17,larcomar,Kevin Navarro,vegetariana,regular,31.35,2,tarjeta,para_llevar
+2026-01-17,jockey plaza,Carlos Perez,suprema,personal,23.66,2,tarjeta,para_llevar
+2026-01-17,open plaza angamos,Pablo Morales,cuatro quesos,personal,24.39,1,tarjeta,local
+2026-01-17,mall del sur,Hugo Aguilar,suprema,familiar,62.47,3,efectivo,local
+2026-01-17,mall del sur,Hugo Aguilar,hawaiana,grande,44.89,4,tarjeta,delivery
+2026-01-17,real plaza centro civico,Ricardo Leon,pepperoni,personal,21.94,3,plin,delivery
+2026-01-17,plaza norte,Renato Vega,vegetariana,regular,30.21,4,plin,local
+2026-01-17,plaza san miguel,Martin Cruz,suprema,regular,32.95,3,tarjeta,para_llevar
+2026-01-17,plaza norte,Renato Vega,americana,personal,21.68,1,plin,local
+2026-01-17,larcomar,Oscar Ruiz,pepperoni,regular,33.61,1,yape,local
+2026-01-17,larcomar,Kevin Navarro,bbq chicken,grande,41.62,1,efectivo,local
+2026-01-17,jockey plaza,Carlos Perez,bbq chicken,grande,38.53,4,efectivo,para_llevar
+2026-01-17,mall del sur,Ivan Castillo,vegetariana,regular,28.47,4,yape,local
+2026-01-17,plaza san miguel,Eduardo Nunez,bbq chicken,regular,27.58,3,plin,delivery
+2026-01-17,mega plaza,vendedor2,vegetariana,familiar,64.53,1,plin,para_llevar
+2026-01-17,open plaza angamos,Daniel Reyes,pepperoni,personal,23.38,1,efectivo,local
+2026-01-17,jockey plaza,Carlos Perez,americana,regular,33.58,4,efectivo,delivery
+2026-01-17,plaza norte,Alvaro Medina,vegetariana,grande,41.14,2,tarjeta,para_llevar
+2026-01-17,mall del sur,Ivan Castillo,cuatro quesos,regular,28.66,1,yape,para_llevar
+2026-01-18,mall del sur,Leo Mendoza,pepperoni,grande,41.48,4,efectivo,local
+2026-01-18,real plaza salaverry,Cesar Ortiz,hawaiana,regular,27.5,3,plin,para_llevar
+2026-01-18,open plaza angamos,Pablo Morales,cuatro quesos,familiar,62.25,4,efectivo,local
+2026-01-18,plaza san miguel,Martin Cruz,americana,familiar,54.01,4,tarjeta,para_llevar
+2026-01-18,mega plaza,vendedor1,bbq chicken,familiar,55.01,3,yape,local
+2026-01-18,jockey plaza,Jorge Torres,americana,regular,29.43,3,tarjeta,para_llevar
+2026-01-18,mall aventura santa anita,Diego Flores,bbq chicken,grande,38.21,4,plin,para_llevar
+2026-01-18,real plaza centro civico,Fernando Diaz,vegetariana,personal,21.19,1,plin,local
+2026-01-18,mall aventura santa anita,Diego Flores,vegetariana,familiar,47.8,4,efectivo,delivery
+2026-01-18,real plaza centro civico,Hector Silva,americana,familiar,47.31,1,yape,delivery
+2026-01-18,jockey plaza,Luis Ramirez,pepperoni,grande,44.46,3,efectivo,para_llevar
+2026-01-18,plaza san miguel,Eduardo Nunez,suprema,regular,27.25,1,efectivo,para_llevar
+2026-01-19,plaza san miguel,Bruno Campos,suprema,personal,25.12,1,yape,delivery
+2026-01-19,plaza san miguel,Eduardo Nunez,hawaiana,regular,35.29,1,tarjeta,delivery
+2026-01-19,real plaza centro civico,Ricardo Leon,pepperoni,personal,19.4,1,plin,para_llevar
+2026-01-19,real plaza centro civico,Fernando Diaz,cuatro quesos,familiar,64.67,3,efectivo,para_llevar
+2026-01-19,larcomar,Oscar Ruiz,cuatro quesos,grande,39.25,1,tarjeta,delivery
+2026-01-19,larcomar,Oscar Ruiz,americana,regular,35.49,2,plin,local
+2026-01-19,plaza san miguel,Martin Cruz,hawaiana,familiar,58.15,4,plin,para_llevar
+2026-01-19,plaza norte,Alvaro Medina,cuatro quesos,regular,33.76,4,efectivo,delivery
+2026-01-19,mall del sur,Ivan Castillo,hawaiana,personal,19.4,2,tarjeta,para_llevar
+2026-01-19,plaza san miguel,Eduardo Nunez,pepperoni,personal,24.0,2,tarjeta,delivery
+2026-01-19,real plaza centro civico,Fernando Diaz,vegetariana,personal,24.52,2,yape,local
+2026-01-19,plaza san miguel,Bruno Campos,suprema,personal,19.74,2,plin,local
+2026-01-19,plaza san miguel,Bruno Campos,vegetariana,familiar,47.56,3,tarjeta,delivery
+2026-01-19,jockey plaza,Jorge Torres,hawaiana,familiar,58.32,3,efectivo,local
+2026-01-19,mega plaza,vendedor1,pepperoni,familiar,58.62,2,yape,delivery
+2026-01-19,jockey plaza,Carlos Perez,hawaiana,grande,37.56,3,plin,local
+2026-01-19,larcomar,Oscar Ruiz,pepperoni,grande,37.0,4,tarjeta,delivery
+2026-01-20,mega plaza,vendedor1,bbq chicken,personal,21.83,1,plin,local
+2026-01-20,open plaza angamos,Victor Chavez,suprema,personal,24.06,4,yape,delivery
+2026-01-20,real plaza salaverry,Mario Soto,suprema,personal,20.17,1,tarjeta,delivery
+2026-01-20,real plaza salaverry,Mario Soto,suprema,grande,44.52,4,tarjeta,delivery
+2026-01-20,mall del sur,Ivan Castillo,suprema,personal,22.04,1,plin,local
+2026-01-20,mall del sur,Ivan Castillo,americana,familiar,52.18,4,efectivo,delivery
+2026-01-20,mall aventura santa anita,Diego Flores,pepperoni,regular,33.93,3,yape,local
+2026-01-20,real plaza centro civico,Ricardo Leon,cuatro quesos,regular,32.31,1,plin,local
+2026-01-21,plaza san miguel,Eduardo Nunez,americana,regular,28.25,4,efectivo,local
+2026-01-21,open plaza angamos,Victor Chavez,americana,regular,30.12,1,plin,para_llevar
+2026-01-21,mall del sur,Hugo Aguilar,vegetariana,personal,19.57,3,yape,local
+2026-01-21,larcomar,Kevin Navarro,suprema,grande,43.57,4,tarjeta,para_llevar
+2026-01-21,mega plaza,vendedor2,suprema,personal,23.15,2,yape,delivery
+2026-01-21,mall aventura santa anita,Diego Flores,cuatro quesos,grande,40.59,2,yape,para_llevar
+2026-01-21,larcomar,Kevin Navarro,cuatro quesos,familiar,65.31,3,efectivo,delivery
+2026-01-21,larcomar,Oscar Ruiz,hawaiana,personal,21.48,1,efectivo,para_llevar
+2026-01-21,real plaza centro civico,Hector Silva,suprema,personal,21.15,3,plin,para_llevar
+2026-01-21,larcomar,Oscar Ruiz,americana,regular,28.07,3,efectivo,local
+2026-01-21,real plaza centro civico,Fernando Diaz,cuatro quesos,regular,28.56,3,efectivo,local
+2026-01-21,open plaza angamos,Victor Chavez,suprema,regular,33.04,2,plin,local
+2026-01-21,plaza norte,Alvaro Medina,vegetariana,personal,21.07,2,plin,delivery
+2026-01-21,real plaza salaverry,Cesar Ortiz,bbq chicken,regular,35.17,4,plin,local
+2026-01-21,plaza san miguel,Eduardo Nunez,vegetariana,familiar,53.37,3,efectivo,local
+2026-01-21,mall del sur,Leo Mendoza,bbq chicken,grande,38.67,3,plin,para_llevar
+2026-01-21,mega plaza,vendedor1,vegetariana,familiar,55.72,4,efectivo,local
+2026-01-21,open plaza angamos,Daniel Reyes,cuatro quesos,familiar,53.58,2,plin,local
+2026-01-21,plaza san miguel,Martin Cruz,pepperoni,personal,19.38,3,efectivo,local
+2026-01-21,jockey plaza,Carlos Perez,hawaiana,familiar,51.04,1,yape,para_llevar
+2026-01-21,mall del sur,Ivan Castillo,vegetariana,familiar,49.55,1,plin,delivery
+2026-01-21,jockey plaza,Jorge Torres,americana,familiar,60.38,1,plin,local
+2026-01-21,mall del sur,Hugo Aguilar,americana,personal,23.84,3,yape,para_llevar
+2026-01-21,jockey plaza,Jorge Torres,suprema,personal,20.97,1,tarjeta,delivery
+2026-01-21,real plaza salaverry,Mario Soto,suprema,regular,35.16,4,tarjeta,local
+2026-01-22,mall del sur,Ivan Castillo,bbq chicken,regular,32.38,1,plin,delivery
+2026-01-22,plaza norte,Alvaro Medina,cuatro quesos,regular,29.86,2,efectivo,delivery
+2026-01-22,plaza norte,Renato Vega,hawaiana,regular,32.21,1,plin,delivery
+2026-01-22,jockey plaza,Luis Ramirez,suprema,grande,37.37,3,plin,local
+2026-01-22,mall aventura santa anita,Diego Flores,pepperoni,personal,21.99,4,efectivo,delivery
+2026-01-22,plaza norte,Sergio Paredes,americana,personal,21.81,2,plin,local
+2026-01-22,plaza norte,Alvaro Medina,suprema,familiar,48.5,2,yape,para_llevar
+2026-01-22,jockey plaza,Carlos Perez,hawaiana,familiar,49.39,3,efectivo,local
+2026-01-22,plaza san miguel,Eduardo Nunez,bbq chicken,grande,41.96,4,yape,para_llevar
+2026-01-22,plaza san miguel,Martin Cruz,cuatro quesos,personal,22.12,4,plin,local
+2026-01-22,plaza norte,Sergio Paredes,americana,regular,34.73,4,efectivo,delivery
+2026-01-22,mall del sur,Leo Mendoza,hawaiana,regular,27.15,4,plin,delivery
+2026-01-22,mall aventura santa anita,Miguel Rojas,bbq chicken,personal,19.33,4,yape,local
+2026-01-22,jockey plaza,Jorge Torres,bbq chicken,grande,39.11,4,efectivo,local
+2026-01-22,real plaza salaverry,Julio Vargas,suprema,regular,27.01,1,efectivo,delivery
+2026-01-22,plaza norte,Sergio Paredes,suprema,familiar,57.21,1,plin,local
+2026-01-22,jockey plaza,Luis Ramirez,hawaiana,personal,24.46,4,tarjeta,para_llevar
+2026-01-23,mall aventura santa anita,Andres Castro,hawaiana,grande,45.38,4,yape,delivery
+2026-01-23,mall aventura santa anita,Diego Flores,bbq chicken,grande,41.45,1,plin,local
+2026-01-23,plaza san miguel,Eduardo Nunez,vegetariana,grande,42.23,4,yape,local
+2026-01-23,plaza norte,Renato Vega,cuatro quesos,familiar,60.87,1,plin,local
+2026-01-23,jockey plaza,Carlos Perez,cuatro quesos,grande,44.07,1,yape,delivery
+2026-01-23,plaza san miguel,Eduardo Nunez,suprema,regular,32.41,3,yape,para_llevar
+2026-01-23,jockey plaza,Jorge Torres,bbq chicken,personal,24.88,1,efectivo,delivery
+2026-01-24,mega plaza,vendedor2,bbq chicken,grande,40.24,3,yape,para_llevar
+2026-01-24,plaza norte,Sergio Paredes,bbq chicken,regular,29.43,3,plin,delivery
+2026-01-24,jockey plaza,Luis Ramirez,cuatro quesos,familiar,49.08,2,plin,delivery
+2026-01-24,mall del sur,Leo Mendoza,pepperoni,familiar,49.01,4,plin,para_llevar
+2026-01-24,real plaza salaverry,Mario Soto,americana,familiar,58.97,1,yape,local
+2026-01-24,jockey plaza,Jorge Torres,americana,personal,20.58,2,tarjeta,delivery
+2026-01-24,real plaza salaverry,Mario Soto,cuatro quesos,personal,23.47,1,efectivo,local
+2026-01-24,mega plaza,vendedor2,cuatro quesos,grande,44.51,3,tarjeta,para_llevar
+2026-01-24,plaza san miguel,Martin Cruz,suprema,familiar,55.79,3,efectivo,delivery
+2026-01-24,plaza san miguel,Martin Cruz,americana,personal,19.14,4,plin,delivery
+2026-01-24,mega plaza,vendedor3,bbq chicken,regular,30.42,4,efectivo,para_llevar
+2026-01-24,mall del sur,Ivan Castillo,pepperoni,familiar,60.79,1,tarjeta,para_llevar
+2026-01-24,mega plaza,vendedor3,vegetariana,grande,41.67,3,plin,delivery
+2026-01-24,plaza san miguel,Bruno Campos,pepperoni,grande,38.03,3,yape,delivery
+2026-01-24,jockey plaza,Carlos Perez,americana,familiar,61.14,2,tarjeta,delivery
+2026-01-24,real plaza centro civico,Ricardo Leon,americana,regular,29.74,1,tarjeta,delivery
+2026-01-24,mega plaza,vendedor2,americana,personal,20.12,3,efectivo,delivery
+2026-01-24,plaza san miguel,Martin Cruz,suprema,grande,41.62,1,tarjeta,para_llevar
+2026-01-24,real plaza centro civico,Fernando Diaz,americana,familiar,51.16,4,plin,delivery
+2026-01-25,jockey plaza,Carlos Perez,bbq chicken,familiar,61.49,4,efectivo,para_llevar
+2026-01-25,plaza san miguel,Martin Cruz,pepperoni,personal,21.32,3,yape,delivery
+2026-01-25,real plaza centro civico,Fernando Diaz,pepperoni,familiar,51.07,1,plin,local
+2026-01-25,mega plaza,vendedor3,americana,grande,38.12,4,plin,delivery
+2026-01-25,mega plaza,vendedor2,bbq chicken,regular,27.2,2,efectivo,delivery
+2026-01-25,mall aventura santa anita,Andres Castro,pepperoni,grande,42.52,4,efectivo,delivery
+2026-01-25,larcomar,Raul Herrera,bbq chicken,regular,32.17,3,efectivo,local
+2026-01-25,larcomar,Raul Herrera,pepperoni,personal,22.69,4,tarjeta,para_llevar
+2026-01-25,plaza norte,Renato Vega,vegetariana,familiar,59.39,4,plin,para_llevar
+2026-01-25,real plaza centro civico,Fernando Diaz,bbq chicken,familiar,50.72,2,tarjeta,delivery
+2026-01-25,real plaza salaverry,Cesar Ortiz,americana,regular,28.5,3,yape,local
+2026-01-25,larcomar,Raul Herrera,hawaiana,personal,20.03,1,efectivo,delivery
+2026-01-25,mall aventura santa anita,Miguel Rojas,americana,familiar,51.55,4,yape,para_llevar
+2026-01-25,plaza san miguel,Martin Cruz,vegetariana,grande,45.48,1,yape,delivery
+2026-01-25,larcomar,Raul Herrera,suprema,regular,27.68,3,tarjeta,local
+2026-01-26,larcomar,Oscar Ruiz,pepperoni,regular,27.94,3,yape,para_llevar
+2026-01-26,jockey plaza,Carlos Perez,suprema,familiar,60.91,1,yape,delivery
+2026-01-26,larcomar,Raul Herrera,bbq chicken,familiar,50.86,4,efectivo,delivery
+2026-01-26,mega plaza,vendedor2,bbq chicken,grande,41.17,1,efectivo,local
+2026-01-26,plaza norte,Sergio Paredes,americana,regular,26.94,2,yape,local
+2026-01-26,plaza san miguel,Eduardo Nunez,hawaiana,grande,40.62,2,tarjeta,local
+2026-01-26,mall aventura santa anita,Andres Castro,bbq chicken,regular,32.94,4,efectivo,delivery
+2026-01-26,mall del sur,Ivan Castillo,suprema,familiar,50.46,3,tarjeta,delivery
+2026-01-26,plaza norte,Renato Vega,hawaiana,regular,31.45,3,efectivo,local
+2026-01-26,real plaza salaverry,Cesar Ortiz,pepperoni,familiar,58.67,2,plin,local
+2026-01-26,mall aventura santa anita,Diego Flores,pepperoni,grande,37.0,1,tarjeta,para_llevar
+2026-01-26,real plaza salaverry,Cesar Ortiz,suprema,personal,24.37,2,yape,para_llevar
+2026-01-26,larcomar,Oscar Ruiz,hawaiana,personal,21.64,3,plin,para_llevar
+2026-01-27,open plaza angamos,Daniel Reyes,suprema,regular,34.81,1,tarjeta,para_llevar
+2026-01-27,jockey plaza,Luis Ramirez,cuatro quesos,personal,25.22,1,tarjeta,para_llevar
+2026-01-27,jockey plaza,Luis Ramirez,cuatro quesos,personal,24.24,4,tarjeta,local
+2026-01-27,mega plaza,vendedor2,cuatro quesos,grande,39.26,1,efectivo,para_llevar
+2026-01-27,open plaza angamos,Victor Chavez,bbq chicken,familiar,59.56,1,plin,para_llevar
+2026-01-27,mega plaza,vendedor3,americana,grande,41.18,3,efectivo,local
+2026-01-27,jockey plaza,Carlos Perez,suprema,familiar,57.96,1,yape,para_llevar
+2026-01-27,jockey plaza,Jorge Torres,suprema,regular,28.32,4,tarjeta,local
+2026-01-27,larcomar,Oscar Ruiz,hawaiana,grande,45.27,2,efectivo,para_llevar
+2026-01-27,plaza norte,Sergio Paredes,americana,grande,40.79,4,plin,para_llevar
+2026-01-27,plaza norte,Alvaro Medina,americana,grande,43.12,1,yape,local
+2026-01-27,mega plaza,vendedor3,americana,grande,40.89,4,plin,para_llevar
+2026-01-27,open plaza angamos,Victor Chavez,bbq chicken,personal,23.01,3,tarjeta,local
+2026-01-27,jockey plaza,Carlos Perez,vegetariana,familiar,65.57,1,plin,local
+2026-01-27,larcomar,Raul Herrera,americana,familiar,47.46,3,efectivo,para_llevar
+2026-01-27,mega plaza,vendedor3,bbq chicken,grande,38.83,1,plin,delivery
+2026-01-28,real plaza salaverry,Mario Soto,vegetariana,personal,21.49,3,yape,local
+2026-01-28,mall del sur,Leo Mendoza,suprema,personal,23.91,2,yape,para_llevar
+2026-01-28,jockey plaza,Carlos Perez,cuatro quesos,regular,27.21,2,plin,delivery
+2026-01-28,larcomar,Kevin Navarro,americana,regular,33.42,2,plin,delivery
+2026-01-28,mall del sur,Hugo Aguilar,americana,grande,39.63,2,efectivo,local
+2026-01-28,jockey plaza,Jorge Torres,cuatro quesos,familiar,49.94,3,yape,local
+2026-01-28,larcomar,Oscar Ruiz,bbq chicken,familiar,55.65,4,plin,local
+2026-01-28,plaza san miguel,Martin Cruz,bbq chicken,personal,25.56,4,tarjeta,local
+2026-01-28,open plaza angamos,Pablo Morales,hawaiana,personal,21.43,3,yape,delivery
+2026-01-28,larcomar,Raul Herrera,bbq chicken,grande,44.5,3,yape,local
+2026-01-28,mega plaza,vendedor2,bbq chicken,familiar,64.65,1,yape,local
+2026-01-29,real plaza salaverry,Mario Soto,vegetariana,grande,41.67,1,tarjeta,local
+2026-01-29,plaza san miguel,Martin Cruz,bbq chicken,personal,22.18,4,efectivo,para_llevar
+2026-01-29,plaza san miguel,Eduardo Nunez,suprema,regular,33.77,2,tarjeta,local
+2026-01-29,mall aventura santa anita,Diego Flores,americana,personal,19.81,2,yape,para_llevar
+2026-01-29,plaza norte,Alvaro Medina,suprema,regular,27.92,2,tarjeta,delivery
+2026-01-29,plaza san miguel,Eduardo Nunez,suprema,familiar,58.68,1,plin,para_llevar
+2026-01-29,mall del sur,Ivan Castillo,pepperoni,personal,20.91,4,yape,delivery
+2026-01-29,real plaza centro civico,Ricardo Leon,bbq chicken,regular,32.43,3,efectivo,delivery
+2026-01-29,mega plaza,vendedor2,vegetariana,familiar,46.98,4,efectivo,local
+2026-01-29,mall del sur,Leo Mendoza,suprema,regular,34.97,4,efectivo,delivery
+2026-01-29,plaza norte,Sergio Paredes,pepperoni,grande,40.47,4,plin,local
+2026-01-29,plaza san miguel,Eduardo Nunez,pepperoni,personal,24.58,3,yape,local
+2026-01-30,mall aventura santa anita,Andres Castro,cuatro quesos,familiar,62.89,2,plin,delivery
+2026-01-30,jockey plaza,Luis Ramirez,americana,personal,19.71,2,tarjeta,local
+2026-01-30,real plaza centro civico,Fernando Diaz,hawaiana,grande,37.6,4,plin,para_llevar
+2026-01-30,real plaza centro civico,Hector Silva,pepperoni,grande,45.37,1,yape,delivery
+2026-01-30,larcomar,Raul Herrera,pepperoni,familiar,47.94,3,efectivo,delivery
+2026-01-30,open plaza angamos,Pablo Morales,cuatro quesos,familiar,47.76,2,efectivo,delivery
+2026-01-30,real plaza centro civico,Hector Silva,cuatro quesos,familiar,50.86,4,plin,delivery
+2026-01-30,real plaza centro civico,Fernando Diaz,vegetariana,grande,45.05,2,tarjeta,para_llevar
+2026-01-30,open plaza angamos,Daniel Reyes,cuatro quesos,familiar,65.1,1,yape,delivery
+2026-01-30,jockey plaza,Luis Ramirez,vegetariana,familiar,51.59,4,plin,para_llevar
+2026-01-30,plaza norte,Alvaro Medina,bbq chicken,regular,28.14,4,plin,para_llevar
+2026-01-30,real plaza salaverry,Julio Vargas,vegetariana,regular,27.63,3,yape,delivery
+2026-01-30,mall del sur,Leo Mendoza,cuatro quesos,familiar,52.4,2,yape,para_llevar
+2026-01-30,open plaza angamos,Daniel Reyes,pepperoni,personal,25.53,4,tarjeta,delivery
+2026-01-30,jockey plaza,Carlos Perez,vegetariana,regular,28.87,1,efectivo,local
+2026-01-31,real plaza salaverry,Julio Vargas,suprema,grande,42.62,3,efectivo,delivery
+2026-01-31,real plaza salaverry,Mario Soto,vegetariana,personal,23.86,1,yape,local
+2026-01-31,real plaza centro civico,Fernando Diaz,bbq chicken,grande,43.07,2,tarjeta,para_llevar
+2026-01-31,plaza san miguel,Eduardo Nunez,pepperoni,personal,23.59,2,tarjeta,local
+2026-01-31,mega plaza,vendedor1,bbq chicken,regular,35.33,2,plin,delivery
+2026-01-31,larcomar,Raul Herrera,americana,personal,24.25,4,efectivo,para_llevar
+2026-01-31,plaza san miguel,Martin Cruz,americana,regular,29.89,3,yape,para_llevar
+2026-01-31,open plaza angamos,Pablo Morales,hawaiana,regular,35.34,4,efectivo,local
+2026-01-31,mall aventura santa anita,Diego Flores,cuatro quesos,regular,32.93,4,efectivo,para_llevar
+2026-01-31,real plaza salaverry,Cesar Ortiz,cuatro quesos,grande,43.54,4,tarjeta,local
+2026-01-31,open plaza angamos,Daniel Reyes,hawaiana,familiar,54.87,4,yape,para_llevar
+2026-01-31,jockey plaza,Carlos Perez,hawaiana,grande,37.54,2,plin,para_llevar
+2026-01-31,real plaza salaverry,Cesar Ortiz,vegetariana,grande,41.28,3,efectivo,delivery
+2026-01-31,jockey plaza,Carlos Perez,suprema,grande,38.41,2,plin,para_llevar
+2026-01-31,jockey plaza,Luis Ramirez,bbq chicken,personal,23.43,3,yape,delivery
+2026-01-31,mall del sur,Leo Mendoza,cuatro quesos,regular,31.04,4,yape,para_llevar
+2026-01-31,mall aventura santa anita,Miguel Rojas,bbq chicken,familiar,54.02,4,tarjeta,delivery
+2026-01-31,mega plaza,vendedor3,suprema,personal,25.52,4,plin,para_llevar
+2026-01-31,real plaza centro civico,Ricardo Leon,suprema,personal,25.53,3,efectivo,delivery
+2026-01-31,real plaza salaverry,Julio Vargas,americana,grande,44.47,1,yape,para_llevar
+2026-01-31,mall del sur,Hugo Aguilar,americana,grande,44.58,3,yape,delivery
+2026-02-01,open plaza angamos,Victor Chavez,vegetariana,personal,25.48,3,tarjeta,local
+2026-02-01,plaza san miguel,Eduardo Nunez,bbq chicken,personal,21.96,3,yape,para_llevar
+2026-02-01,plaza san miguel,Eduardo Nunez,americana,personal,22.51,4,tarjeta,para_llevar
+2026-02-01,open plaza angamos,Daniel Reyes,vegetariana,grande,43.15,3,plin,local
+2026-02-01,mall aventura santa anita,Andres Castro,americana,regular,27.17,1,tarjeta,local
+2026-02-01,jockey plaza,Jorge Torres,pepperoni,familiar,57.93,2,yape,delivery
+2026-02-01,plaza san miguel,Martin Cruz,americana,familiar,47.11,4,plin,local
+2026-02-01,plaza san miguel,Eduardo Nunez,pepperoni,familiar,49.28,2,tarjeta,delivery
+2026-02-01,mega plaza,vendedor1,vegetariana,personal,24.87,1,plin,local
+2026-02-01,larcomar,Raul Herrera,americana,familiar,62.74,1,yape,para_llevar
+2026-02-01,jockey plaza,Jorge Torres,americana,regular,34.77,4,yape,delivery
+2026-02-01,mega plaza,vendedor1,pepperoni,regular,30.0,1,efectivo,para_llevar
+2026-02-02,real plaza centro civico,Hector Silva,bbq chicken,regular,33.34,1,tarjeta,delivery
+2026-02-02,jockey plaza,Jorge Torres,cuatro quesos,familiar,51.88,3,efectivo,para_llevar
+2026-02-02,real plaza centro civico,Ricardo Leon,cuatro quesos,familiar,48.97,3,tarjeta,local
+2026-02-02,jockey plaza,Carlos Perez,suprema,grande,38.28,3,yape,delivery
+2026-02-02,real plaza centro civico,Fernando Diaz,cuatro quesos,grande,41.67,4,tarjeta,local
+2026-02-02,jockey plaza,Carlos Perez,pepperoni,regular,34.01,2,yape,delivery
+2026-02-02,jockey plaza,Jorge Torres,bbq chicken,familiar,49.84,1,plin,para_llevar
+2026-02-02,larcomar,Raul Herrera,suprema,regular,28.9,4,yape,para_llevar
+2026-02-02,real plaza centro civico,Hector Silva,vegetariana,regular,30.61,3,yape,para_llevar
+2026-02-03,plaza san miguel,Martin Cruz,pepperoni,familiar,50.76,3,efectivo,para_llevar
+2026-02-03,open plaza angamos,Pablo Morales,vegetariana,grande,41.38,1,yape,para_llevar
+2026-02-03,jockey plaza,Jorge Torres,cuatro quesos,regular,27.41,4,yape,delivery
+2026-02-03,real plaza centro civico,Fernando Diaz,americana,grande,41.94,3,efectivo,para_llevar
+2026-02-03,mall aventura santa anita,Diego Flores,suprema,personal,22.85,4,plin,para_llevar
+2026-02-03,plaza norte,Alvaro Medina,cuatro quesos,grande,45.49,4,yape,local
+2026-02-03,plaza san miguel,Bruno Campos,suprema,familiar,62.57,3,efectivo,delivery
+2026-02-03,plaza norte,Renato Vega,bbq chicken,regular,34.41,3,yape,delivery
+2026-02-03,mega plaza,vendedor3,pepperoni,regular,33.5,1,plin,local
+2026-02-03,mall del sur,Leo Mendoza,americana,grande,44.85,3,efectivo,delivery
+2026-02-03,mega plaza,vendedor2,pepperoni,regular,32.11,3,tarjeta,para_llevar
+2026-02-03,real plaza salaverry,Cesar Ortiz,cuatro quesos,regular,32.68,4,efectivo,local
+2026-02-03,larcomar,Raul Herrera,americana,grande,45.07,3,yape,delivery
+2026-02-03,mall del sur,Leo Mendoza,suprema,regular,27.17,1,efectivo,delivery
+2026-02-03,mall aventura santa anita,Diego Flores,pepperoni,familiar,52.22,3,plin,para_llevar
+2026-02-03,real plaza salaverry,Cesar Ortiz,pepperoni,personal,22.48,1,plin,delivery
+2026-02-03,mall del sur,Hugo Aguilar,bbq chicken,personal,22.82,1,yape,delivery
+2026-02-04,larcomar,Oscar Ruiz,americana,regular,34.3,2,tarjeta,delivery
+2026-02-04,jockey plaza,Jorge Torres,hawaiana,grande,40.96,4,tarjeta,delivery
+2026-02-04,plaza san miguel,Martin Cruz,cuatro quesos,grande,40.26,4,efectivo,para_llevar
+2026-02-04,jockey plaza,Luis Ramirez,cuatro quesos,grande,43.09,2,tarjeta,para_llevar
+2026-02-04,plaza san miguel,Martin Cruz,hawaiana,personal,23.89,3,efectivo,local
+2026-02-04,mega plaza,vendedor3,hawaiana,familiar,56.6,2,tarjeta,local
+2026-02-04,jockey plaza,Jorge Torres,hawaiana,familiar,55.09,4,tarjeta,local
+2026-02-04,real plaza salaverry,Julio Vargas,pepperoni,grande,41.64,4,yape,para_llevar
+2026-02-04,mega plaza,vendedor3,pepperoni,familiar,61.03,3,efectivo,para_llevar
+2026-02-04,plaza norte,Alvaro Medina,suprema,personal,19.58,1,yape,local
+2026-02-04,real plaza salaverry,Cesar Ortiz,suprema,regular,30.04,4,tarjeta,para_llevar
+2026-02-04,larcomar,Raul Herrera,cuatro quesos,regular,28.98,3,efectivo,local
+2026-02-04,plaza san miguel,Bruno Campos,suprema,grande,43.53,3,efectivo,delivery
+2026-02-04,jockey plaza,Carlos Perez,americana,grande,44.45,2,yape,local
+2026-02-04,real plaza centro civico,Ricardo Leon,hawaiana,personal,25.38,4,yape,local
+2026-02-05,plaza norte,Sergio Paredes,suprema,personal,23.51,3,yape,delivery
+2026-02-05,jockey plaza,Jorge Torres,vegetariana,regular,31.94,1,plin,para_llevar
+2026-02-05,plaza san miguel,Eduardo Nunez,hawaiana,grande,38.18,4,plin,para_llevar
+2026-02-05,jockey plaza,Luis Ramirez,americana,grande,37.27,3,efectivo,delivery
+2026-02-05,larcomar,Kevin Navarro,vegetariana,familiar,56.94,4,tarjeta,local
+2026-02-05,jockey plaza,Jorge Torres,hawaiana,personal,22.04,3,efectivo,local
+2026-02-05,mall aventura santa anita,Miguel Rojas,bbq chicken,personal,24.21,2,tarjeta,local
+2026-02-05,mega plaza,vendedor3,bbq chicken,regular,33.74,4,yape,para_llevar
+2026-02-05,mall aventura santa anita,Diego Flores,pepperoni,personal,21.5,4,efectivo,local
+2026-02-05,larcomar,Oscar Ruiz,bbq chicken,grande,41.94,4,tarjeta,delivery
+2026-02-05,open plaza angamos,Daniel Reyes,hawaiana,grande,40.53,2,plin,para_llevar
+2026-02-06,jockey plaza,Luis Ramirez,suprema,grande,39.83,2,yape,para_llevar
+2026-02-06,mega plaza,vendedor3,suprema,familiar,47.81,1,plin,para_llevar
+2026-02-06,plaza san miguel,Eduardo Nunez,americana,grande,39.97,1,plin,delivery
+2026-02-06,real plaza centro civico,Fernando Diaz,cuatro quesos,personal,23.45,2,efectivo,delivery
+2026-02-06,jockey plaza,Luis Ramirez,pepperoni,grande,44.26,4,tarjeta,para_llevar
+2026-02-06,larcomar,Kevin Navarro,americana,familiar,65.28,1,plin,delivery
+2026-02-06,plaza san miguel,Eduardo Nunez,pepperoni,familiar,62.45,4,tarjeta,para_llevar
+2026-02-06,plaza norte,Sergio Paredes,hawaiana,regular,27.83,4,efectivo,local
+2026-02-06,larcomar,Kevin Navarro,pepperoni,personal,21.53,3,plin,delivery
+2026-02-06,open plaza angamos,Daniel Reyes,pepperoni,familiar,51.12,3,tarjeta,local
+2026-02-06,real plaza centro civico,Ricardo Leon,hawaiana,regular,31.47,4,efectivo,para_llevar
+2026-02-06,open plaza angamos,Victor Chavez,americana,regular,30.31,2,plin,local
+2026-02-06,real plaza salaverry,Cesar Ortiz,americana,familiar,61.16,3,tarjeta,para_llevar
+2026-02-06,jockey plaza,Luis Ramirez,suprema,personal,23.15,2,efectivo,local
+2026-02-06,mega plaza,vendedor2,americana,personal,25.27,3,tarjeta,local
+2026-02-07,real plaza salaverry,Julio Vargas,pepperoni,personal,21.16,3,yape,para_llevar
+2026-02-07,real plaza centro civico,Hector Silva,bbq chicken,personal,22.23,4,tarjeta,local
+2026-02-07,real plaza centro civico,Fernando Diaz,bbq chicken,familiar,55.0,1,plin,para_llevar
+2026-02-07,jockey plaza,Jorge Torres,cuatro quesos,grande,42.95,3,tarjeta,local
+2026-02-07,larcomar,Kevin Navarro,vegetariana,regular,30.37,2,plin,local
+2026-02-07,plaza san miguel,Martin Cruz,cuatro quesos,familiar,47.67,4,plin,para_llevar
+2026-02-07,jockey plaza,Jorge Torres,pepperoni,regular,32.22,2,yape,delivery
+2026-02-07,larcomar,Kevin Navarro,americana,regular,33.35,4,efectivo,delivery
+2026-02-07,real plaza centro civico,Ricardo Leon,vegetariana,personal,19.46,2,tarjeta,para_llevar
+2026-02-07,real plaza centro civico,Hector Silva,vegetariana,familiar,57.23,2,tarjeta,delivery
+2026-02-07,mall aventura santa anita,Diego Flores,pepperoni,familiar,59.79,3,yape,delivery
+2026-02-07,plaza norte,Renato Vega,americana,regular,29.43,4,plin,local
+2026-02-07,open plaza angamos,Pablo Morales,suprema,regular,29.53,1,yape,delivery
+2026-02-08,real plaza centro civico,Ricardo Leon,pepperoni,grande,36.95,3,plin,para_llevar
+2026-02-08,mall del sur,Hugo Aguilar,vegetariana,personal,24.31,2,yape,delivery
+2026-02-08,mega plaza,vendedor1,cuatro quesos,familiar,53.34,2,efectivo,delivery
+2026-02-08,mega plaza,vendedor2,bbq chicken,familiar,59.57,1,yape,delivery
+2026-02-08,real plaza centro civico,Fernando Diaz,suprema,familiar,58.11,2,plin,local
+2026-02-08,mall aventura santa anita,Andres Castro,americana,grande,43.55,1,yape,delivery
+2026-02-08,larcomar,Raul Herrera,bbq chicken,familiar,51.86,1,efectivo,local
+2026-02-08,mall del sur,Ivan Castillo,suprema,grande,41.2,2,plin,delivery
+2026-02-08,plaza san miguel,Martin Cruz,pepperoni,regular,30.88,4,plin,local
+2026-02-08,mall del sur,Hugo Aguilar,suprema,grande,45.26,4,yape,local
+2026-02-08,plaza san miguel,Bruno Campos,cuatro quesos,personal,23.27,4,plin,local
+2026-02-08,plaza san miguel,Eduardo Nunez,suprema,grande,38.16,4,yape,para_llevar
+2026-02-08,real plaza salaverry,Julio Vargas,hawaiana,regular,33.81,2,plin,local
+2026-02-09,real plaza centro civico,Ricardo Leon,suprema,grande,38.25,4,yape,delivery
+2026-02-09,larcomar,Oscar Ruiz,vegetariana,grande,42.84,2,efectivo,para_llevar
+2026-02-09,mall aventura santa anita,Andres Castro,pepperoni,familiar,63.69,4,tarjeta,local
+2026-02-09,mall aventura santa anita,Miguel Rojas,cuatro quesos,personal,19.46,4,yape,local
+2026-02-09,jockey plaza,Jorge Torres,vegetariana,personal,19.2,1,yape,local
+2026-02-09,mall aventura santa anita,Miguel Rojas,vegetariana,regular,35.3,3,efectivo,para_llevar
+2026-02-09,mall aventura santa anita,Andres Castro,americana,familiar,51.37,4,yape,para_llevar
+2026-02-09,real plaza salaverry,Cesar Ortiz,cuatro quesos,grande,44.98,3,plin,para_llevar
+2026-02-09,plaza san miguel,Martin Cruz,hawaiana,familiar,62.09,2,yape,local
+2026-02-09,mega plaza,vendedor1,pepperoni,familiar,54.97,3,efectivo,local
+2026-02-09,open plaza angamos,Pablo Morales,bbq chicken,grande,42.36,4,yape,para_llevar
+2026-02-09,larcomar,Raul Herrera,bbq chicken,personal,22.89,4,tarjeta,para_llevar
+2026-02-09,mall del sur,Hugo Aguilar,vegetariana,familiar,65.87,3,yape,delivery
+2026-02-10,larcomar,Kevin Navarro,hawaiana,personal,19.26,1,yape,para_llevar
+2026-02-10,mall del sur,Leo Mendoza,cuatro quesos,personal,21.82,3,plin,delivery
+2026-02-10,mall aventura santa anita,Andres Castro,hawaiana,personal,24.92,1,efectivo,para_llevar
+2026-02-10,larcomar,Kevin Navarro,cuatro quesos,regular,33.54,3,yape,para_llevar
+2026-02-10,plaza san miguel,Bruno Campos,cuatro quesos,regular,35.26,4,plin,delivery
+2026-02-10,plaza norte,Renato Vega,suprema,familiar,50.29,1,tarjeta,para_llevar
+2026-02-10,real plaza salaverry,Mario Soto,suprema,familiar,61.17,3,tarjeta,local
+2026-02-10,mall del sur,Hugo Aguilar,americana,regular,32.23,4,tarjeta,local
+2026-02-10,plaza norte,Sergio Paredes,vegetariana,personal,22.54,2,yape,delivery
+2026-02-10,plaza san miguel,Martin Cruz,cuatro quesos,familiar,53.84,2,tarjeta,local
+2026-02-10,mall aventura santa anita,Miguel Rojas,suprema,regular,27.24,1,yape,delivery
+2026-02-10,plaza norte,Renato Vega,bbq chicken,personal,21.61,3,tarjeta,delivery
+2026-02-10,plaza san miguel,Martin Cruz,bbq chicken,regular,35.81,3,efectivo,delivery
+2026-02-10,mall aventura santa anita,Diego Flores,hawaiana,regular,35.84,4,efectivo,delivery
+2026-02-10,real plaza salaverry,Mario Soto,bbq chicken,familiar,61.06,2,plin,para_llevar
+2026-02-10,plaza norte,Alvaro Medina,vegetariana,familiar,50.4,3,efectivo,delivery
+2026-02-10,larcomar,Oscar Ruiz,suprema,familiar,59.48,3,tarjeta,delivery
+2026-02-10,mega plaza,vendedor1,vegetariana,regular,33.9,4,plin,local
+2026-02-10,mall del sur,Ivan Castillo,cuatro quesos,personal,21.1,3,plin,delivery
+2026-02-11,open plaza angamos,Victor Chavez,hawaiana,regular,28.21,1,efectivo,local
+2026-02-11,plaza norte,Renato Vega,americana,regular,35.71,3,tarjeta,delivery
+2026-02-11,real plaza salaverry,Julio Vargas,cuatro quesos,regular,30.41,4,yape,delivery
+2026-02-11,real plaza centro civico,Hector Silva,bbq chicken,regular,33.68,4,yape,para_llevar
+2026-02-11,plaza san miguel,Bruno Campos,suprema,familiar,63.74,2,yape,local
+2026-02-11,mega plaza,vendedor1,americana,familiar,53.84,3,yape,local
+2026-02-11,open plaza angamos,Daniel Reyes,hawaiana,grande,45.85,4,yape,delivery
+2026-02-11,open plaza angamos,Pablo Morales,vegetariana,personal,24.18,2,yape,para_llevar
+2026-02-11,jockey plaza,Luis Ramirez,hawaiana,regular,34.14,2,efectivo,delivery
+2026-02-11,mall aventura santa anita,Miguel Rojas,vegetariana,grande,40.11,1,yape,local
+2026-02-11,plaza san miguel,Eduardo Nunez,vegetariana,personal,22.46,3,yape,local
+2026-02-11,mega plaza,vendedor3,vegetariana,regular,27.52,1,plin,local
+2026-02-11,mall del sur,Hugo Aguilar,cuatro quesos,regular,34.79,1,tarjeta,delivery
+2026-02-11,real plaza salaverry,Cesar Ortiz,pepperoni,regular,32.76,4,yape,delivery
+2026-02-11,mall del sur,Ivan Castillo,vegetariana,grande,37.56,4,efectivo,para_llevar
+2026-02-11,real plaza salaverry,Julio Vargas,bbq chicken,regular,32.32,3,plin,para_llevar
+2026-02-11,mega plaza,vendedor3,suprema,personal,19.15,3,yape,para_llevar
+2026-02-12,open plaza angamos,Daniel Reyes,bbq chicken,regular,29.71,1,yape,local
+2026-02-12,plaza norte,Renato Vega,cuatro quesos,grande,45.54,2,tarjeta,delivery
+2026-02-12,real plaza centro civico,Hector Silva,cuatro quesos,familiar,61.58,1,yape,local
+2026-02-12,real plaza salaverry,Mario Soto,americana,regular,28.37,3,yape,para_llevar
+2026-02-12,mall aventura santa anita,Diego Flores,hawaiana,familiar,46.95,1,efectivo,para_llevar
+2026-02-12,jockey plaza,Carlos Perez,suprema,familiar,57.87,3,efectivo,delivery
+2026-02-12,mall del sur,Leo Mendoza,cuatro quesos,regular,28.69,3,efectivo,delivery
+2026-02-12,mega plaza,vendedor3,hawaiana,regular,31.21,3,plin,para_llevar
+2026-02-12,plaza san miguel,Martin Cruz,vegetariana,regular,35.69,4,yape,para_llevar
+2026-02-12,larcomar,Oscar Ruiz,bbq chicken,personal,20.51,1,plin,delivery
+2026-02-12,open plaza angamos,Victor Chavez,suprema,regular,35.13,2,tarjeta,local
+2026-02-12,jockey plaza,Jorge Torres,suprema,regular,35.66,3,plin,local
+2026-02-12,larcomar,Kevin Navarro,bbq chicken,grande,41.25,1,efectivo,delivery
+2026-02-12,mall del sur,Hugo Aguilar,pepperoni,grande,43.93,3,yape,local
+2026-02-12,plaza san miguel,Eduardo Nunez,hawaiana,familiar,61.26,2,tarjeta,delivery
+2026-02-13,jockey plaza,Carlos Perez,cuatro quesos,regular,31.16,3,yape,delivery
+2026-02-13,plaza san miguel,Eduardo Nunez,americana,familiar,58.88,3,tarjeta,delivery
+2026-02-13,mega plaza,vendedor2,vegetariana,personal,25.37,2,efectivo,delivery
+2026-02-13,plaza san miguel,Bruno Campos,hawaiana,familiar,47.57,2,efectivo,para_llevar
+2026-02-13,mall del sur,Leo Mendoza,suprema,personal,23.45,3,yape,para_llevar
+2026-02-13,plaza norte,Alvaro Medina,pepperoni,grande,37.3,1,plin,para_llevar
+2026-02-13,plaza san miguel,Bruno Campos,suprema,personal,23.57,3,efectivo,delivery
+2026-02-13,mall aventura santa anita,Miguel Rojas,americana,familiar,48.8,1,yape,local
+2026-02-13,open plaza angamos,Daniel Reyes,vegetariana,familiar,49.94,3,efectivo,local
+2026-02-13,real plaza centro civico,Ricardo Leon,vegetariana,grande,45.53,1,plin,delivery
+2026-02-13,larcomar,Oscar Ruiz,vegetariana,personal,24.88,2,tarjeta,local
+2026-02-13,jockey plaza,Carlos Perez,vegetariana,regular,27.87,2,efectivo,local
+2026-02-13,larcomar,Oscar Ruiz,pepperoni,regular,30.96,3,tarjeta,local
+2026-02-13,mega plaza,vendedor2,hawaiana,personal,23.52,2,yape,local
+2026-02-13,mall aventura santa anita,Andres Castro,hawaiana,personal,24.09,4,yape,delivery
+2026-02-14,mega plaza,vendedor2,hawaiana,regular,28.37,2,efectivo,local
+2026-02-14,real plaza salaverry,Mario Soto,americana,familiar,60.18,2,plin,para_llevar
+2026-02-14,larcomar,Kevin Navarro,bbq chicken,regular,29.77,1,yape,local
+2026-02-14,mega plaza,vendedor3,americana,familiar,50.49,2,plin,local
+2026-02-14,plaza san miguel,Eduardo Nunez,pepperoni,personal,23.08,2,yape,delivery
+2026-02-14,larcomar,Raul Herrera,bbq chicken,regular,31.88,4,efectivo,local
+2026-02-14,mega plaza,vendedor1,hawaiana,grande,45.64,2,yape,para_llevar
+2026-02-14,mega plaza,vendedor2,cuatro quesos,familiar,59.65,4,tarjeta,para_llevar
+2026-02-14,open plaza angamos,Daniel Reyes,bbq chicken,regular,28.68,1,yape,delivery
+2026-02-14,plaza norte,Renato Vega,hawaiana,regular,29.91,4,tarjeta,local
+2026-02-14,mega plaza,vendedor2,hawaiana,familiar,62.37,1,yape,local
+2026-02-14,larcomar,Raul Herrera,vegetariana,familiar,59.23,2,yape,delivery
+2026-02-14,mall aventura santa anita,Miguel Rojas,suprema,regular,33.74,2,tarjeta,para_llevar
+2026-02-14,plaza norte,Alvaro Medina,americana,regular,34.62,4,tarjeta,para_llevar
+2026-02-14,open plaza angamos,Victor Chavez,americana,regular,35.48,4,plin,local
+2026-02-14,mega plaza,vendedor1,americana,familiar,58.58,3,efectivo,local
+2026-02-15,real plaza salaverry,Mario Soto,vegetariana,familiar,65.08,1,efectivo,delivery
+2026-02-15,mall aventura santa anita,Diego Flores,hawaiana,personal,21.52,2,yape,local
+2026-02-15,real plaza centro civico,Fernando Diaz,americana,personal,19.08,3,yape,delivery
+2026-02-15,larcomar,Kevin Navarro,hawaiana,regular,30.12,1,yape,local
+2026-02-15,plaza norte,Renato Vega,cuatro quesos,regular,33.43,2,plin,delivery
+2026-02-15,real plaza centro civico,Ricardo Leon,hawaiana,familiar,50.72,4,plin,local
+2026-02-15,open plaza angamos,Pablo Morales,cuatro quesos,familiar,55.61,1,yape,local
+2026-02-15,plaza san miguel,Bruno Campos,americana,regular,32.97,4,yape,delivery
+2026-02-15,mall aventura santa anita,Andres Castro,pepperoni,personal,24.07,1,plin,local
+2026-02-15,larcomar,Kevin Navarro,hawaiana,familiar,61.54,4,tarjeta,delivery
+2026-02-15,real plaza salaverry,Julio Vargas,suprema,grande,40.63,1,efectivo,para_llevar
+2026-02-15,mall del sur,Hugo Aguilar,suprema,grande,44.45,3,plin,local
+2026-02-16,real plaza centro civico,Hector Silva,cuatro quesos,familiar,55.17,4,tarjeta,delivery
+2026-02-16,plaza norte,Renato Vega,bbq chicken,familiar,54.06,3,efectivo,local
+2026-02-16,mega plaza,vendedor3,suprema,personal,23.21,2,tarjeta,para_llevar
+2026-02-16,mall aventura santa anita,Diego Flores,suprema,regular,27.71,1,efectivo,para_llevar
+2026-02-16,larcomar,Kevin Navarro,pepperoni,familiar,54.01,1,plin,delivery
+2026-02-16,open plaza angamos,Victor Chavez,vegetariana,familiar,49.17,2,efectivo,local
+2026-02-16,larcomar,Raul Herrera,vegetariana,personal,22.17,1,yape,local
+2026-02-16,plaza san miguel,Bruno Campos,vegetariana,grande,41.45,1,tarjeta,local
+2026-02-16,mall aventura santa anita,Miguel Rojas,hawaiana,regular,33.57,4,tarjeta,para_llevar
+2026-02-16,jockey plaza,Luis Ramirez,suprema,regular,27.76,1,efectivo,local
+2026-02-16,larcomar,Oscar Ruiz,cuatro quesos,familiar,59.42,3,efectivo,local
+2026-02-16,plaza norte,Renato Vega,hawaiana,regular,34.01,2,efectivo,delivery
+2026-02-16,larcomar,Kevin Navarro,cuatro quesos,grande,38.43,3,yape,delivery
+2026-02-16,larcomar,Oscar Ruiz,cuatro quesos,familiar,51.57,4,tarjeta,para_llevar
+2026-02-16,jockey plaza,Luis Ramirez,bbq chicken,regular,27.45,1,efectivo,delivery
+2026-02-17,jockey plaza,Carlos Perez,hawaiana,grande,37.81,2,tarjeta,para_llevar
+2026-02-17,real plaza salaverry,Cesar Ortiz,pepperoni,grande,37.71,1,yape,delivery
+2026-02-17,mega plaza,vendedor1,hawaiana,familiar,51.49,2,plin,delivery
+2026-02-17,real plaza salaverry,Julio Vargas,pepperoni,grande,40.27,4,tarjeta,local
+2026-02-17,mall aventura santa anita,Diego Flores,cuatro quesos,regular,34.46,2,tarjeta,para_llevar
+2026-02-17,mega plaza,vendedor1,hawaiana,personal,20.68,1,plin,delivery
+2026-02-17,open plaza angamos,Victor Chavez,vegetariana,regular,35.17,1,plin,local
+2026-02-17,mall del sur,Leo Mendoza,vegetariana,regular,34.5,4,efectivo,delivery
+2026-02-17,jockey plaza,Carlos Perez,bbq chicken,personal,20.53,3,plin,delivery
+2026-02-17,mall del sur,Hugo Aguilar,hawaiana,regular,32.09,1,efectivo,local
+2026-02-17,larcomar,Raul Herrera,hawaiana,grande,45.3,4,efectivo,para_llevar
+2026-02-17,jockey plaza,Jorge Torres,vegetariana,grande,45.35,3,yape,delivery
+2026-02-17,plaza san miguel,Bruno Campos,vegetariana,regular,35.87,3,yape,local
+2026-02-17,plaza norte,Renato Vega,bbq chicken,personal,25.47,1,yape,local
+2026-02-17,plaza san miguel,Bruno Campos,americana,personal,18.92,2,yape,local
+2026-02-17,mall aventura santa anita,Miguel Rojas,suprema,personal,23.07,3,yape,delivery
+2026-02-18,mall aventura santa anita,Andres Castro,americana,regular,31.23,4,yape,local
+2026-02-18,plaza norte,Alvaro Medina,hawaiana,personal,21.16,1,tarjeta,para_llevar
+2026-02-18,real plaza centro civico,Hector Silva,americana,grande,42.94,2,yape,para_llevar
+2026-02-18,open plaza angamos,Pablo Morales,hawaiana,familiar,57.46,4,yape,local
+2026-02-18,larcomar,Kevin Navarro,cuatro quesos,personal,20.15,1,yape,para_llevar
+2026-02-18,plaza norte,Alvaro Medina,vegetariana,personal,24.57,3,efectivo,local
+2026-02-18,real plaza salaverry,Julio Vargas,vegetariana,personal,23.38,3,plin,local
+2026-02-18,real plaza centro civico,Fernando Diaz,suprema,grande,45.15,2,tarjeta,delivery
+2026-02-18,plaza san miguel,Eduardo Nunez,cuatro quesos,regular,27.04,1,yape,delivery
+2026-02-18,plaza san miguel,Martin Cruz,cuatro quesos,regular,33.34,2,plin,local
+2026-02-18,real plaza salaverry,Mario Soto,cuatro quesos,grande,39.47,4,yape,local
+2026-02-18,larcomar,Oscar Ruiz,suprema,familiar,65.17,1,plin,para_llevar
+2026-02-18,plaza san miguel,Eduardo Nunez,americana,familiar,54.42,2,yape,local
+2026-02-19,open plaza angamos,Daniel Reyes,americana,familiar,55.49,2,efectivo,local
+2026-02-19,mall aventura santa anita,Diego Flores,cuatro quesos,personal,23.24,1,yape,delivery
+2026-02-19,mega plaza,vendedor1,vegetariana,grande,38.37,2,plin,para_llevar
+2026-02-19,mega plaza,vendedor1,pepperoni,grande,38.06,4,yape,para_llevar
+2026-02-19,plaza norte,Renato Vega,cuatro quesos,grande,40.61,1,efectivo,para_llevar
+2026-02-19,mall del sur,Ivan Castillo,pepperoni,grande,45.78,4,yape,para_llevar
+2026-02-19,real plaza centro civico,Ricardo Leon,suprema,grande,42.27,1,yape,delivery
+2026-02-19,real plaza salaverry,Cesar Ortiz,pepperoni,grande,42.64,4,plin,delivery
+2026-02-19,plaza norte,Alvaro Medina,bbq chicken,personal,22.7,2,plin,delivery
+2026-02-19,real plaza centro civico,Ricardo Leon,cuatro quesos,personal,19.27,3,plin,local
+2026-02-19,jockey plaza,Jorge Torres,americana,grande,45.76,2,yape,delivery
+2026-02-19,larcomar,Kevin Navarro,vegetariana,personal,19.06,2,tarjeta,delivery
+2026-02-19,mall aventura santa anita,Diego Flores,cuatro quesos,personal,18.96,2,tarjeta,delivery
+2026-02-19,real plaza centro civico,Ricardo Leon,pepperoni,grande,38.4,2,tarjeta,delivery
+2026-02-19,mall del sur,Leo Mendoza,americana,grande,37.43,1,plin,para_llevar
+2026-02-20,real plaza salaverry,Julio Vargas,hawaiana,personal,19.75,3,efectivo,delivery
+2026-02-20,plaza norte,Sergio Paredes,hawaiana,regular,28.05,1,tarjeta,local
+2026-02-20,larcomar,Kevin Navarro,suprema,regular,27.06,4,yape,delivery
+2026-02-20,real plaza salaverry,Julio Vargas,suprema,familiar,53.1,1,efectivo,local
+2026-02-20,open plaza angamos,Pablo Morales,pepperoni,grande,44.2,3,efectivo,delivery
+2026-02-20,mall del sur,Hugo Aguilar,cuatro quesos,personal,20.53,2,plin,para_llevar
+2026-02-20,mega plaza,vendedor1,bbq chicken,personal,22.88,2,plin,local
+2026-02-20,mega plaza,vendedor2,vegetariana,regular,28.72,4,plin,local
+2026-02-20,real plaza centro civico,Hector Silva,suprema,regular,33.0,3,plin,delivery
+2026-02-20,mega plaza,vendedor1,hawaiana,regular,32.2,1,yape,delivery
+2026-02-20,mega plaza,vendedor2,cuatro quesos,personal,19.71,4,yape,delivery
+2026-02-20,jockey plaza,Jorge Torres,suprema,familiar,63.82,4,yape,para_llevar
+2026-02-20,open plaza angamos,Daniel Reyes,suprema,grande,45.31,3,efectivo,local
+2026-02-20,mega plaza,vendedor3,hawaiana,personal,19.63,4,efectivo,delivery
+2026-02-20,real plaza centro civico,Fernando Diaz,pepperoni,regular,29.53,2,yape,local
+2026-02-20,open plaza angamos,Victor Chavez,cuatro quesos,personal,24.11,1,tarjeta,delivery
+2026-02-20,open plaza angamos,Daniel Reyes,hawaiana,grande,45.03,4,efectivo,delivery
+2026-02-21,plaza norte,Renato Vega,americana,grande,45.24,1,efectivo,para_llevar
+2026-02-21,jockey plaza,Carlos Perez,suprema,regular,30.75,4,tarjeta,para_llevar
+2026-02-21,mega plaza,vendedor1,americana,personal,23.6,2,efectivo,delivery
+2026-02-21,jockey plaza,Jorge Torres,suprema,familiar,61.88,1,yape,local
+2026-02-21,plaza norte,Alvaro Medina,vegetariana,regular,33.57,1,efectivo,local
+2026-02-21,mega plaza,vendedor1,americana,personal,25.11,2,efectivo,delivery
+2026-02-21,plaza san miguel,Bruno Campos,vegetariana,familiar,64.32,3,efectivo,local
+2026-02-21,mall del sur,Ivan Castillo,americana,personal,19.17,4,efectivo,para_llevar
+2026-02-21,mega plaza,vendedor2,vegetariana,regular,32.03,1,plin,delivery
+2026-02-21,larcomar,Raul Herrera,vegetariana,regular,29.59,2,efectivo,delivery
+2026-02-21,real plaza centro civico,Ricardo Leon,vegetariana,personal,25.8,3,efectivo,delivery
+2026-02-21,larcomar,Raul Herrera,vegetariana,personal,23.66,3,efectivo,para_llevar
+2026-02-21,mega plaza,vendedor2,vegetariana,grande,39.84,4,efectivo,para_llevar
+2026-02-21,real plaza centro civico,Ricardo Leon,bbq chicken,familiar,61.05,1,plin,local
+2026-02-21,plaza norte,Renato Vega,pepperoni,familiar,51.52,4,plin,local
+2026-02-21,real plaza centro civico,Hector Silva,bbq chicken,personal,23.81,4,yape,para_llevar
+2026-02-21,plaza norte,Alvaro Medina,cuatro quesos,familiar,62.94,3,efectivo,local
+2026-02-21,real plaza salaverry,Mario Soto,pepperoni,grande,43.68,3,efectivo,delivery
+2026-02-21,plaza norte,Renato Vega,suprema,grande,43.93,3,efectivo,local
+2026-02-21,mall del sur,Leo Mendoza,americana,personal,19.67,2,tarjeta,delivery
+2026-02-22,mall aventura santa anita,Miguel Rojas,cuatro quesos,grande,42.42,1,plin,local
+2026-02-22,mega plaza,vendedor1,bbq chicken,familiar,59.07,2,efectivo,delivery
+2026-02-22,real plaza salaverry,Julio Vargas,cuatro quesos,regular,27.52,1,yape,delivery
+2026-02-22,larcomar,Oscar Ruiz,cuatro quesos,personal,21.24,4,tarjeta,para_llevar
+2026-02-22,mall aventura santa anita,Andres Castro,pepperoni,personal,23.95,1,plin,para_llevar
+2026-02-22,plaza norte,Renato Vega,pepperoni,familiar,49.73,2,efectivo,para_llevar
+2026-02-22,mall aventura santa anita,Andres Castro,bbq chicken,personal,24.39,2,yape,delivery
+2026-02-22,jockey plaza,Luis Ramirez,americana,familiar,56.9,2,plin,local
+2026-02-22,plaza san miguel,Eduardo Nunez,vegetariana,regular,34.33,3,efectivo,delivery
+2026-02-22,real plaza centro civico,Ricardo Leon,bbq chicken,personal,25.25,1,efectivo,delivery
+2026-02-22,larcomar,Raul Herrera,americana,personal,19.08,3,yape,delivery
+2026-02-22,jockey plaza,Jorge Torres,bbq chicken,familiar,60.98,1,tarjeta,para_llevar
+2026-02-22,larcomar,Raul Herrera,americana,grande,38.11,2,yape,local
+2026-02-22,mall aventura santa anita,Diego Flores,hawaiana,regular,26.97,4,tarjeta,local
+2026-02-22,mega plaza,vendedor3,bbq chicken,personal,24.82,3,tarjeta,local
+2026-02-22,mega plaza,vendedor1,suprema,personal,24.98,1,yape,para_llevar
+2026-02-22,mega plaza,vendedor3,vegetariana,grande,41.26,4,yape,delivery
+2026-02-22,plaza norte,Alvaro Medina,vegetariana,regular,27.33,4,tarjeta,delivery
+2026-02-22,mall aventura santa anita,Diego Flores,suprema,familiar,55.1,2,efectivo,local
+2026-02-22,mall del sur,Ivan Castillo,bbq chicken,familiar,65.8,4,yape,delivery
+2026-02-23,real plaza centro civico,Fernando Diaz,americana,familiar,56.78,1,plin,delivery
+2026-02-23,jockey plaza,Luis Ramirez,vegetariana,personal,25.3,4,plin,local
+2026-02-23,jockey plaza,Carlos Perez,pepperoni,familiar,62.24,2,plin,para_llevar
+2026-02-23,mega plaza,vendedor1,bbq chicken,familiar,65.19,1,plin,local
+2026-02-23,larcomar,Oscar Ruiz,pepperoni,grande,43.66,3,plin,para_llevar
+2026-02-23,real plaza centro civico,Ricardo Leon,pepperoni,grande,37.77,1,tarjeta,local
+2026-02-23,jockey plaza,Jorge Torres,bbq chicken,personal,22.49,3,tarjeta,local
+2026-02-23,mega plaza,vendedor1,cuatro quesos,regular,27.91,2,plin,para_llevar
+2026-02-23,jockey plaza,Jorge Torres,vegetariana,personal,25.32,4,yape,para_llevar
+2026-02-23,plaza san miguel,Bruno Campos,cuatro quesos,personal,19.16,1,efectivo,para_llevar
+2026-02-23,plaza san miguel,Bruno Campos,bbq chicken,grande,39.58,1,plin,delivery
+2026-02-23,plaza san miguel,Bruno Campos,vegetariana,familiar,51.73,1,efectivo,para_llevar
+2026-02-23,real plaza salaverry,Cesar Ortiz,suprema,grande,42.17,3,plin,delivery
+2026-02-24,real plaza centro civico,Hector Silva,hawaiana,familiar,57.91,3,plin,delivery
+2026-02-24,mega plaza,vendedor1,suprema,personal,23.6,1,yape,delivery
+2026-02-24,plaza san miguel,Eduardo Nunez,hawaiana,familiar,62.55,3,yape,para_llevar
+2026-02-24,larcomar,Kevin Navarro,bbq chicken,regular,35.54,2,efectivo,local
+2026-02-24,real plaza centro civico,Hector Silva,hawaiana,regular,27.41,2,efectivo,local
+2026-02-24,larcomar,Kevin Navarro,bbq chicken,regular,29.55,3,tarjeta,delivery
+2026-02-24,plaza norte,Sergio Paredes,americana,regular,28.52,1,efectivo,delivery
+2026-02-24,real plaza centro civico,Fernando Diaz,bbq chicken,regular,34.01,4,efectivo,para_llevar
+2026-02-24,real plaza salaverry,Julio Vargas,hawaiana,personal,23.24,3,efectivo,para_llevar
+2026-02-24,real plaza salaverry,Mario Soto,pepperoni,familiar,52.77,2,tarjeta,local
+2026-02-24,jockey plaza,Luis Ramirez,suprema,familiar,64.87,2,tarjeta,delivery
+2026-02-24,larcomar,Kevin Navarro,pepperoni,grande,39.31,4,efectivo,delivery
+2026-02-24,open plaza angamos,Victor Chavez,hawaiana,personal,25.13,2,yape,delivery
+2026-02-25,real plaza salaverry,Julio Vargas,suprema,regular,35.04,4,yape,delivery
+2026-02-25,plaza san miguel,Martin Cruz,bbq chicken,grande,45.16,1,tarjeta,local
+2026-02-25,mall del sur,Ivan Castillo,hawaiana,grande,38.35,4,efectivo,para_llevar
+2026-02-25,mega plaza,vendedor3,suprema,regular,27.13,3,efectivo,local
+2026-02-25,real plaza centro civico,Ricardo Leon,bbq chicken,grande,44.55,4,plin,para_llevar
+2026-02-25,jockey plaza,Carlos Perez,suprema,regular,29.08,3,yape,para_llevar
+2026-02-25,mall aventura santa anita,Diego Flores,pepperoni,familiar,52.15,3,yape,delivery
+2026-02-25,real plaza salaverry,Mario Soto,vegetariana,regular,34.4,2,efectivo,delivery
+2026-02-25,jockey plaza,Luis Ramirez,pepperoni,grande,39.94,1,plin,local
+2026-02-25,mall aventura santa anita,Miguel Rojas,bbq chicken,familiar,62.68,3,yape,para_llevar
+2026-02-25,mall del sur,Ivan Castillo,vegetariana,personal,19.64,2,plin,delivery
+2026-02-25,open plaza angamos,Pablo Morales,vegetariana,regular,32.34,4,tarjeta,para_llevar
+2026-02-25,plaza norte,Alvaro Medina,americana,regular,27.41,1,yape,local
+2026-02-25,real plaza centro civico,Ricardo Leon,suprema,grande,40.01,2,plin,para_llevar
+2026-02-25,mega plaza,vendedor3,pepperoni,personal,19.56,4,tarjeta,local
+2026-02-25,jockey plaza,Jorge Torres,americana,personal,24.39,3,yape,local
+2026-02-25,mall del sur,Leo Mendoza,pepperoni,personal,22.21,4,plin,para_llevar
+2026-02-26,mall aventura santa anita,Miguel Rojas,hawaiana,grande,38.82,1,tarjeta,delivery
+2026-02-26,mall del sur,Leo Mendoza,cuatro quesos,regular,35.07,4,plin,para_llevar
+2026-02-26,plaza san miguel,Martin Cruz,suprema,regular,27.37,4,efectivo,para_llevar
+2026-02-26,plaza san miguel,Martin Cruz,vegetariana,regular,30.49,1,yape,delivery
+2026-02-26,open plaza angamos,Pablo Morales,bbq chicken,familiar,47.78,2,plin,local
+2026-02-26,real plaza centro civico,Fernando Diaz,suprema,personal,23.4,3,plin,delivery
+2026-02-26,plaza san miguel,Eduardo Nunez,hawaiana,personal,21.23,1,yape,delivery
+2026-02-26,open plaza angamos,Pablo Morales,vegetariana,personal,21.28,1,tarjeta,local
+2026-02-26,mega plaza,vendedor2,pepperoni,personal,20.89,1,yape,para_llevar
+2026-02-26,mall aventura santa anita,Miguel Rojas,americana,grande,37.05,1,tarjeta,local
+2026-02-26,real plaza salaverry,Cesar Ortiz,suprema,grande,43.23,2,efectivo,delivery
+2026-02-26,larcomar,Raul Herrera,hawaiana,regular,29.63,2,yape,local
+2026-02-26,mega plaza,vendedor3,cuatro quesos,grande,38.71,1,tarjeta,local
+2026-02-27,mall del sur,Leo Mendoza,americana,regular,28.56,1,efectivo,delivery
+2026-02-27,jockey plaza,Carlos Perez,hawaiana,familiar,51.66,4,yape,local
+2026-02-27,jockey plaza,Luis Ramirez,suprema,grande,38.01,4,efectivo,para_llevar
+2026-02-27,real plaza centro civico,Hector Silva,pepperoni,grande,42.24,4,yape,local
+2026-02-27,real plaza centro civico,Hector Silva,hawaiana,grande,37.08,2,plin,delivery
+2026-02-27,real plaza salaverry,Cesar Ortiz,suprema,personal,21.65,2,yape,para_llevar
+2026-02-27,real plaza centro civico,Ricardo Leon,hawaiana,regular,32.75,4,plin,para_llevar
+2026-02-27,plaza norte,Alvaro Medina,vegetariana,familiar,49.2,2,efectivo,local
+2026-02-27,real plaza salaverry,Julio Vargas,vegetariana,familiar,60.19,1,yape,para_llevar
+2026-02-27,plaza norte,Alvaro Medina,suprema,regular,30.73,1,plin,delivery
+2026-02-27,larcomar,Raul Herrera,cuatro quesos,personal,22.02,2,tarjeta,delivery
+2026-02-27,open plaza angamos,Daniel Reyes,bbq chicken,personal,25.17,4,tarjeta,delivery
+2026-02-27,larcomar,Oscar Ruiz,bbq chicken,regular,35.34,4,yape,para_llevar
+2026-02-27,mall aventura santa anita,Andres Castro,americana,personal,21.7,4,efectivo,local
+2026-02-27,mega plaza,vendedor1,hawaiana,regular,30.4,1,yape,local
+2026-02-27,real plaza salaverry,Cesar Ortiz,americana,familiar,54.12,2,plin,local
+2026-02-27,mall del sur,Ivan Castillo,pepperoni,personal,21.06,1,yape,para_llevar
+2026-02-27,mall del sur,Leo Mendoza,hawaiana,familiar,50.69,4,plin,local
+2026-02-27,jockey plaza,Jorge Torres,vegetariana,familiar,52.46,3,efectivo,delivery
+2026-02-27,plaza norte,Alvaro Medina,americana,personal,18.97,2,plin,delivery
+2026-02-27,mega plaza,vendedor1,pepperoni,familiar,64.4,1,tarjeta,delivery
+2026-02-27,mall del sur,Leo Mendoza,suprema,familiar,58.68,4,efectivo,para_llevar
+2026-02-27,mall del sur,Ivan Castillo,americana,grande,42.86,1,efectivo,delivery
+2026-02-27,mall del sur,Leo Mendoza,pepperoni,grande,37.18,2,efectivo,local
+2026-02-28,plaza san miguel,Bruno Campos,pepperoni,regular,30.32,4,plin,local
+2026-02-28,plaza norte,Renato Vega,vegetariana,grande,40.41,1,tarjeta,para_llevar
+2026-02-28,real plaza centro civico,Hector Silva,pepperoni,regular,30.18,1,tarjeta,local
+2026-02-28,larcomar,Raul Herrera,suprema,personal,24.22,2,efectivo,delivery
+2026-02-28,plaza san miguel,Eduardo Nunez,vegetariana,regular,33.87,4,tarjeta,delivery
+2026-02-28,larcomar,Kevin Navarro,bbq chicken,grande,38.73,3,yape,delivery
+2026-02-28,open plaza angamos,Pablo Morales,suprema,familiar,53.38,4,tarjeta,delivery
+2026-02-28,open plaza angamos,Daniel Reyes,americana,grande,38.99,3,tarjeta,local
+2026-02-28,jockey plaza,Jorge Torres,bbq chicken,regular,34.94,3,yape,delivery
+2026-02-28,mega plaza,vendedor3,vegetariana,personal,19.88,4,efectivo,para_llevar
+2026-02-28,mega plaza,vendedor3,hawaiana,familiar,65.41,3,yape,para_llevar
+2026-02-28,larcomar,Raul Herrera,suprema,personal,21.49,4,tarjeta,local
+2026-03-01,open plaza angamos,Victor Chavez,pepperoni,grande,39.92,4,efectivo,para_llevar
+2026-03-01,open plaza angamos,Pablo Morales,hawaiana,regular,35.24,4,yape,para_llevar
+2026-03-01,mega plaza,vendedor3,hawaiana,familiar,56.43,1,tarjeta,local
+2026-03-01,mall aventura santa anita,Diego Flores,bbq chicken,familiar,57.75,1,yape,para_llevar
+2026-03-01,larcomar,Raul Herrera,cuatro quesos,regular,34.27,3,plin,para_llevar
+2026-03-01,plaza san miguel,Bruno Campos,bbq chicken,grande,38.28,1,tarjeta,para_llevar
+2026-03-01,mega plaza,vendedor2,bbq chicken,grande,43.07,3,efectivo,para_llevar
+2026-03-01,plaza san miguel,Martin Cruz,hawaiana,grande,39.61,1,efectivo,local
+2026-03-01,open plaza angamos,Daniel Reyes,cuatro quesos,personal,22.52,1,yape,para_llevar
+2026-03-01,larcomar,Oscar Ruiz,hawaiana,personal,19.22,1,plin,para_llevar
+2026-03-01,mall del sur,Leo Mendoza,bbq chicken,regular,35.86,2,yape,local
+2026-03-02,mall del sur,Leo Mendoza,hawaiana,regular,28.44,2,yape,delivery
+2026-03-02,plaza san miguel,Bruno Campos,suprema,regular,29.98,2,tarjeta,para_llevar
+2026-03-02,mall del sur,Ivan Castillo,americana,regular,35.54,2,efectivo,para_llevar
+2026-03-02,real plaza salaverry,Cesar Ortiz,pepperoni,familiar,53.49,1,efectivo,delivery
+2026-03-02,larcomar,Kevin Navarro,bbq chicken,grande,39.15,4,yape,local
+2026-03-02,real plaza salaverry,Cesar Ortiz,suprema,personal,25.89,1,efectivo,para_llevar
+2026-03-02,real plaza salaverry,Mario Soto,cuatro quesos,personal,24.81,3,plin,delivery
+2026-03-02,mall del sur,Ivan Castillo,suprema,regular,29.02,3,plin,para_llevar
+2026-03-02,plaza norte,Sergio Paredes,suprema,regular,32.31,1,tarjeta,para_llevar
+2026-03-02,open plaza angamos,Daniel Reyes,vegetariana,personal,24.71,2,tarjeta,para_llevar
+2026-03-02,mega plaza,vendedor1,vegetariana,grande,41.38,1,tarjeta,delivery
+2026-03-02,plaza norte,Sergio Paredes,vegetariana,familiar,65.02,3,plin,para_llevar
+2026-03-03,mall aventura santa anita,Miguel Rojas,americana,familiar,55.02,1,efectivo,local
+2026-03-03,mega plaza,vendedor3,suprema,personal,22.79,2,plin,para_llevar
+2026-03-03,jockey plaza,Carlos Perez,vegetariana,regular,35.84,2,efectivo,local
+2026-03-03,mega plaza,vendedor3,americana,familiar,50.83,4,efectivo,para_llevar
+2026-03-03,plaza norte,Sergio Paredes,cuatro quesos,personal,21.52,1,efectivo,para_llevar
+2026-03-03,plaza san miguel,Bruno Campos,cuatro quesos,personal,19.87,2,efectivo,local
+2026-03-03,plaza san miguel,Bruno Campos,vegetariana,regular,35.76,3,yape,para_llevar
+2026-03-03,mega plaza,vendedor2,suprema,grande,37.49,2,tarjeta,para_llevar
+2026-03-03,real plaza salaverry,Mario Soto,bbq chicken,familiar,49.48,4,plin,local
+2026-03-03,plaza norte,Alvaro Medina,pepperoni,familiar,47.69,3,tarjeta,local
+2026-03-03,larcomar,Kevin Navarro,americana,grande,41.6,3,yape,para_llevar
+2026-03-03,larcomar,Kevin Navarro,bbq chicken,familiar,61.08,1,yape,para_llevar
+2026-03-03,plaza san miguel,Bruno Campos,pepperoni,regular,31.91,2,efectivo,local
+2026-03-03,real plaza centro civico,Ricardo Leon,americana,familiar,63.77,3,tarjeta,local
+2026-03-03,jockey plaza,Carlos Perez,cuatro quesos,regular,34.95,1,yape,local
+2026-03-03,mall del sur,Leo Mendoza,pepperoni,grande,44.59,2,efectivo,local
+2026-03-03,real plaza salaverry,Cesar Ortiz,cuatro quesos,regular,33.3,1,efectivo,para_llevar
+2026-03-04,plaza san miguel,Bruno Campos,suprema,familiar,49.58,2,plin,local
+2026-03-04,mall aventura santa anita,Diego Flores,bbq chicken,grande,43.44,1,plin,delivery
+2026-03-04,mall del sur,Ivan Castillo,suprema,regular,28.52,1,plin,delivery
+2026-03-04,mega plaza,vendedor2,hawaiana,grande,38.69,3,efectivo,local
+2026-03-04,larcomar,Oscar Ruiz,bbq chicken,regular,27.47,3,tarjeta,para_llevar
+2026-03-04,larcomar,Kevin Navarro,suprema,personal,19.92,4,efectivo,para_llevar
+2026-03-04,mall del sur,Leo Mendoza,americana,familiar,54.87,4,efectivo,local
+2026-03-04,mall aventura santa anita,Diego Flores,suprema,grande,44.85,1,tarjeta,para_llevar
+2026-03-04,jockey plaza,Jorge Torres,cuatro quesos,grande,41.62,3,plin,para_llevar
+2026-03-04,open plaza angamos,Daniel Reyes,hawaiana,regular,29.16,3,efectivo,delivery
+2026-03-04,real plaza salaverry,Julio Vargas,suprema,grande,40.66,1,yape,para_llevar
+2026-03-04,real plaza salaverry,Cesar Ortiz,cuatro quesos,grande,39.03,1,tarjeta,para_llevar
+2026-03-04,plaza san miguel,Martin Cruz,cuatro quesos,personal,21.04,3,tarjeta,local
+2026-03-04,real plaza salaverry,Mario Soto,americana,grande,41.77,4,yape,local
+2026-03-04,plaza norte,Alvaro Medina,pepperoni,grande,43.71,1,efectivo,local
+2026-03-04,real plaza salaverry,Mario Soto,pepperoni,regular,33.33,4,tarjeta,para_llevar
+2026-03-04,open plaza angamos,Pablo Morales,cuatro quesos,grande,45.21,1,yape,delivery
+2026-03-04,plaza norte,Sergio Paredes,cuatro quesos,personal,19.22,2,efectivo,local
+2026-03-04,mega plaza,vendedor3,americana,grande,45.22,3,efectivo,para_llevar
+2026-03-04,real plaza centro civico,Ricardo Leon,suprema,regular,30.17,2,tarjeta,para_llevar
+2026-03-04,mall del sur,Hugo Aguilar,suprema,familiar,56.38,4,efectivo,para_llevar
+2026-03-04,plaza san miguel,Eduardo Nunez,hawaiana,familiar,50.89,2,efectivo,local
+2026-03-04,real plaza centro civico,Fernando Diaz,pepperoni,grande,38.03,1,yape,local
+2026-03-04,open plaza angamos,Pablo Morales,cuatro quesos,familiar,53.15,1,plin,delivery
+2026-03-05,mall del sur,Leo Mendoza,vegetariana,regular,31.56,3,tarjeta,para_llevar
+2026-03-05,plaza san miguel,Eduardo Nunez,cuatro quesos,personal,20.98,1,efectivo,local
+2026-03-05,mega plaza,vendedor3,bbq chicken,regular,27.7,1,efectivo,para_llevar
+2026-03-05,mega plaza,vendedor2,bbq chicken,familiar,61.75,1,plin,local
+2026-03-05,plaza san miguel,Martin Cruz,hawaiana,grande,42.97,3,efectivo,para_llevar
+2026-03-05,larcomar,Oscar Ruiz,bbq chicken,personal,25.29,4,plin,local
+2026-03-06,jockey plaza,Jorge Torres,americana,grande,37.36,1,efectivo,local
+2026-03-06,mall aventura santa anita,Diego Flores,suprema,regular,32.45,4,plin,delivery
+2026-03-06,real plaza centro civico,Ricardo Leon,vegetariana,personal,24.24,4,yape,local
+2026-03-06,larcomar,Raul Herrera,americana,grande,41.01,4,tarjeta,local
+2026-03-06,mall del sur,Leo Mendoza,cuatro quesos,grande,40.11,2,efectivo,para_llevar
+2026-03-06,jockey plaza,Jorge Torres,hawaiana,familiar,60.6,2,tarjeta,local
+2026-03-06,real plaza salaverry,Cesar Ortiz,pepperoni,grande,40.57,2,tarjeta,local
+2026-03-06,open plaza angamos,Pablo Morales,suprema,familiar,63.37,2,plin,local
+2026-03-06,real plaza salaverry,Cesar Ortiz,bbq chicken,familiar,53.87,4,plin,delivery
+2026-03-06,mall del sur,Leo Mendoza,cuatro quesos,personal,22.18,2,yape,para_llevar
+2026-03-06,larcomar,Kevin Navarro,hawaiana,personal,19.93,4,yape,para_llevar
+2026-03-06,open plaza angamos,Pablo Morales,cuatro quesos,grande,44.38,2,plin,local
+2026-03-07,plaza san miguel,Eduardo Nunez,suprema,grande,42.26,3,yape,local
+2026-03-07,plaza san miguel,Bruno Campos,pepperoni,grande,40.64,1,efectivo,para_llevar
+2026-03-07,mega plaza,vendedor3,bbq chicken,personal,24.45,3,tarjeta,para_llevar
+2026-03-07,mall aventura santa anita,Diego Flores,americana,personal,24.77,2,yape,delivery
+2026-03-07,open plaza angamos,Daniel Reyes,suprema,personal,19.97,2,yape,local
+2026-03-07,jockey plaza,Carlos Perez,cuatro quesos,familiar,51.59,1,efectivo,local
+2026-03-07,open plaza angamos,Pablo Morales,vegetariana,personal,23.67,1,plin,para_llevar
+2026-03-07,mega plaza,vendedor1,hawaiana,regular,34.68,2,plin,para_llevar
+2026-03-07,mall del sur,Hugo Aguilar,bbq chicken,familiar,64.59,1,yape,local
+2026-03-07,real plaza salaverry,Julio Vargas,hawaiana,grande,45.59,3,plin,local
+2026-03-07,larcomar,Kevin Navarro,bbq chicken,regular,30.77,3,plin,local
+2026-03-07,plaza norte,Sergio Paredes,americana,regular,35.59,4,tarjeta,delivery
+2026-03-07,larcomar,Raul Herrera,pepperoni,grande,42.32,4,plin,local
+2026-03-07,larcomar,Raul Herrera,pepperoni,personal,22.19,4,yape,local
+2026-03-07,mall aventura santa anita,Diego Flores,cuatro quesos,grande,44.88,2,plin,local
+2026-03-07,real plaza centro civico,Ricardo Leon,hawaiana,regular,33.41,4,plin,delivery
+2026-03-07,real plaza salaverry,Julio Vargas,americana,personal,21.14,4,yape,delivery
+2026-03-07,real plaza salaverry,Julio Vargas,bbq chicken,personal,23.11,4,efectivo,delivery
+2026-03-07,mega plaza,vendedor1,hawaiana,regular,29.3,2,yape,delivery
+2026-03-07,mall aventura santa anita,Andres Castro,americana,personal,23.61,4,yape,para_llevar
+2026-03-07,larcomar,Oscar Ruiz,americana,personal,23.22,3,tarjeta,para_llevar
+2026-03-08,real plaza salaverry,Cesar Ortiz,vegetariana,familiar,63.1,2,plin,para_llevar
+2026-03-08,mega plaza,vendedor2,americana,personal,22.6,4,efectivo,delivery
+2026-03-08,mall aventura santa anita,Andres Castro,vegetariana,personal,19.85,2,plin,local
+2026-03-08,plaza norte,Sergio Paredes,vegetariana,regular,33.8,4,plin,local
+2026-03-08,real plaza centro civico,Hector Silva,vegetariana,regular,34.01,2,yape,local
+2026-03-08,plaza norte,Alvaro Medina,bbq chicken,regular,30.46,2,yape,local
+2026-03-08,open plaza angamos,Pablo Morales,americana,grande,39.18,2,efectivo,para_llevar
+2026-03-08,open plaza angamos,Pablo Morales,bbq chicken,regular,34.76,2,plin,local
+2026-03-08,plaza san miguel,Martin Cruz,americana,regular,27.42,2,tarjeta,para_llevar
+2026-03-08,real plaza salaverry,Mario Soto,suprema,familiar,63.37,2,efectivo,delivery
+2026-03-08,mega plaza,vendedor1,bbq chicken,regular,29.89,4,plin,para_llevar
+2026-03-08,real plaza salaverry,Mario Soto,suprema,regular,30.28,2,plin,delivery
+2026-03-08,real plaza centro civico,Hector Silva,bbq chicken,regular,35.52,3,tarjeta,delivery
+2026-03-08,jockey plaza,Luis Ramirez,bbq chicken,familiar,55.66,2,yape,delivery
+2026-03-08,real plaza centro civico,Ricardo Leon,americana,personal,25.62,3,yape,local
+2026-03-08,mega plaza,vendedor2,cuatro quesos,familiar,56.81,4,yape,delivery
+2026-03-08,real plaza centro civico,Fernando Diaz,hawaiana,regular,28.89,1,efectivo,para_llevar
+2026-03-08,open plaza angamos,Victor Chavez,bbq chicken,regular,28.6,4,plin,local
+2026-03-08,mall aventura santa anita,Miguel Rojas,americana,personal,19.99,4,efectivo,para_llevar
+2026-03-08,larcomar,Kevin Navarro,americana,regular,26.94,2,tarjeta,para_llevar
+2026-03-08,mega plaza,vendedor3,americana,familiar,50.58,1,tarjeta,delivery
+2026-03-08,mall aventura santa anita,Diego Flores,vegetariana,grande,40.64,4,yape,local
+2026-03-08,mall del sur,Leo Mendoza,vegetariana,regular,28.42,3,plin,para_llevar
+2026-03-09,mall aventura santa anita,Miguel Rojas,pepperoni,regular,30.81,4,efectivo,delivery
+2026-03-09,plaza san miguel,Martin Cruz,suprema,familiar,54.72,1,efectivo,local
+2026-03-09,larcomar,Oscar Ruiz,suprema,personal,21.07,3,efectivo,para_llevar
+2026-03-09,mall aventura santa anita,Miguel Rojas,vegetariana,personal,24.88,4,yape,delivery
+2026-03-09,plaza norte,Renato Vega,bbq chicken,familiar,47.01,4,yape,local
+2026-03-09,mall aventura santa anita,Andres Castro,hawaiana,grande,43.34,2,plin,delivery
+2026-03-09,mall del sur,Leo Mendoza,americana,regular,30.77,4,yape,delivery
+2026-03-09,jockey plaza,Luis Ramirez,americana,personal,23.73,3,yape,para_llevar
+2026-03-09,mall aventura santa anita,Diego Flores,cuatro quesos,familiar,57.92,4,yape,local
+2026-03-09,real plaza salaverry,Cesar Ortiz,hawaiana,familiar,61.31,2,tarjeta,delivery
+2026-03-09,mall aventura santa anita,Miguel Rojas,pepperoni,personal,23.69,1,plin,para_llevar
+2026-03-10,mall del sur,Hugo Aguilar,cuatro quesos,grande,37.16,2,efectivo,para_llevar
+2026-03-10,mall del sur,Ivan Castillo,hawaiana,grande,40.16,4,plin,delivery
+2026-03-10,open plaza angamos,Victor Chavez,suprema,regular,33.6,3,plin,delivery
+2026-03-10,plaza norte,Alvaro Medina,bbq chicken,familiar,50.46,2,yape,para_llevar
+2026-03-10,plaza norte,Sergio Paredes,pepperoni,grande,39.39,2,plin,delivery
+2026-03-10,plaza norte,Sergio Paredes,americana,familiar,59.03,4,tarjeta,local
+2026-03-10,plaza san miguel,Eduardo Nunez,suprema,familiar,61.31,3,efectivo,local
+2026-03-10,jockey plaza,Jorge Torres,vegetariana,familiar,63.48,1,yape,para_llevar
+2026-03-10,mega plaza,vendedor2,suprema,familiar,62.27,2,plin,delivery
+2026-03-10,real plaza centro civico,Hector Silva,cuatro quesos,grande,42.75,2,tarjeta,local
+2026-03-10,plaza san miguel,Martin Cruz,hawaiana,familiar,62.23,3,plin,delivery
+2026-03-10,mall del sur,Ivan Castillo,americana,regular,34.85,2,efectivo,local
+2026-03-10,real plaza salaverry,Mario Soto,vegetariana,familiar,55.14,3,efectivo,delivery
+2026-03-10,larcomar,Oscar Ruiz,pepperoni,regular,31.52,3,tarjeta,local
+2026-03-10,plaza norte,Alvaro Medina,bbq chicken,regular,31.9,3,efectivo,para_llevar
+2026-03-11,mega plaza,vendedor2,bbq chicken,regular,29.45,4,yape,delivery
+2026-03-11,plaza norte,Alvaro Medina,hawaiana,personal,22.75,3,plin,para_llevar
+2026-03-11,jockey plaza,Jorge Torres,pepperoni,personal,23.94,2,efectivo,para_llevar
+2026-03-11,mega plaza,vendedor3,cuatro quesos,grande,38.27,2,plin,para_llevar
+2026-03-11,real plaza centro civico,Hector Silva,pepperoni,personal,25.78,4,yape,para_llevar
+2026-03-11,plaza norte,Sergio Paredes,pepperoni,familiar,54.12,1,yape,delivery
+2026-03-11,mall aventura santa anita,Miguel Rojas,suprema,familiar,60.2,3,plin,local
+2026-03-11,mall del sur,Hugo Aguilar,vegetariana,familiar,58.64,3,yape,local
+2026-03-11,mall del sur,Leo Mendoza,americana,personal,20.47,1,tarjeta,para_llevar
+2026-03-12,mall del sur,Hugo Aguilar,suprema,familiar,55.92,3,tarjeta,para_llevar
+2026-03-12,mall aventura santa anita,Andres Castro,suprema,regular,31.26,1,tarjeta,local
+2026-03-12,open plaza angamos,Pablo Morales,pepperoni,personal,25.19,1,efectivo,para_llevar
+2026-03-12,larcomar,Oscar Ruiz,cuatro quesos,regular,35.42,1,tarjeta,para_llevar
+2026-03-12,mall del sur,Hugo Aguilar,pepperoni,grande,45.48,2,tarjeta,para_llevar
+2026-03-12,jockey plaza,Jorge Torres,suprema,regular,27.76,3,yape,delivery
+2026-03-12,plaza san miguel,Bruno Campos,bbq chicken,grande,41.68,3,yape,delivery
+2026-03-12,mall del sur,Leo Mendoza,suprema,regular,31.35,1,tarjeta,para_llevar
+2026-03-12,jockey plaza,Jorge Torres,americana,personal,23.48,1,efectivo,para_llevar
+2026-03-12,real plaza centro civico,Hector Silva,hawaiana,familiar,49.46,4,efectivo,local
+2026-03-12,real plaza centro civico,Hector Silva,suprema,familiar,55.0,1,efectivo,delivery
+2026-03-12,real plaza salaverry,Mario Soto,suprema,personal,21.28,2,efectivo,para_llevar
+2026-03-12,plaza san miguel,Eduardo Nunez,suprema,grande,40.76,1,tarjeta,delivery
+2026-03-12,mall del sur,Leo Mendoza,vegetariana,regular,29.8,4,efectivo,para_llevar
+2026-03-13,jockey plaza,Luis Ramirez,suprema,grande,45.62,3,yape,delivery
+2026-03-13,mall aventura santa anita,Miguel Rojas,pepperoni,familiar,52.37,3,efectivo,para_llevar
+2026-03-13,real plaza centro civico,Hector Silva,suprema,grande,43.9,4,efectivo,delivery
+2026-03-13,mega plaza,vendedor1,cuatro quesos,familiar,60.49,4,efectivo,delivery
+2026-03-13,real plaza salaverry,Mario Soto,bbq chicken,regular,34.41,1,yape,delivery
+2026-03-13,open plaza angamos,Daniel Reyes,suprema,familiar,50.57,1,yape,para_llevar
+2026-03-13,mall aventura santa anita,Miguel Rojas,vegetariana,familiar,53.88,2,tarjeta,para_llevar
+2026-03-13,jockey plaza,Luis Ramirez,bbq chicken,familiar,64.38,1,tarjeta,para_llevar
+2026-03-13,open plaza angamos,Daniel Reyes,hawaiana,personal,25.32,4,tarjeta,delivery
+2026-03-13,plaza san miguel,Eduardo Nunez,bbq chicken,grande,40.91,3,plin,delivery
+2026-03-13,real plaza centro civico,Hector Silva,suprema,familiar,55.96,4,efectivo,para_llevar
+2026-03-13,plaza norte,Renato Vega,vegetariana,regular,30.29,1,plin,para_llevar
+2026-03-14,mega plaza,vendedor2,americana,personal,23.91,1,yape,local
+2026-03-14,jockey plaza,Luis Ramirez,hawaiana,regular,27.15,2,yape,local
+2026-03-14,mega plaza,vendedor1,cuatro quesos,personal,25.53,1,yape,delivery
+2026-03-14,jockey plaza,Jorge Torres,suprema,grande,37.64,3,plin,delivery
+2026-03-14,mall del sur,Hugo Aguilar,hawaiana,familiar,59.37,4,tarjeta,para_llevar
+2026-03-14,open plaza angamos,Daniel Reyes,pepperoni,familiar,65.38,1,tarjeta,local
+2026-03-14,plaza san miguel,Bruno Campos,cuatro quesos,regular,29.82,4,efectivo,delivery
+2026-03-14,real plaza centro civico,Ricardo Leon,cuatro quesos,regular,29.93,4,yape,local
+2026-03-14,mall aventura santa anita,Miguel Rojas,cuatro quesos,familiar,59.55,2,yape,para_llevar
+2026-03-14,larcomar,Kevin Navarro,hawaiana,personal,25.84,1,yape,local
+2026-03-14,plaza norte,Renato Vega,pepperoni,regular,34.5,2,plin,delivery
+2026-03-15,real plaza salaverry,Julio Vargas,pepperoni,regular,29.6,1,efectivo,para_llevar
+2026-03-15,plaza norte,Sergio Paredes,bbq chicken,regular,28.48,3,plin,para_llevar
+2026-03-15,jockey plaza,Carlos Perez,hawaiana,grande,41.12,3,plin,delivery
+2026-03-15,mall del sur,Ivan Castillo,bbq chicken,regular,33.81,3,tarjeta,local
+2026-03-15,mall aventura santa anita,Miguel Rojas,americana,familiar,51.69,3,tarjeta,para_llevar
+2026-03-15,open plaza angamos,Pablo Morales,cuatro quesos,familiar,58.93,3,tarjeta,delivery
+2026-03-15,mall del sur,Hugo Aguilar,americana,grande,38.58,2,efectivo,delivery
+2026-03-15,plaza norte,Alvaro Medina,americana,personal,21.02,4,plin,local
+2026-03-15,mall del sur,Hugo Aguilar,americana,grande,42.77,2,efectivo,delivery
+2026-03-16,mall aventura santa anita,Andres Castro,bbq chicken,grande,42.2,1,tarjeta,para_llevar
+2026-03-16,plaza norte,Alvaro Medina,vegetariana,familiar,46.99,3,yape,local
+2026-03-16,jockey plaza,Luis Ramirez,americana,grande,37.58,1,tarjeta,local
+2026-03-16,larcomar,Oscar Ruiz,americana,regular,31.17,3,plin,para_llevar
+2026-03-16,mall aventura santa anita,Miguel Rojas,pepperoni,regular,30.75,4,efectivo,local
+2026-03-16,plaza san miguel,Eduardo Nunez,hawaiana,personal,25.58,1,efectivo,local
+2026-03-16,larcomar,Kevin Navarro,cuatro quesos,familiar,60.69,1,tarjeta,delivery
+2026-03-16,jockey plaza,Luis Ramirez,pepperoni,regular,31.04,1,yape,local
+2026-03-17,real plaza salaverry,Julio Vargas,bbq chicken,personal,22.02,3,tarjeta,delivery
+2026-03-17,mall del sur,Ivan Castillo,americana,familiar,62.48,4,efectivo,para_llevar
+2026-03-17,jockey plaza,Luis Ramirez,vegetariana,familiar,59.84,1,yape,delivery
+2026-03-17,larcomar,Raul Herrera,bbq chicken,grande,41.89,4,yape,local
+2026-03-17,mega plaza,vendedor1,vegetariana,personal,22.28,3,efectivo,delivery
+2026-03-17,open plaza angamos,Victor Chavez,bbq chicken,grande,41.55,1,efectivo,delivery
+2026-03-17,mall aventura santa anita,Andres Castro,bbq chicken,grande,45.88,4,yape,local
+2026-03-17,open plaza angamos,Daniel Reyes,americana,personal,23.01,4,efectivo,delivery
+2026-03-17,jockey plaza,Carlos Perez,americana,grande,44.91,2,plin,para_llevar
+2026-03-17,plaza norte,Sergio Paredes,americana,personal,25.33,1,plin,local
+2026-03-18,real plaza salaverry,Mario Soto,pepperoni,regular,34.48,1,efectivo,delivery
+2026-03-18,mall del sur,Ivan Castillo,vegetariana,familiar,54.63,2,plin,local
+2026-03-18,jockey plaza,Carlos Perez,bbq chicken,personal,25.04,3,plin,para_llevar
+2026-03-18,plaza san miguel,Bruno Campos,americana,personal,19.85,1,yape,delivery
+2026-03-18,larcomar,Oscar Ruiz,suprema,personal,23.51,4,plin,para_llevar
+2026-03-18,mega plaza,vendedor2,bbq chicken,familiar,53.2,3,efectivo,delivery
+2026-03-18,mall aventura santa anita,Andres Castro,hawaiana,personal,19.13,2,plin,para_llevar
+2026-03-18,mall aventura santa anita,Andres Castro,americana,personal,19.77,4,plin,para_llevar
+2026-03-18,mall aventura santa anita,Miguel Rojas,hawaiana,grande,42.55,1,yape,para_llevar
+2026-03-18,mall aventura santa anita,Andres Castro,pepperoni,familiar,53.87,3,plin,delivery
+2026-03-18,plaza norte,Renato Vega,vegetariana,familiar,58.95,2,efectivo,para_llevar
+2026-03-18,mega plaza,vendedor3,suprema,regular,27.79,4,yape,para_llevar
+2026-03-18,mall del sur,Leo Mendoza,hawaiana,grande,38.03,1,efectivo,local
+2026-03-18,open plaza angamos,Pablo Morales,cuatro quesos,personal,24.06,2,yape,para_llevar
+2026-03-18,mega plaza,vendedor1,suprema,personal,19.19,2,plin,para_llevar
+2026-03-18,real plaza centro civico,Fernando Diaz,americana,personal,24.28,4,tarjeta,local
+2026-03-18,mall aventura santa anita,Miguel Rojas,suprema,familiar,59.08,4,tarjeta,local
+2026-03-18,plaza san miguel,Martin Cruz,pepperoni,familiar,60.48,3,yape,para_llevar
+2026-03-18,mega plaza,vendedor1,vegetariana,familiar,53.81,3,tarjeta,delivery
+2026-03-18,plaza norte,Sergio Paredes,bbq chicken,familiar,48.37,1,plin,delivery
+2026-03-18,plaza san miguel,Bruno Campos,cuatro quesos,grande,37.03,3,efectivo,para_llevar
+2026-03-19,real plaza centro civico,Ricardo Leon,americana,grande,42.01,4,plin,delivery
+2026-03-19,mall del sur,Hugo Aguilar,bbq chicken,familiar,64.51,1,plin,local
+2026-03-19,mall aventura santa anita,Diego Flores,suprema,grande,43.32,4,efectivo,local
+2026-03-19,mall aventura santa anita,Andres Castro,bbq chicken,regular,30.48,2,plin,delivery
+2026-03-19,mall aventura santa anita,Diego Flores,suprema,grande,37.69,3,plin,para_llevar
+2026-03-19,jockey plaza,Luis Ramirez,americana,familiar,48.6,4,efectivo,para_llevar
+2026-03-19,mall del sur,Leo Mendoza,pepperoni,grande,41.01,2,efectivo,para_llevar
+2026-03-19,larcomar,Oscar Ruiz,pepperoni,regular,35.4,4,plin,para_llevar
+2026-03-19,jockey plaza,Carlos Perez,americana,familiar,48.22,3,tarjeta,para_llevar
+2026-03-19,larcomar,Raul Herrera,bbq chicken,regular,30.37,3,tarjeta,para_llevar
+2026-03-19,larcomar,Raul Herrera,suprema,regular,29.82,4,plin,para_llevar
+2026-03-19,plaza norte,Alvaro Medina,bbq chicken,grande,38.63,4,plin,delivery
+2026-03-20,plaza norte,Alvaro Medina,cuatro quesos,familiar,61.94,2,plin,delivery
+2026-03-20,plaza san miguel,Martin Cruz,pepperoni,regular,32.11,2,yape,delivery
+2026-03-20,larcomar,Kevin Navarro,vegetariana,regular,35.27,2,tarjeta,local
+2026-03-20,open plaza angamos,Pablo Morales,hawaiana,familiar,65.62,2,yape,local
+2026-03-20,real plaza salaverry,Julio Vargas,hawaiana,familiar,48.67,2,plin,delivery
+2026-03-20,real plaza salaverry,Cesar Ortiz,bbq chicken,regular,32.88,2,plin,para_llevar
+2026-03-20,real plaza salaverry,Mario Soto,pepperoni,grande,44.54,4,tarjeta,para_llevar
+2026-03-20,jockey plaza,Jorge Torres,hawaiana,familiar,55.38,3,efectivo,delivery
+2026-03-20,mega plaza,vendedor1,vegetariana,familiar,50.85,1,plin,delivery
+2026-03-21,jockey plaza,Jorge Torres,pepperoni,regular,33.16,1,tarjeta,local
+2026-03-21,open plaza angamos,Pablo Morales,bbq chicken,personal,21.65,3,efectivo,local
+2026-03-21,plaza san miguel,Eduardo Nunez,cuatro quesos,grande,39.13,2,yape,delivery
+2026-03-21,real plaza salaverry,Julio Vargas,americana,familiar,48.11,4,yape,local
+2026-03-21,real plaza centro civico,Fernando Diaz,bbq chicken,grande,40.46,4,tarjeta,local
+2026-03-21,plaza san miguel,Martin Cruz,hawaiana,familiar,62.91,1,plin,para_llevar
+2026-03-21,mall aventura santa anita,Miguel Rojas,vegetariana,regular,30.01,2,plin,para_llevar
+2026-03-21,mall del sur,Hugo Aguilar,hawaiana,familiar,65.62,2,tarjeta,delivery
+2026-03-21,plaza san miguel,Martin Cruz,bbq chicken,familiar,47.05,3,yape,para_llevar
+2026-03-21,open plaza angamos,Daniel Reyes,vegetariana,familiar,55.46,4,efectivo,delivery
+2026-03-21,plaza norte,Renato Vega,suprema,regular,34.58,4,plin,para_llevar
+2026-03-21,mega plaza,vendedor2,cuatro quesos,familiar,59.67,4,efectivo,delivery
+2026-03-21,plaza san miguel,Martin Cruz,americana,regular,34.25,2,tarjeta,delivery
+2026-03-21,larcomar,Oscar Ruiz,americana,familiar,53.16,2,yape,para_llevar
+2026-03-21,larcomar,Oscar Ruiz,vegetariana,familiar,54.72,4,yape,delivery
+2026-03-22,plaza san miguel,Martin Cruz,pepperoni,personal,19.18,2,efectivo,local
+2026-03-22,mall aventura santa anita,Andres Castro,americana,regular,34.78,2,yape,delivery
+2026-03-22,mega plaza,vendedor1,cuatro quesos,personal,21.37,4,efectivo,local
+2026-03-22,mega plaza,vendedor1,vegetariana,grande,44.43,4,yape,para_llevar
+2026-03-22,open plaza angamos,Daniel Reyes,hawaiana,personal,22.57,4,efectivo,delivery
+2026-03-22,mega plaza,vendedor3,hawaiana,personal,21.09,1,efectivo,delivery
+2026-03-22,mega plaza,vendedor1,hawaiana,personal,20.45,4,plin,para_llevar
+2026-03-22,plaza san miguel,Eduardo Nunez,vegetariana,personal,18.92,1,plin,para_llevar
+2026-03-22,open plaza angamos,Pablo Morales,pepperoni,regular,29.42,3,tarjeta,delivery
+2026-03-22,mall del sur,Ivan Castillo,suprema,familiar,65.05,4,efectivo,para_llevar
+2026-03-23,open plaza angamos,Pablo Morales,bbq chicken,regular,28.59,1,plin,delivery
+2026-03-23,larcomar,Raul Herrera,suprema,familiar,54.59,3,yape,para_llevar
+2026-03-23,plaza san miguel,Eduardo Nunez,pepperoni,grande,45.86,4,efectivo,delivery
+2026-03-23,real plaza centro civico,Hector Silva,vegetariana,familiar,57.61,2,tarjeta,para_llevar
+2026-03-23,mega plaza,vendedor2,pepperoni,regular,34.33,2,efectivo,para_llevar
+2026-03-23,larcomar,Raul Herrera,hawaiana,familiar,49.16,1,efectivo,para_llevar
+2026-03-23,mega plaza,vendedor3,bbq chicken,regular,31.37,3,plin,local
+2026-03-23,mall del sur,Leo Mendoza,pepperoni,personal,20.81,1,plin,para_llevar
+2026-03-23,mall aventura santa anita,Diego Flores,hawaiana,familiar,58.39,2,tarjeta,local
+2026-03-23,larcomar,Kevin Navarro,bbq chicken,regular,28.95,4,efectivo,para_llevar
+2026-03-23,mall del sur,Ivan Castillo,suprema,personal,24.88,4,yape,delivery
+2026-03-23,open plaza angamos,Victor Chavez,pepperoni,grande,40.9,2,yape,para_llevar
+2026-03-23,plaza san miguel,Eduardo Nunez,bbq chicken,regular,28.46,1,efectivo,local
+2026-03-23,real plaza centro civico,Ricardo Leon,americana,personal,23.0,3,tarjeta,delivery
+2026-03-23,larcomar,Raul Herrera,pepperoni,grande,42.81,4,tarjeta,local
+2026-03-23,plaza norte,Alvaro Medina,vegetariana,grande,42.75,1,tarjeta,para_llevar
+2026-03-23,mega plaza,vendedor2,vegetariana,grande,45.61,2,plin,para_llevar
+2026-03-23,plaza san miguel,Martin Cruz,vegetariana,regular,33.44,4,tarjeta,local
+2026-03-23,open plaza angamos,Pablo Morales,suprema,grande,41.88,4,tarjeta,local
+2026-03-24,mega plaza,vendedor3,americana,grande,45.08,2,plin,local
+2026-03-24,real plaza salaverry,Mario Soto,bbq chicken,grande,40.63,2,yape,local
+2026-03-24,open plaza angamos,Daniel Reyes,cuatro quesos,regular,29.9,2,plin,para_llevar
+2026-03-24,mall aventura santa anita,Miguel Rojas,suprema,personal,25.76,3,plin,para_llevar
+2026-03-24,mega plaza,vendedor2,cuatro quesos,grande,44.36,2,efectivo,para_llevar
+2026-03-24,real plaza salaverry,Cesar Ortiz,bbq chicken,regular,30.12,2,efectivo,local
+2026-03-24,real plaza salaverry,Mario Soto,pepperoni,personal,21.36,1,efectivo,delivery
+2026-03-24,plaza san miguel,Martin Cruz,hawaiana,grande,40.63,2,plin,para_llevar
+2026-03-24,real plaza centro civico,Ricardo Leon,cuatro quesos,familiar,48.19,1,yape,local
+2026-03-25,plaza san miguel,Bruno Campos,bbq chicken,familiar,59.54,3,tarjeta,local
+2026-03-25,mall aventura santa anita,Diego Flores,vegetariana,grande,37.94,1,yape,local
+2026-03-25,larcomar,Raul Herrera,americana,personal,23.61,4,efectivo,delivery
+2026-03-25,mall aventura santa anita,Andres Castro,bbq chicken,familiar,50.07,4,plin,local
+2026-03-25,plaza norte,Renato Vega,pepperoni,familiar,52.93,1,tarjeta,para_llevar
+2026-03-25,real plaza salaverry,Julio Vargas,suprema,regular,32.09,2,plin,delivery
+2026-03-25,plaza norte,Renato Vega,hawaiana,regular,30.19,2,plin,para_llevar
+2026-03-25,larcomar,Oscar Ruiz,hawaiana,personal,22.84,2,yape,delivery
+2026-03-25,plaza norte,Alvaro Medina,cuatro quesos,familiar,53.43,3,yape,local
+2026-03-25,plaza norte,Renato Vega,bbq chicken,familiar,52.9,2,efectivo,local
+2026-03-25,open plaza angamos,Pablo Morales,pepperoni,personal,21.87,4,tarjeta,local
+2026-03-25,plaza san miguel,Bruno Campos,cuatro quesos,grande,39.95,1,efectivo,delivery
+2026-03-25,open plaza angamos,Daniel Reyes,suprema,grande,37.24,4,yape,delivery
+2026-03-25,real plaza salaverry,Cesar Ortiz,hawaiana,grande,43.43,2,efectivo,local
+2026-03-25,open plaza angamos,Pablo Morales,bbq chicken,personal,20.8,2,efectivo,delivery
+2026-03-25,real plaza centro civico,Hector Silva,bbq chicken,familiar,64.88,2,tarjeta,para_llevar
+2026-03-25,larcomar,Kevin Navarro,hawaiana,personal,21.73,3,yape,delivery
+2026-03-25,mall aventura santa anita,Andres Castro,americana,regular,27.7,2,efectivo,local
+2026-03-25,jockey plaza,Jorge Torres,suprema,familiar,63.75,1,efectivo,para_llevar
