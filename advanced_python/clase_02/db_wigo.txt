@@ -1,0 +1,15 @@
+CREATE DATABASE wigo_motors;
+
+USE wigo_motors;
+
+CREATE TABLE ventas_vehiculos (
+    id_venta INT PRIMARY KEY,
+    fecha DATE NOT NULL,
+    marca VARCHAR(50) NOT NULL,
+    modelo VARCHAR(100) NOT NULL,
+    precio_venta DECIMAL(10,2) NOT NULL,
+    cantidad INT NOT NULL,
+    tienda VARCHAR(100) NOT NULL,
+    metodo_pago VARCHAR(30) NOT NULL,
+    asesor_comercial VARCHAR(100) NOT NULL
+);

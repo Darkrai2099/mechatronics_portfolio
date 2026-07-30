@@ -1,0 +1,1501 @@
+id_venta,fecha,marca,modelo,precio_venta,cantidad,tienda,metodo_pago,asesor_comercial
+1,2026-02-13,Chevrolet,Captiva LT,111300,2,Wigo Motors Miraflores,Contado,Jose Castillo
+2,2026-01-30,Kia,Seltos LX,92100,1,Wigo Motors Miraflores,Leasing,Luis Medina
+3,2026-04-25,Kia,Sonet GT Line,76300,2,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+4,2026-05-23,Hyundai,Creta Comfort,87300,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+5,2026-01-09,Hyundai,Creta Comfort,82300,1,Wigo Motors Arequipa,Contado,Andrea Flores
+6,2026-04-24,Toyota,RAV4 Limited,140800,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+7,2026-02-08,Mazda,CX-30 Grand Touring,143500,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+8,2026-02-19,Hyundai,Santa Fe Limited,155600,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+9,2026-01-02,Kia,Soluto EX,64700,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+10,2026-05-11,Suzuki,Fronx GLX,84000,1,Wigo Motors Arequipa,Leasing,Maria Torres
+11,2026-06-01,Glory,Glory 560 CVT,95100,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+12,2026-02-18,Hyundai,Creta Comfort,88200,2,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+13,2026-05-10,Toyota,Yaris XL,74700,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+14,2026-05-10,Glory,Glory i-Auto Turbo,109200,2,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+15,2026-04-22,Suzuki,Swift GLX,61900,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+16,2026-05-04,Glory,Glory i-Auto Luxury,111700,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+17,2026-02-15,Kia,Seltos EX,92900,1,Wigo Motors Miraflores,Contado,Maria Torres
+18,2026-01-24,Audi,Q3 Advanced,199200,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+19,2026-01-20,Audi,Q3 Advanced,193700,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+20,2026-04-22,Chevrolet,Captiva Premier,115100,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+21,2026-01-29,Glory,Glory 560 CVT,99700,1,Wigo Motors Trujillo,Contado,Maria Torres
+22,2026-06-30,Toyota,Hilux SR,138800,2,Wigo Motors Miraflores,Contado,Luis Medina
+23,2026-01-31,Toyota,Yaris XL,74800,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+24,2026-04-23,Suzuki,Swift Sport,60800,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+25,2026-01-04,Hyundai,Santa Fe Premium,160600,2,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+26,2026-04-13,Kia,Sportage GT Line,120800,1,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+27,2026-03-04,Toyota,RAV4 XLE,144800,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+28,2026-03-11,Toyota,Hilux DX,141000,1,Wigo Motors Trujillo,Contado,Jose Castillo
+29,2026-02-05,Mazda,Mazda 3 Sport,120800,1,Wigo Motors Arequipa,Contado,Jose Castillo
+30,2026-03-03,Kia,Sportage GT Line,125300,1,Wigo Motors Arequipa,Contado,Luis Medina
+31,2026-03-03,Audi,Q3 Advanced,195500,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+32,2026-02-12,Subaru,Outback Limited,206900,1,Wigo Motors Trujillo,Leasing,Maria Torres
+33,2026-04-24,Kia,Sportage EX,124900,2,Wigo Motors Lima Centro,Contado,Maria Torres
+34,2026-03-09,Kia,Seltos LX,90000,1,Wigo Motors Cusco,Leasing,Jose Castillo
+35,2026-06-14,Chevrolet,Captiva LT,115400,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+36,2026-01-23,Kia,Seltos LX,89400,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+37,2026-05-02,Glory,Glory 500 Turbo,85000,2,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+38,2026-06-03,Toyota,Hilux DX,135700,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+39,2026-04-13,Subaru,Outback Touring,209900,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+40,2026-03-04,Kia,Sonet EX,77300,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+41,2026-05-20,Kia,Seltos EX,93400,2,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+42,2026-05-19,Kia,Sportage EX,128900,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+43,2026-03-10,Kia,Sonet LX,75100,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+44,2026-01-31,Suzuki,Ertiga GLX,82100,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+45,2026-05-13,Suzuki,Swift Sport,62100,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+46,2026-05-14,Toyota,Hilux SRV,134300,2,Wigo Motors Arequipa,Contado,Andrea Flores
+47,2026-01-13,Suzuki,Ertiga GLX,78500,2,Wigo Motors Arequipa,Contado,Luis Medina
+48,2026-05-28,Hyundai,Santa Fe Premium,153100,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+49,2026-05-14,Mazda,CX-30 Touring,139400,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+50,2026-04-19,Toyota,RAV4 LE,146100,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+51,2026-01-24,Toyota,Yaris XL,70400,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+52,2026-02-12,Subaru,XV Limited,127700,1,Wigo Motors Cusco,Leasing,Maria Torres
+53,2026-05-17,Suzuki,Jimny 3 Puertas,106600,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+54,2026-01-02,Mazda,CX-5 Touring,164000,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+55,2026-04-03,Hyundai,Santa Fe Premium,164400,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+56,2026-03-13,Toyota,Yaris XS,73600,1,Wigo Motors Arequipa,Leasing,Luis Medina
+57,2026-05-22,Hyundai,Santa Fe Limited,160000,2,Wigo Motors Miraflores,Contado,Luis Medina
+58,2026-01-26,Toyota,Corolla Cross GR-S,99900,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+59,2026-04-19,Suzuki,Jimny 5 Puertas,103900,1,Wigo Motors Arequipa,Leasing,Luis Medina
+60,2026-01-22,Audi,A3 S Line,189900,1,Wigo Motors Miraflores,Contado,Maria Torres
+61,2026-01-24,Suzuki,Fronx GL,83100,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+62,2026-02-07,Chevrolet,Onix LS,70500,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+63,2026-03-24,Hyundai,Accent GL,70200,2,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+64,2026-05-10,Suzuki,Swift GL,60100,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+65,2026-03-04,Kia,Sportage GT Line,124300,1,Wigo Motors Miraflores,Leasing,Maria Torres
+66,2026-02-22,Glory,Glory 560 Luxury,98800,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+67,2026-01-27,Kia,Seltos EX,93200,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+68,2026-02-08,Hyundai,Creta Premium,82300,2,Wigo Motors Trujillo,Leasing,Maria Torres
+69,2026-05-05,Toyota,Hilux DX,138500,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+70,2026-06-09,Kia,Sonet EX,74200,2,Wigo Motors Cusco,Leasing,Carmen Ruiz
+71,2026-01-28,Kia,Soluto EX,64500,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+72,2026-03-14,Suzuki,Jimny 5 Puertas,104500,2,Wigo Motors Arequipa,Contado,Carmen Ruiz
+73,2026-02-01,Kia,Sonet EX,75200,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+74,2026-06-29,Suzuki,Ertiga GLX,81400,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+75,2026-01-11,Toyota,Hilux SRV,141200,1,Wigo Motors Cusco,Contado,Maria Torres
+76,2026-01-17,Chevrolet,Tracker Premier,97400,1,Wigo Motors Trujillo,Contado,Andrea Flores
+77,2026-05-02,BMW,X3 M Sport,264500,1,Wigo Motors Cusco,Contado,Carlos Rojas
+78,2026-01-25,Mazda,Mazda 3 Sedan,122100,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+79,2026-02-03,Toyota,Yaris Sport,71300,1,Wigo Motors Cusco,Leasing,Maria Torres
+80,2026-05-15,Hyundai,Santa Fe Limited,153400,2,Wigo Motors Lima Centro,Contado,Luis Medina
+81,2026-02-07,Toyota,Yaris XL,69200,2,Wigo Motors Trujillo,Contado,Carmen Ruiz
+82,2026-03-19,Suzuki,Jimny 5 Puertas,99800,2,Wigo Motors Cusco,Leasing,Andrea Flores
+83,2026-01-18,Chevrolet,Tracker LT,96600,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+84,2026-06-25,Kia,Seltos LX,95800,1,Wigo Motors Trujillo,Contado,Maria Torres
+85,2026-04-08,Hyundai,Creta Premium,85400,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+86,2026-04-15,Hyundai,Creta Premium,87500,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+87,2026-02-20,Suzuki,Swift GLX,62700,1,Wigo Motors Arequipa,Leasing,Luis Medina
+88,2026-02-11,Glory,Glory 500 Turbo,85000,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+89,2026-05-08,Suzuki,Swift GLX,61700,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+90,2026-05-24,Toyota,Corolla Cross XLI,96900,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+91,2026-03-11,Glory,Glory i-Auto Luxury,107600,1,Wigo Motors Arequipa,Leasing,Luis Medina
+92,2026-01-11,Chevrolet,Onix LS,69100,1,Wigo Motors Cusco,Leasing,Luis Medina
+93,2026-03-14,Toyota,RAV4 Limited,150300,2,Wigo Motors Cusco,Leasing,Maria Torres
+94,2026-04-01,Toyota,Hilux SRV,131000,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+95,2026-04-17,Suzuki,Swift GL,61200,2,Wigo Motors Trujillo,Contado,Luis Medina
+96,2026-04-15,Chevrolet,Tracker RS,91300,2,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+97,2026-06-27,Mazda,Mazda 3 Sport,114400,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+98,2026-05-29,Chevrolet,Onix LS,69100,2,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+99,2026-05-07,Glory,Glory 500 Luxury,79700,1,Wigo Motors Cusco,Leasing,Luis Medina
+100,2026-05-17,Mazda,CX-5 Grand Touring,162700,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+101,2026-06-15,Chevrolet,Captiva Premier,117100,1,Wigo Motors Cusco,Leasing,Andrea Flores
+102,2026-02-18,Suzuki,Swift Sport,62300,1,Wigo Motors Arequipa,Contado,Maria Torres
+103,2026-01-19,Chevrolet,Onix LTZ,70200,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+104,2026-03-09,Toyota,RAV4 XLE,144100,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+105,2026-01-04,Hyundai,Creta Premium,84400,2,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+106,2026-06-01,Glory,Glory 500 Luxury,81400,2,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+107,2026-02-06,Toyota,Corolla Cross GR-S,95800,1,Wigo Motors Cusco,Leasing,Luis Medina
+108,2026-04-08,Hyundai,Santa Fe Limited,154100,1,Wigo Motors Cusco,Contado,Carlos Rojas
+109,2026-05-27,Kia,Seltos EX,96400,1,Wigo Motors Cusco,Contado,Luis Medina
+110,2026-03-16,Mazda,Mazda 3 Sedan,120500,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+111,2026-02-11,Toyota,Hilux DX,132600,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+112,2026-02-12,Hyundai,Creta Comfort,84900,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+113,2026-02-14,Audi,A3 Advanced,189400,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+114,2026-06-10,Audi,A3 S Line,192900,1,Wigo Motors Cusco,Leasing,Jose Castillo
+115,2026-02-02,Chevrolet,Tracker Premier,98200,2,Wigo Motors Trujillo,Contado,Jose Castillo
+116,2026-03-31,Kia,Sportage GT Line,124400,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+117,2026-05-01,Kia,Sportage GT Line,121000,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+118,2026-01-29,Hyundai,Creta Comfort,87900,2,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+119,2026-05-04,Suzuki,Fronx GL,81500,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+120,2026-05-04,Chevrolet,Onix LTZ,68800,2,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+121,2026-05-09,Suzuki,Jimny 3 Puertas,105500,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+122,2026-02-25,Kia,Sportage EX,120400,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+123,2026-02-27,Chevrolet,Tracker RS,98000,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+124,2026-05-28,Toyota,Corolla Cross GR-S,98000,1,Wigo Motors Cusco,Contado,Jose Castillo
+125,2026-05-27,Hyundai,Santa Fe Premium,153700,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+126,2026-01-01,Toyota,Corolla Cross XEI,101300,2,Wigo Motors Cusco,Contado,Jose Castillo
+127,2026-06-28,Audi,Q3 Advanced,206800,1,Wigo Motors Miraflores,Contado,Luis Medina
+128,2026-04-15,Kia,Seltos LX,92000,2,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+129,2026-04-15,Suzuki,Ertiga GL,84600,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+130,2026-01-25,Toyota,Corolla Cross GR-S,94200,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+131,2026-01-03,Subaru,Forester Dynamic,172400,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+132,2026-04-05,Kia,Sportage LX,122100,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+133,2026-06-26,Kia,Sonet EX,79100,1,Wigo Motors Miraflores,Contado,Maria Torres
+134,2026-01-29,Audi,A3 Advanced,193800,1,Wigo Motors Arequipa,Contado,Luis Medina
+135,2026-03-13,Toyota,RAV4 LE,140000,1,Wigo Motors Cusco,Contado,Andrea Flores
+136,2026-04-16,Glory,Glory 500 Luxury,85900,2,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+137,2026-05-29,Hyundai,Accent GL,66800,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+138,2026-04-16,Toyota,Hilux SRV,135800,1,Wigo Motors Trujillo,Contado,Jose Castillo
+139,2026-06-12,Toyota,Yaris Sport,70800,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+140,2026-06-09,Hyundai,Tucson Premium,119200,2,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+141,2026-01-16,Chevrolet,Captiva Premier,120400,1,Wigo Motors Miraflores,Contado,Maria Torres
+142,2026-04-18,BMW,X1 xDrive25i,173300,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+143,2026-03-01,Kia,Seltos EX,93400,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+144,2026-06-14,Kia,Sportage GT Line,121200,1,Wigo Motors Trujillo,Contado,Luis Medina
+145,2026-04-19,Hyundai,Santa Fe Premium,158600,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+146,2026-01-15,Kia,Seltos GT Line,92600,2,Wigo Motors Miraflores,Contado,Jose Castillo
+147,2026-05-02,Glory,Glory 500 Luxury,80000,2,Wigo Motors Trujillo,Contado,Andrea Flores
+148,2026-01-27,Hyundai,Creta Comfort,83800,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+149,2026-05-16,Mazda,CX-5 Grand Touring,167200,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+150,2026-03-18,Kia,Soluto EX,65200,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+151,2026-03-18,Hyundai,Santa Fe Limited,156200,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+152,2026-01-18,Hyundai,Santa Fe Limited,152300,1,Wigo Motors Cusco,Contado,Luis Medina
+153,2026-05-07,Glory,Glory 560 CVT,102700,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+154,2026-05-12,Suzuki,Jimny 5 Puertas,98800,1,Wigo Motors Arequipa,Contado,Andrea Flores
+155,2026-01-04,Chevrolet,Captiva LT,115300,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+156,2026-06-12,Toyota,RAV4 XLE,150600,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+157,2026-03-27,Suzuki,Fronx Hybrid,79800,2,Wigo Motors Arequipa,Leasing,Maria Torres
+158,2026-06-08,Hyundai,Tucson Limited,123200,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+159,2026-06-18,Hyundai,Tucson Comfort,121600,1,Wigo Motors Miraflores,Leasing,Maria Torres
+160,2026-04-20,Subaru,Outback Touring,218700,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+161,2026-01-17,Toyota,Yaris XL,71300,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+162,2026-01-19,Kia,Sonet LX,75300,1,Wigo Motors Arequipa,Contado,Luis Medina
+163,2026-01-30,Audi,Q3 S Line,195000,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+164,2026-02-14,Hyundai,Santa Fe Premium,156600,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+165,2026-02-24,Suzuki,Ertiga GLX,83800,1,Wigo Motors Trujillo,Leasing,Maria Torres
+166,2026-04-10,Kia,Sonet GT Line,76600,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+167,2026-01-01,Hyundai,Accent GL,67100,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+168,2026-03-20,Hyundai,Tucson Premium,119400,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+169,2026-05-05,Hyundai,Accent Full,71900,2,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+170,2026-03-20,Glory,Glory i-Auto Turbo,104300,2,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+171,2026-02-13,Toyota,RAV4 XLE,151400,1,Wigo Motors Miraflores,Contado,Jose Castillo
+172,2026-05-05,Toyota,RAV4 Limited,151100,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+173,2026-04-16,Chevrolet,Tracker Premier,93400,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+174,2026-06-01,Glory,Glory 500 Turbo,84200,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+175,2026-02-25,Hyundai,Accent GL,66700,2,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+176,2026-02-18,Chevrolet,Captiva Premier,115400,2,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+177,2026-06-21,Suzuki,Fronx GL,84300,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+178,2026-01-14,Subaru,Outback Touring,219100,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+179,2026-03-20,Hyundai,Accent GL,66300,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+180,2026-05-24,Toyota,Corolla Cross GR-S,101100,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+181,2026-05-22,Hyundai,Creta Comfort,83400,1,Wigo Motors Cusco,Leasing,Andrea Flores
+182,2026-05-15,Suzuki,Ertiga GLX,81900,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+183,2026-06-13,Chevrolet,Onix Premier,70000,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+184,2026-05-05,Glory,Glory 560 CVT,94700,1,Wigo Motors Miraflores,Leasing,Maria Torres
+185,2026-01-25,Hyundai,Accent GL,68200,1,Wigo Motors Lima Centro,Contado,Luis Medina
+186,2026-03-14,Suzuki,Ertiga GLX,80900,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+187,2026-06-05,Kia,Seltos GT Line,93700,2,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+188,2026-04-22,Chevrolet,Tracker RS,96900,1,Wigo Motors Miraflores,Contado,Jose Castillo
+189,2026-04-05,Kia,Soluto LX,65900,1,Wigo Motors Miraflores,Contado,Luis Medina
+190,2026-01-26,Glory,Glory 500 Turbo,79300,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+191,2026-03-21,Toyota,Corolla Cross XEI,94900,1,Wigo Motors Arequipa,Contado,Maria Torres
+192,2026-01-23,Glory,Glory 500 Turbo,84100,2,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+193,2026-01-13,Hyundai,Tucson Comfort,121200,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+194,2026-01-31,Toyota,Hilux SRV,135500,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+195,2026-03-02,Suzuki,Jimny 3 Puertas,102200,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+196,2026-03-28,Chevrolet,Onix Premier,69600,1,Wigo Motors Arequipa,Contado,Luis Medina
+197,2026-06-14,Subaru,Outback Limited,209200,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+198,2026-05-08,Glory,Glory 500 Luxury,83400,1,Wigo Motors Arequipa,Leasing,Luis Medina
+199,2026-01-27,Mazda,CX-30 Touring,147600,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+200,2026-01-09,Hyundai,Santa Fe Premium,162300,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+201,2026-01-14,Glory,Glory 500 Luxury,80000,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+202,2026-01-25,Hyundai,Tucson Comfort,119400,1,Wigo Motors Miraflores,Contado,Andrea Flores
+203,2026-03-01,Suzuki,Jimny 3 Puertas,102500,2,Wigo Motors Arequipa,Leasing,Andrea Flores
+204,2026-05-28,Subaru,Outback Limited,214200,1,Wigo Motors Miraflores,Leasing,Luis Medina
+205,2026-06-08,Hyundai,Tucson Limited,120300,1,Wigo Motors Miraflores,Contado,Luis Medina
+206,2026-01-21,Kia,Sportage LX,122700,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+207,2026-02-11,Toyota,Hilux SR,132100,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+208,2026-04-11,Mazda,CX-30 Grand Touring,141500,1,Wigo Motors Arequipa,Contado,Luis Medina
+209,2026-06-25,Toyota,Corolla Cross GR-S,100600,2,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+210,2026-06-20,Kia,Sonet GT Line,77100,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+211,2026-01-31,Kia,Soluto EX,65100,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+212,2026-05-22,Mazda,CX-5 Grand Touring,165200,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+213,2026-02-19,Hyundai,Accent Full,67500,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+214,2026-01-13,Hyundai,Santa Fe Limited,163000,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+215,2026-04-30,Hyundai,Accent GL,66700,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+216,2026-03-28,Glory,Glory 500 Luxury,85400,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+217,2026-03-30,Hyundai,Santa Fe Premium,161800,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+218,2026-04-19,Hyundai,Accent GL,67800,2,Wigo Motors Miraflores,Contado,Luis Medina
+219,2026-03-28,Toyota,Yaris XL,74000,1,Wigo Motors Cusco,Contado,Andrea Flores
+220,2026-02-23,Suzuki,Ertiga GL,84100,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+221,2026-06-20,Glory,Glory i-Auto Turbo,109800,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+222,2026-06-30,Glory,Glory 560 Luxury,97100,1,Wigo Motors Cusco,Contado,Luis Medina
+223,2026-01-25,Hyundai,Accent Full,66400,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+224,2026-03-21,Hyundai,Accent Full,71400,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+225,2026-01-23,Kia,Sonet EX,79500,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+226,2026-06-03,Toyota,RAV4 XLE,142300,1,Wigo Motors Arequipa,Contado,Maria Torres
+227,2026-03-10,Glory,Glory 500 Luxury,85800,1,Wigo Motors Cusco,Leasing,Andrea Flores
+228,2026-03-16,Suzuki,Swift Sport,64900,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+229,2026-03-31,Kia,Sportage EX,122300,2,Wigo Motors Miraflores,Contado,Luis Medina
+230,2026-03-02,Toyota,Hilux SR,131000,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+231,2026-03-15,Mazda,CX-5 Touring,160400,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+232,2026-01-31,Kia,Sportage EX,125000,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+233,2026-04-21,Suzuki,Fronx GL,83300,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+234,2026-05-10,Chevrolet,Onix LTZ,68600,1,Wigo Motors Arequipa,Contado,Jose Castillo
+235,2026-05-20,Hyundai,Tucson Limited,121700,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+236,2026-02-05,Chevrolet,Onix LTZ,67300,2,Wigo Motors Arequipa,Contado,Maria Torres
+237,2026-06-13,Chevrolet,Captiva Premier,115300,1,Wigo Motors Trujillo,Contado,Luis Medina
+238,2026-01-18,Subaru,Outback Limited,202900,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+239,2026-06-30,Chevrolet,Onix LS,70200,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+240,2026-03-05,Hyundai,Santa Fe Limited,160300,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+241,2026-06-29,Suzuki,Swift GL,61400,1,Wigo Motors Trujillo,Contado,Luis Medina
+242,2026-01-01,Toyota,Corolla Cross XLI,101200,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+243,2026-02-09,Toyota,Hilux SR,138500,1,Wigo Motors Miraflores,Contado,Luis Medina
+244,2026-06-05,Kia,Soluto LX,63300,1,Wigo Motors Cusco,Leasing,Jose Castillo
+245,2026-04-29,Hyundai,Santa Fe Premium,157500,1,Wigo Motors Lima Centro,Contado,Maria Torres
+246,2026-06-07,Suzuki,Swift GLX,63700,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+247,2026-06-14,Kia,Sonet GT Line,78700,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+248,2026-06-26,Mazda,Mazda 3 Sport,113600,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+249,2026-06-17,Toyota,Corolla Cross XEI,94200,2,Wigo Motors Arequipa,Contado,Luis Medina
+250,2026-03-15,Subaru,Outback Limited,218300,1,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+251,2026-04-27,Kia,Soluto LX,63800,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+252,2026-06-02,Toyota,Hilux SRV,135800,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+253,2026-06-11,Kia,Soluto EX,64700,2,Wigo Motors Lima Centro,Contado,Luis Medina
+254,2026-05-19,Hyundai,Creta Premium,86600,2,Wigo Motors Cusco,Contado,Andrea Flores
+255,2026-04-27,Audi,Q3 Advanced,204000,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+256,2026-05-24,Hyundai,Accent GL,66600,2,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+257,2026-03-24,Audi,A3 Advanced,190300,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+258,2026-05-11,Glory,Glory 500 Turbo,85000,2,Wigo Motors Arequipa,Contado,Maria Torres
+259,2026-06-03,Mazda,CX-5 Touring,164500,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+260,2026-04-23,Chevrolet,Tracker Premier,96400,2,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+261,2026-02-22,Toyota,Hilux SRV,134200,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+262,2026-01-04,Hyundai,Santa Fe Limited,164500,1,Wigo Motors Cusco,Leasing,Maria Torres
+263,2026-02-28,Subaru,XV Limited,133500,1,Wigo Motors Cusco,Leasing,Andrea Flores
+264,2026-06-16,Mazda,CX-5 Grand Touring,167000,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+265,2026-03-11,Chevrolet,Tracker LT,92100,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+266,2026-02-20,Toyota,RAV4 Limited,144500,2,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+267,2026-03-18,Kia,Soluto EX,65800,1,Wigo Motors Cusco,Leasing,Jose Castillo
+268,2026-02-08,Suzuki,Fronx GLX,80700,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+269,2026-04-28,Suzuki,Swift GL,60400,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+270,2026-06-25,Kia,Soluto EX,61900,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+271,2026-06-21,Suzuki,Ertiga GLX,78600,1,Wigo Motors Cusco,Contado,Maria Torres
+272,2026-01-13,Mazda,CX-30 Touring,145100,1,Wigo Motors Cusco,Contado,Andrea Flores
+273,2026-01-30,Audi,Q5 Advanced,281300,1,Wigo Motors Cusco,Leasing,Jose Castillo
+274,2026-04-03,Chevrolet,Captiva Premier,115700,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+275,2026-02-16,Suzuki,Fronx Hybrid,81000,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+276,2026-06-11,Kia,Sportage EX,127700,2,Wigo Motors Trujillo,Contado,Maria Torres
+277,2026-01-26,Audi,Q3 Advanced,199400,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+278,2026-04-14,Kia,Sportage EX,127600,1,Wigo Motors Trujillo,Contado,Luis Medina
+279,2026-01-13,Toyota,Yaris XL,73600,1,Wigo Motors Trujillo,Contado,Jose Castillo
+280,2026-06-20,Glory,Glory 500 Luxury,80700,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+281,2026-05-25,Glory,Glory 560 CVT,96400,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+282,2026-02-25,Kia,Sportage EX,126800,1,Wigo Motors Cusco,Leasing,Andrea Flores
+283,2026-03-19,Toyota,Corolla Cross XEI,100900,1,Wigo Motors Arequipa,Leasing,Luis Medina
+284,2026-02-19,Kia,Sonet GT Line,73400,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+285,2026-02-23,Hyundai,Tucson Limited,123100,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+286,2026-01-01,Glory,Glory 500 Luxury,84300,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+287,2026-06-26,Kia,Sonet LX,73900,2,Wigo Motors Arequipa,Contado,Carmen Ruiz
+288,2026-01-13,Suzuki,Swift GL,62200,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+289,2026-03-03,Suzuki,Ertiga GLX,81200,2,Wigo Motors Arequipa,Contado,Luis Medina
+290,2026-06-25,Toyota,Yaris XS,74400,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+291,2026-01-26,Suzuki,Jimny 5 Puertas,100900,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+292,2026-04-27,BMW,X1 xDrive25i,181700,1,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+293,2026-01-31,Toyota,RAV4 Limited,140100,2,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+294,2026-06-08,Subaru,Forester Dynamic,167100,1,Wigo Motors Arequipa,Contado,Andrea Flores
+295,2026-04-09,Suzuki,Jimny 5 Puertas,102000,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+296,2026-06-08,Toyota,RAV4 LE,144600,2,Wigo Motors Arequipa,Contado,Andrea Flores
+297,2026-04-20,Suzuki,Fronx GLX,79700,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+298,2026-03-14,Kia,Seltos GT Line,89300,1,Wigo Motors Arequipa,Contado,Jose Castillo
+299,2026-03-08,Suzuki,Swift GL,64100,2,Wigo Motors Trujillo,Leasing,Carlos Rojas
+300,2026-01-26,Toyota,Hilux SRV,136500,1,Wigo Motors Arequipa,Leasing,Luis Medina
+301,2026-06-15,BMW,X3 xDrive20i,267800,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+302,2026-06-17,Kia,Seltos EX,89000,2,Wigo Motors Arequipa,Contado,Andrea Flores
+303,2026-04-19,Kia,Sportage GT Line,127200,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+304,2026-04-15,Toyota,RAV4 LE,140000,1,Wigo Motors Arequipa,Leasing,Maria Torres
+305,2026-02-16,Kia,Soluto LX,63800,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+306,2026-02-05,Chevrolet,Captiva Premier,115600,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+307,2026-05-31,Suzuki,Ertiga GLX,83300,2,Wigo Motors Cusco,Leasing,Luis Medina
+308,2026-02-21,Toyota,Yaris XL,70200,1,Wigo Motors Miraflores,Contado,Maria Torres
+309,2026-03-06,Toyota,Corolla Cross XLI,96700,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+310,2026-03-16,Mazda,CX-30 Touring,142900,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+311,2026-04-24,Hyundai,Accent Full,69300,1,Wigo Motors Miraflores,Contado,Maria Torres
+312,2026-02-16,Hyundai,Creta Premium,83200,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+313,2026-01-25,Toyota,RAV4 LE,144200,2,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+314,2026-03-08,Hyundai,Tucson Limited,118400,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+315,2026-04-19,Audi,Q5 Advanced,288200,1,Wigo Motors Miraflores,Contado,Jose Castillo
+316,2026-06-23,Subaru,Outback Limited,209200,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+317,2026-03-27,Kia,Sportage EX,128000,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+318,2026-03-04,Chevrolet,Captiva LT,117200,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+319,2026-04-16,Kia,Seltos EX,95000,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+320,2026-01-27,BMW,X3 M Sport,259900,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+321,2026-06-13,Hyundai,Accent GL,69600,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+322,2026-06-09,Toyota,Corolla Cross XEI,98000,1,Wigo Motors Trujillo,Leasing,Maria Torres
+323,2026-05-20,Toyota,Yaris XS,71500,2,Wigo Motors Cusco,Contado,Andrea Flores
+324,2026-06-07,Mazda,CX-30 Touring,148100,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+325,2026-02-12,Suzuki,Fronx Hybrid,80100,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+326,2026-05-24,BMW,X3 M Sport,253900,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+327,2026-05-14,Glory,Glory 500 Luxury,80200,2,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+328,2026-02-11,Glory,Glory 500 Turbo,84600,1,Wigo Motors Cusco,Leasing,Andrea Flores
+329,2026-03-16,Suzuki,Jimny 5 Puertas,102000,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+330,2026-01-11,Hyundai,Creta Premium,86900,1,Wigo Motors Cusco,Leasing,Jose Castillo
+331,2026-06-29,Subaru,XV Dynamic,133700,1,Wigo Motors Cusco,Contado,Carlos Rojas
+332,2026-02-27,Toyota,Corolla Cross XEI,98200,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+333,2026-01-10,Kia,Seltos LX,93400,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+334,2026-01-29,Mazda,CX-30 Grand Touring,138300,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+335,2026-05-05,Suzuki,Fronx GL,83900,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+336,2026-01-28,Hyundai,Santa Fe Limited,162200,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+337,2026-05-19,Toyota,Corolla Cross XEI,97500,1,Wigo Motors Trujillo,Contado,Jose Castillo
+338,2026-03-16,Suzuki,Swift GL,62100,1,Wigo Motors Trujillo,Leasing,Maria Torres
+339,2026-06-23,Kia,Soluto EX,63100,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+340,2026-06-29,Kia,Seltos EX,95000,2,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+341,2026-02-20,Hyundai,Accent Full,67200,2,Wigo Motors Arequipa,Contado,Andrea Flores
+342,2026-04-07,Chevrolet,Onix Premier,67700,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+343,2026-05-28,Toyota,RAV4 Limited,149900,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+344,2026-03-19,Glory,Glory 500 Turbo,82800,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+345,2026-02-27,Hyundai,Tucson Limited,113600,2,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+346,2026-03-11,Kia,Soluto EX,64000,2,Wigo Motors Cusco,Contado,Carlos Rojas
+347,2026-04-16,Glory,Glory 560 CVT,102500,1,Wigo Motors Cusco,Leasing,Luis Medina
+348,2026-06-14,Chevrolet,Onix LS,67000,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+349,2026-06-01,Glory,Glory i-Auto Luxury,107100,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+350,2026-05-04,Glory,Glory 560 Luxury,100200,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+351,2026-02-28,Kia,Sonet GT Line,73400,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+352,2026-02-08,Glory,Glory 500 Luxury,82200,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+353,2026-02-08,Suzuki,Ertiga GL,79300,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+354,2026-01-14,Hyundai,Santa Fe Limited,158500,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+355,2026-02-10,Suzuki,Ertiga GL,79400,1,Wigo Motors Trujillo,Contado,Luis Medina
+356,2026-05-09,Glory,Glory 500 Turbo,82500,2,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+357,2026-02-01,Glory,Glory 560 CVT,98000,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+358,2026-02-07,Suzuki,Fronx GL,85100,2,Wigo Motors Cusco,Contado,Carlos Rojas
+359,2026-02-10,Toyota,RAV4 XLE,147200,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+360,2026-06-15,Glory,Glory 560 Luxury,96200,2,Wigo Motors Cusco,Contado,Luis Medina
+361,2026-06-16,Subaru,XV Dynamic,136900,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+362,2026-01-09,Hyundai,Santa Fe Limited,165500,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+363,2026-01-12,Mazda,Mazda 3 Sedan,120800,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+364,2026-01-17,Toyota,Corolla Cross GR-S,100800,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+365,2026-05-31,Toyota,RAV4 XLE,148400,2,Wigo Motors Cusco,Contado,Luis Medina
+366,2026-03-27,Kia,Sonet GT Line,78100,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+367,2026-06-04,BMW,X1 xDrive25i,180100,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+368,2026-02-15,Mazda,Mazda 3 Sedan,122900,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+369,2026-03-28,Suzuki,Jimny 3 Puertas,101200,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+370,2026-04-08,Kia,Soluto EX,67100,1,Wigo Motors Cusco,Contado,Luis Medina
+371,2026-03-21,Hyundai,Accent Full,71500,2,Wigo Motors Arequipa,Contado,Maria Torres
+372,2026-03-01,Suzuki,Jimny 5 Puertas,105600,1,Wigo Motors Cusco,Leasing,Maria Torres
+373,2026-04-23,Toyota,Hilux SR,139700,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+374,2026-02-14,Chevrolet,Tracker LT,91500,2,Wigo Motors Cusco,Leasing,Carmen Ruiz
+375,2026-01-06,Toyota,RAV4 Limited,150900,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+376,2026-01-15,Toyota,Corolla Cross XLI,100400,1,Wigo Motors Trujillo,Contado,Luis Medina
+377,2026-06-20,Glory,Glory 560 CVT,101600,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+378,2026-06-20,Hyundai,Creta Comfort,85200,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+379,2026-01-25,Glory,Glory 500 Luxury,80400,2,Wigo Motors Arequipa,Leasing,Luis Medina
+380,2026-06-18,Kia,Sonet GT Line,74500,2,Wigo Motors Trujillo,Contado,Maria Torres
+381,2026-03-02,Subaru,Forester Limited,163900,1,Wigo Motors Arequipa,Contado,Luis Medina
+382,2026-05-19,Chevrolet,Captiva Premier,119500,1,Wigo Motors Arequipa,Contado,Luis Medina
+383,2026-01-21,Kia,Sportage GT Line,122500,2,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+384,2026-05-29,Kia,Sportage EX,125400,2,Wigo Motors Trujillo,Leasing,Maria Torres
+385,2026-05-30,Toyota,Corolla Cross XLI,100700,1,Wigo Motors Miraflores,Contado,Andrea Flores
+386,2026-01-10,Hyundai,Accent Full,72400,2,Wigo Motors Lima Centro,Contado,Luis Medina
+387,2026-04-19,Hyundai,Creta Comfort,82900,2,Wigo Motors Lima Centro,Leasing,Luis Medina
+388,2026-06-29,Hyundai,Tucson Comfort,115500,1,Wigo Motors Miraflores,Contado,Jose Castillo
+389,2026-04-25,Glory,Glory 500 Luxury,85100,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+390,2026-03-03,Toyota,Yaris Sport,70300,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+391,2026-02-07,Kia,Sonet GT Line,78700,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+392,2026-06-03,Chevrolet,Tracker RS,91900,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+393,2026-04-27,Subaru,Forester Limited,166100,1,Wigo Motors Cusco,Leasing,Maria Torres
+394,2026-02-07,Hyundai,Creta Comfort,82700,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+395,2026-04-13,Suzuki,Swift Sport,64600,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+396,2026-03-05,Suzuki,Jimny 3 Puertas,105200,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+397,2026-05-23,BMW,X3 xDrive20i,249700,1,Wigo Motors Lima Centro,Contado,Maria Torres
+398,2026-01-11,Subaru,Outback Touring,216100,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+399,2026-05-19,Suzuki,Swift Sport,60000,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+400,2026-01-21,Toyota,Hilux SRV,129600,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+401,2026-04-23,Glory,Glory 560 CVT,100000,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+402,2026-05-11,Kia,Sonet GT Line,77800,1,Wigo Motors Cusco,Contado,Andrea Flores
+403,2026-06-05,Mazda,CX-30 Grand Touring,143700,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+404,2026-03-13,Suzuki,Swift GLX,63700,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+405,2026-04-08,Chevrolet,Onix LS,66500,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+406,2026-03-25,Chevrolet,Captiva LT,110800,2,Wigo Motors Lima Centro,Credito Vehicular,Andrea Flores
+407,2026-01-09,Hyundai,Santa Fe Premium,155800,2,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+408,2026-03-08,Glory,Glory i-Auto Turbo,106100,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+409,2026-06-11,Kia,Sonet GT Line,75400,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+410,2026-04-03,Subaru,Forester Dynamic,174600,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+411,2026-02-04,Hyundai,Santa Fe Limited,163400,2,Wigo Motors Arequipa,Contado,Maria Torres
+412,2026-04-12,Chevrolet,Captiva Premier,119200,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+413,2026-03-10,Glory,Glory 560 Luxury,100300,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+414,2026-02-21,Toyota,RAV4 Limited,139400,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+415,2026-01-22,Hyundai,Tucson Comfort,114300,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+416,2026-03-16,Kia,Soluto LX,62200,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+417,2026-01-06,Suzuki,Jimny 3 Puertas,98600,2,Wigo Motors Arequipa,Contado,Luis Medina
+418,2026-05-03,Subaru,Forester Dynamic,173200,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+419,2026-02-05,Toyota,Yaris XL,69300,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+420,2026-05-12,Suzuki,Swift Sport,62100,2,Wigo Motors Cusco,Contado,Jose Castillo
+421,2026-03-18,Toyota,RAV4 LE,145200,2,Wigo Motors Lima Centro,Leasing,Andrea Flores
+422,2026-01-05,Chevrolet,Onix LS,68000,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+423,2026-01-23,Toyota,Yaris XS,73100,1,Wigo Motors Cusco,Leasing,Jose Castillo
+424,2026-06-17,Hyundai,Creta Comfort,87100,2,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+425,2026-04-04,Glory,Glory i-Auto Luxury,104400,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+426,2026-02-24,Kia,Sportage GT Line,129700,1,Wigo Motors Lima Centro,Contado,Maria Torres
+427,2026-03-10,Kia,Soluto LX,66500,2,Wigo Motors Miraflores,Contado,Luis Medina
+428,2026-02-27,Suzuki,Swift GL,63000,2,Wigo Motors Trujillo,Leasing,Jose Castillo
+429,2026-06-16,Kia,Sportage EX,129200,1,Wigo Motors Miraflores,Contado,Jose Castillo
+430,2026-02-08,Suzuki,Swift GL,64200,2,Wigo Motors Cusco,Contado,Maria Torres
+431,2026-04-03,Chevrolet,Tracker RS,99400,1,Wigo Motors Miraflores,Contado,Maria Torres
+432,2026-03-06,Hyundai,Santa Fe Limited,162400,1,Wigo Motors Trujillo,Leasing,Maria Torres
+433,2026-05-13,Suzuki,Jimny 3 Puertas,99400,2,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+434,2026-02-25,Suzuki,Fronx GL,84100,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+435,2026-03-19,Kia,Sportage GT Line,127200,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+436,2026-05-26,Hyundai,Tucson Premium,118400,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+437,2026-02-26,Subaru,XV Limited,133500,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+438,2026-01-25,Chevrolet,Tracker Premier,97200,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+439,2026-03-28,Toyota,Corolla Cross XLI,95000,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+440,2026-02-15,Kia,Sportage EX,126200,2,Wigo Motors Cusco,Contado,Maria Torres
+441,2026-03-24,Chevrolet,Onix LS,69500,1,Wigo Motors Arequipa,Contado,Jose Castillo
+442,2026-05-16,Mazda,CX-5 Touring,163000,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+443,2026-03-13,Kia,Soluto LX,65500,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+444,2026-06-21,Hyundai,Tucson Premium,114800,1,Wigo Motors Lima Centro,Contado,Maria Torres
+445,2026-02-16,Hyundai,Tucson Premium,118100,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+446,2026-02-24,Hyundai,Creta Comfort,88000,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+447,2026-02-19,Hyundai,Tucson Limited,121200,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+448,2026-05-10,Hyundai,Santa Fe Premium,157200,1,Wigo Motors Arequipa,Contado,Maria Torres
+449,2026-01-31,Hyundai,Tucson Premium,117800,2,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+450,2026-06-12,Toyota,Hilux SR,141600,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+451,2026-05-05,Kia,Soluto LX,61500,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+452,2026-01-05,Glory,Glory i-Auto Turbo,106100,1,Wigo Motors Cusco,Leasing,Maria Torres
+453,2026-04-01,Hyundai,Tucson Comfort,116000,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+454,2026-02-24,Hyundai,Creta Comfort,86100,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+455,2026-03-26,Toyota,Yaris XL,69300,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+456,2026-03-10,Kia,Soluto LX,67000,1,Wigo Motors Arequipa,Leasing,Luis Medina
+457,2026-06-29,Suzuki,Ertiga GLX,81500,1,Wigo Motors Cusco,Contado,Carlos Rojas
+458,2026-01-13,Suzuki,Jimny 3 Puertas,105900,1,Wigo Motors Cusco,Leasing,Andrea Flores
+459,2026-02-27,Chevrolet,Tracker RS,96700,2,Wigo Motors Miraflores,Contado,Luis Medina
+460,2026-01-20,Chevrolet,Onix LTZ,65500,2,Wigo Motors Cusco,Contado,Jose Castillo
+461,2026-02-12,Glory,Glory i-Auto Turbo,107100,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+462,2026-04-27,Suzuki,Jimny 3 Puertas,98200,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+463,2026-03-18,Suzuki,Ertiga GL,78300,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+464,2026-03-22,Hyundai,Tucson Comfort,114700,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+465,2026-04-26,Hyundai,Santa Fe Limited,152900,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+466,2026-01-20,Kia,Sportage GT Line,128200,1,Wigo Motors Cusco,Contado,Andrea Flores
+467,2026-01-20,Subaru,Outback Limited,218400,1,Wigo Motors Miraflores,Contado,Jose Castillo
+468,2026-02-20,Kia,Soluto EX,61800,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+469,2026-05-14,Toyota,Hilux DX,132200,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+470,2026-06-22,Kia,Sportage LX,126900,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+471,2026-02-26,Chevrolet,Onix LS,65900,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+472,2026-05-24,Hyundai,Tucson Premium,123800,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+473,2026-02-10,Suzuki,Swift GL,62400,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+474,2026-03-12,Kia,Sonet EX,76400,2,Wigo Motors Arequipa,Contado,Andrea Flores
+475,2026-02-10,Hyundai,Creta Comfort,83600,2,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+476,2026-01-14,Toyota,Hilux DX,136700,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+477,2026-03-08,Hyundai,Accent GL,70100,2,Wigo Motors Arequipa,Leasing,Carlos Rojas
+478,2026-06-28,Toyota,Yaris Sport,69200,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+479,2026-06-27,Hyundai,Tucson Limited,119600,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+480,2026-06-30,Suzuki,Fronx GL,83700,1,Wigo Motors Trujillo,Leasing,Luis Medina
+481,2026-06-11,Suzuki,Swift GL,63000,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+482,2026-05-11,Kia,Seltos EX,93800,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+483,2026-05-07,Hyundai,Santa Fe Limited,162700,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+484,2026-05-20,Kia,Seltos LX,89000,1,Wigo Motors Lima Centro,Contado,Luis Medina
+485,2026-06-15,Hyundai,Santa Fe Limited,158400,1,Wigo Motors Trujillo,Contado,Luis Medina
+486,2026-05-05,Kia,Sonet LX,78800,2,Wigo Motors Arequipa,Leasing,Andrea Flores
+487,2026-01-29,Toyota,Yaris Sport,74800,2,Wigo Motors Cusco,Contado,Carmen Ruiz
+488,2026-06-14,Suzuki,Swift GLX,64200,1,Wigo Motors Trujillo,Leasing,Maria Torres
+489,2026-06-12,Kia,Soluto LX,62500,1,Wigo Motors Miraflores,Leasing,Maria Torres
+490,2026-01-04,Suzuki,Ertiga GL,79400,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+491,2026-06-20,Toyota,RAV4 LE,141900,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+492,2026-03-15,Kia,Sonet LX,74400,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+493,2026-02-17,Subaru,Outback Limited,219700,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+494,2026-03-23,Suzuki,Jimny 5 Puertas,103400,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+495,2026-03-07,Glory,Glory 500 Turbo,84100,1,Wigo Motors Arequipa,Contado,Jose Castillo
+496,2026-03-22,Suzuki,Swift Sport,64300,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+497,2026-03-17,Hyundai,Creta Comfort,85500,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+498,2026-03-04,Toyota,Corolla Cross XEI,99200,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+499,2026-01-10,Kia,Seltos GT Line,90400,1,Wigo Motors Cusco,Leasing,Jose Castillo
+500,2026-05-01,Toyota,Hilux DX,133100,2,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+501,2026-06-25,Chevrolet,Onix LTZ,71000,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+502,2026-03-21,Toyota,Hilux SR,137300,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+503,2026-01-17,Suzuki,Swift Sport,60000,1,Wigo Motors Cusco,Contado,Jose Castillo
+504,2026-05-06,Glory,Glory 500 Luxury,82500,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+505,2026-01-03,Kia,Seltos EX,91200,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+506,2026-06-21,Audi,Q3 Advanced,191100,1,Wigo Motors Cusco,Leasing,Luis Medina
+507,2026-04-05,Suzuki,Ertiga GL,82700,1,Wigo Motors Cusco,Leasing,Maria Torres
+508,2026-05-12,Kia,Soluto EX,66400,1,Wigo Motors Miraflores,Contado,Maria Torres
+509,2026-01-01,Hyundai,Santa Fe Premium,165300,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+510,2026-02-03,Chevrolet,Captiva LT,114900,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+511,2026-03-15,Suzuki,Swift GLX,63300,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+512,2026-03-14,Subaru,Outback Limited,215800,1,Wigo Motors Cusco,Contado,Carlos Rojas
+513,2026-02-16,Glory,Glory 560 Luxury,96400,1,Wigo Motors Trujillo,Contado,Luis Medina
+514,2026-04-15,Toyota,Hilux SRV,141200,2,Wigo Motors Trujillo,Contado,Carlos Rojas
+515,2026-01-01,Kia,Sportage LX,129200,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+516,2026-06-13,Suzuki,Swift Sport,61300,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+517,2026-02-21,Kia,Sportage EX,128200,1,Wigo Motors Cusco,Leasing,Luis Medina
+518,2026-01-16,Mazda,CX-30 Touring,140600,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+519,2026-04-21,Suzuki,Jimny 3 Puertas,102700,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+520,2026-02-12,Toyota,Corolla Cross XLI,102100,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+521,2026-02-26,Hyundai,Santa Fe Limited,161000,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+522,2026-06-11,Hyundai,Accent Full,69400,2,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+523,2026-03-29,Toyota,Hilux SR,130100,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+524,2026-05-31,Suzuki,Jimny 5 Puertas,100100,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+525,2026-01-16,Hyundai,Santa Fe Limited,160100,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+526,2026-04-08,Kia,Seltos LX,92200,1,Wigo Motors Trujillo,Leasing,Maria Torres
+527,2026-06-16,Hyundai,Creta Comfort,83700,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+528,2026-02-13,Suzuki,Fronx GLX,80800,2,Wigo Motors Arequipa,Contado,Carmen Ruiz
+529,2026-04-09,Toyota,Yaris XL,71600,1,Wigo Motors Cusco,Contado,Luis Medina
+530,2026-04-29,Subaru,Forester Dynamic,169100,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+531,2026-06-11,Hyundai,Santa Fe Premium,157500,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+532,2026-01-13,Toyota,Corolla Cross GR-S,101900,1,Wigo Motors Arequipa,Contado,Maria Torres
+533,2026-05-24,Suzuki,Swift Sport,61700,1,Wigo Motors Miraflores,Leasing,Maria Torres
+534,2026-03-12,Kia,Sportage GT Line,129800,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+535,2026-03-30,Suzuki,Fronx GL,86400,1,Wigo Motors Cusco,Contado,Andrea Flores
+536,2026-01-24,Glory,Glory 500 Luxury,78700,1,Wigo Motors Cusco,Leasing,Andrea Flores
+537,2026-05-18,Suzuki,Swift GLX,61200,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+538,2026-06-17,Hyundai,Accent GL,68000,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+539,2026-03-31,Suzuki,Ertiga GL,84300,2,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+540,2026-01-30,Hyundai,Accent Full,69000,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+541,2026-03-09,Suzuki,Fronx Hybrid,80400,2,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+542,2026-06-24,Kia,Seltos LX,89200,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+543,2026-04-26,Chevrolet,Onix LTZ,69200,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+544,2026-06-04,Toyota,Corolla Cross GR-S,95100,2,Wigo Motors Cusco,Contado,Luis Medina
+545,2026-03-20,Audi,Q5 S Line,299100,1,Wigo Motors Arequipa,Leasing,Luis Medina
+546,2026-06-14,Hyundai,Santa Fe Premium,154100,1,Wigo Motors Cusco,Contado,Luis Medina
+547,2026-02-25,Toyota,Yaris XS,73900,1,Wigo Motors Cusco,Leasing,Maria Torres
+548,2026-06-04,Glory,Glory i-Auto Luxury,110900,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+549,2026-04-16,Kia,Sportage LX,127800,1,Wigo Motors Cusco,Contado,Luis Medina
+550,2026-06-14,Mazda,Mazda 3 Sport,114800,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+551,2026-04-10,Chevrolet,Captiva Premier,117200,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+552,2026-04-09,Suzuki,Fronx Hybrid,83600,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+553,2026-01-12,Toyota,RAV4 LE,139300,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+554,2026-01-01,Toyota,Yaris XS,73400,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+555,2026-03-18,Hyundai,Tucson Premium,116400,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+556,2026-04-02,Mazda,CX-5 Grand Touring,159400,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+557,2026-01-04,Kia,Soluto EX,66900,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+558,2026-02-02,Kia,Seltos EX,94200,1,Wigo Motors Arequipa,Contado,Luis Medina
+559,2026-01-22,Suzuki,Fronx GL,83700,1,Wigo Motors Arequipa,Contado,Luis Medina
+560,2026-04-05,Kia,Sportage EX,122500,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+561,2026-05-04,Glory,Glory 500 Luxury,80600,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+562,2026-06-05,Chevrolet,Captiva Premier,116800,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+563,2026-06-03,Hyundai,Tucson Comfort,123500,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+564,2026-03-26,Hyundai,Accent GL,68200,2,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+565,2026-01-19,Toyota,Hilux SRV,134800,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+566,2026-02-11,BMW,320i Sport,212100,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+567,2026-02-17,Toyota,Hilux DX,134700,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+568,2026-05-12,Toyota,Yaris XL,69600,1,Wigo Motors Cusco,Leasing,Andrea Flores
+569,2026-01-21,Kia,Sportage GT Line,125400,2,Wigo Motors Cusco,Leasing,Andrea Flores
+570,2026-01-01,Glory,Glory 560 Luxury,98900,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+571,2026-01-16,Mazda,CX-5 Grand Touring,160900,1,Wigo Motors Miraflores,Leasing,Maria Torres
+572,2026-04-05,Suzuki,Swift GL,59700,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+573,2026-05-21,Hyundai,Tucson Limited,123000,1,Wigo Motors Arequipa,Contado,Jose Castillo
+574,2026-01-13,Kia,Sportage LX,121700,1,Wigo Motors Arequipa,Contado,Andrea Flores
+575,2026-03-03,Hyundai,Tucson Comfort,117000,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+576,2026-04-19,Kia,Seltos LX,92000,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+577,2026-04-27,Toyota,Hilux SR,138000,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+578,2026-03-30,Glory,Glory 560 Luxury,97700,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+579,2026-05-18,Toyota,Yaris XL,72100,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+580,2026-06-07,Toyota,RAV4 XLE,145800,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+581,2026-06-23,Hyundai,Santa Fe Limited,165500,1,Wigo Motors Cusco,Contado,Maria Torres
+582,2026-01-26,Kia,Soluto EX,64600,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+583,2026-04-21,Glory,Glory 560 CVT,96100,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+584,2026-06-26,BMW,X3 xDrive20i,266100,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+585,2026-01-11,Toyota,Yaris XL,70400,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+586,2026-02-17,Glory,Glory 560 Luxury,94300,2,Wigo Motors Cusco,Contado,Luis Medina
+587,2026-02-24,Suzuki,Ertiga GL,84900,1,Wigo Motors Trujillo,Contado,Andrea Flores
+588,2026-03-11,Kia,Sportage GT Line,120200,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+589,2026-02-20,Hyundai,Accent GL,69000,2,Wigo Motors Cusco,Leasing,Maria Torres
+590,2026-01-04,Subaru,Forester Limited,168800,1,Wigo Motors Cusco,Contado,Luis Medina
+591,2026-01-14,Kia,Sonet GT Line,77400,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+592,2026-04-15,Hyundai,Tucson Comfort,116500,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+593,2026-01-06,Audi,Q5 S Line,290300,1,Wigo Motors Cusco,Leasing,Luis Medina
+594,2026-03-03,Glory,Glory 560 CVT,95500,2,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+595,2026-01-17,Suzuki,Jimny 3 Puertas,106800,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+596,2026-05-29,Audi,Q3 Advanced,190200,1,Wigo Motors Cusco,Contado,Maria Torres
+597,2026-01-14,Toyota,RAV4 LE,144400,1,Wigo Motors Cusco,Contado,Carlos Rojas
+598,2026-01-14,Chevrolet,Tracker Premier,98600,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+599,2026-02-27,Toyota,RAV4 XLE,146700,1,Wigo Motors Trujillo,Leasing,Maria Torres
+600,2026-06-25,Suzuki,Jimny 5 Puertas,106600,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+601,2026-02-05,Kia,Soluto LX,66000,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+602,2026-04-14,Toyota,Yaris XL,75000,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+603,2026-05-03,Subaru,Forester Limited,169700,1,Wigo Motors Cusco,Contado,Andrea Flores
+604,2026-03-19,Hyundai,Creta Premium,85100,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+605,2026-02-01,Toyota,RAV4 XLE,146000,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+606,2026-03-19,Kia,Seltos GT Line,91800,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+607,2026-03-26,Hyundai,Tucson Limited,116100,1,Wigo Motors Cusco,Contado,Carlos Rojas
+608,2026-01-21,Subaru,Outback Touring,208700,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+609,2026-02-10,Hyundai,Creta Comfort,87400,2,Wigo Motors Arequipa,Leasing,Maria Torres
+610,2026-01-17,Hyundai,Santa Fe Premium,158900,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+611,2026-04-10,Chevrolet,Onix LTZ,66000,2,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+612,2026-05-06,Audi,A3 S Line,187000,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+613,2026-01-12,Hyundai,Creta Comfort,86700,2,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+614,2026-05-24,Hyundai,Accent Full,70300,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+615,2026-03-10,Toyota,Yaris XL,75200,2,Wigo Motors Miraflores,Contado,Jose Castillo
+616,2026-06-20,Toyota,Corolla Cross GR-S,94700,1,Wigo Motors Cusco,Leasing,Andrea Flores
+617,2026-01-27,Hyundai,Creta Premium,85100,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+618,2026-02-26,Suzuki,Swift GL,63800,1,Wigo Motors Cusco,Contado,Maria Torres
+619,2026-03-17,Glory,Glory 560 CVT,98100,2,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+620,2026-02-19,Mazda,CX-30 Touring,137800,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+621,2026-05-22,Kia,Seltos EX,94600,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+622,2026-06-25,Hyundai,Creta Comfort,88900,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+623,2026-06-11,Kia,Sonet GT Line,76100,1,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+624,2026-01-18,Chevrolet,Onix LS,71100,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+625,2026-05-25,Kia,Soluto LX,62800,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+626,2026-02-15,Toyota,Yaris XS,75400,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+627,2026-03-04,Toyota,Corolla Cross GR-S,100300,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+628,2026-06-02,Chevrolet,Onix LS,68300,1,Wigo Motors Cusco,Leasing,Jose Castillo
+629,2026-03-01,Toyota,Hilux SRV,131300,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+630,2026-04-10,Suzuki,Ertiga GL,79800,2,Wigo Motors Arequipa,Leasing,Maria Torres
+631,2026-02-15,Glory,Glory i-Auto Luxury,106300,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+632,2026-01-28,Toyota,RAV4 LE,151800,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+633,2026-03-01,Suzuki,Swift GL,61300,1,Wigo Motors Cusco,Contado,Luis Medina
+634,2026-06-07,Kia,Sportage LX,122900,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+635,2026-01-24,Mazda,CX-5 Grand Touring,159900,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+636,2026-02-23,Hyundai,Tucson Limited,113600,1,Wigo Motors Arequipa,Contado,Jose Castillo
+637,2026-03-10,Hyundai,Creta Comfort,83200,1,Wigo Motors Miraflores,Contado,Luis Medina
+638,2026-01-13,Toyota,RAV4 Limited,149900,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+639,2026-03-16,Hyundai,Creta Comfort,87300,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+640,2026-06-12,BMW,320i Sport,214800,1,Wigo Motors Lima Centro,Contado,Maria Torres
+641,2026-02-24,Subaru,XV Dynamic,136900,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+642,2026-01-20,Kia,Sportage EX,129200,1,Wigo Motors Cusco,Leasing,Luis Medina
+643,2026-03-30,Hyundai,Accent Full,68100,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+644,2026-01-31,Suzuki,Swift Sport,60500,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+645,2026-03-28,Toyota,RAV4 LE,147200,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+646,2026-03-14,Toyota,Corolla Cross XEI,97300,1,Wigo Motors Cusco,Contado,Carlos Rojas
+647,2026-02-28,Audi,Q3 Advanced,202500,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+648,2026-05-12,Chevrolet,Onix LS,71300,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+649,2026-01-24,Glory,Glory i-Auto Turbo,104400,1,Wigo Motors Lima Centro,Credito Vehicular,Andrea Flores
+650,2026-03-26,Suzuki,Ertiga GL,83400,1,Wigo Motors Miraflores,Contado,Luis Medina
+651,2026-02-24,Kia,Soluto EX,64700,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+652,2026-03-19,Chevrolet,Onix Premier,67400,1,Wigo Motors Cusco,Leasing,Maria Torres
+653,2026-03-28,Suzuki,Ertiga GL,81800,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+654,2026-06-03,Suzuki,Swift Sport,62900,2,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+655,2026-06-17,Glory,Glory i-Auto Luxury,112400,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+656,2026-02-02,Glory,Glory 560 Luxury,94900,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+657,2026-06-28,Mazda,CX-30 Touring,144600,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+658,2026-05-24,Kia,Seltos LX,93100,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+659,2026-02-20,Kia,Sportage EX,123500,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+660,2026-03-28,Toyota,Corolla Cross XEI,95500,2,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+661,2026-03-03,Hyundai,Creta Comfort,87200,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+662,2026-01-02,Toyota,Yaris Sport,72000,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+663,2026-03-31,Hyundai,Accent GL,70400,1,Wigo Motors Cusco,Contado,Carlos Rojas
+664,2026-02-20,Chevrolet,Onix LS,67700,1,Wigo Motors Miraflores,Contado,Luis Medina
+665,2026-02-26,Suzuki,Jimny 5 Puertas,102300,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+666,2026-03-25,Kia,Sportage LX,126000,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+667,2026-01-09,Subaru,XV Dynamic,131800,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+668,2026-06-12,Hyundai,Creta Comfort,85200,2,Wigo Motors Trujillo,Leasing,Carlos Rojas
+669,2026-04-23,Hyundai,Tucson Premium,118300,1,Wigo Motors Miraflores,Contado,Andrea Flores
+670,2026-05-26,Kia,Sonet GT Line,74000,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+671,2026-02-03,Chevrolet,Tracker Premier,98900,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+672,2026-05-30,Kia,Soluto EX,62300,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+673,2026-03-23,Kia,Sonet GT Line,73800,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+674,2026-05-29,Hyundai,Accent Full,71600,2,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+675,2026-02-26,Kia,Soluto LX,65000,2,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+676,2026-06-14,Toyota,RAV4 LE,146300,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+677,2026-01-31,Suzuki,Ertiga GL,84400,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+678,2026-03-14,Kia,Sportage LX,124100,2,Wigo Motors Cusco,Leasing,Maria Torres
+679,2026-03-30,Glory,Glory i-Auto Luxury,110000,1,Wigo Motors Lima Centro,Contado,Maria Torres
+680,2026-04-14,Hyundai,Creta Premium,84900,1,Wigo Motors Lima Centro,Contado,Maria Torres
+681,2026-05-02,Kia,Sportage EX,123200,2,Wigo Motors Lima Centro,Leasing,Luis Medina
+682,2026-01-24,Hyundai,Accent GL,68600,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+683,2026-01-20,Kia,Seltos GT Line,91900,2,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+684,2026-02-19,Mazda,CX-30 Grand Touring,138600,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+685,2026-03-27,Suzuki,Fronx GL,82900,2,Wigo Motors Miraflores,Leasing,Luis Medina
+686,2026-04-05,Suzuki,Fronx GL,82000,1,Wigo Motors Trujillo,Contado,Jose Castillo
+687,2026-06-25,Hyundai,Creta Comfort,82900,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+688,2026-06-14,Toyota,Corolla Cross XEI,97500,1,Wigo Motors Cusco,Contado,Jose Castillo
+689,2026-04-04,Toyota,Corolla Cross XLI,94700,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+690,2026-04-23,Toyota,Corolla Cross XLI,96200,1,Wigo Motors Miraflores,Contado,Andrea Flores
+691,2026-04-06,Toyota,Corolla Cross XLI,97800,1,Wigo Motors Cusco,Contado,Andrea Flores
+692,2026-02-01,Toyota,Yaris Sport,74800,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+693,2026-05-03,Glory,Glory 560 Luxury,97800,1,Wigo Motors Cusco,Contado,Maria Torres
+694,2026-03-08,Hyundai,Creta Premium,82900,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+695,2026-01-11,Chevrolet,Captiva LT,115500,2,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+696,2026-06-29,Hyundai,Santa Fe Limited,165900,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+697,2026-05-04,Kia,Soluto EX,62700,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+698,2026-05-31,Suzuki,Jimny 3 Puertas,101700,2,Wigo Motors Miraflores,Leasing,Luis Medina
+699,2026-02-23,Kia,Sportage GT Line,130600,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+700,2026-05-30,Suzuki,Swift GL,60500,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+701,2026-03-27,Kia,Seltos EX,88700,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+702,2026-03-09,Kia,Sonet EX,77100,2,Wigo Motors Cusco,Contado,Carmen Ruiz
+703,2026-05-07,Hyundai,Tucson Premium,119400,2,Wigo Motors Trujillo,Leasing,Carlos Rojas
+704,2026-05-27,Kia,Soluto EX,62200,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+705,2026-03-25,Toyota,Corolla Cross XLI,99000,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+706,2026-04-09,Glory,Glory i-Auto Luxury,104400,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+707,2026-04-17,Chevrolet,Captiva LT,110900,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+708,2026-01-14,BMW,X1 xDrive25i,186600,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+709,2026-01-22,Kia,Soluto LX,66700,2,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+710,2026-01-14,Suzuki,Swift Sport,59700,1,Wigo Motors Trujillo,Contado,Maria Torres
+711,2026-01-18,Glory,Glory 500 Turbo,84400,2,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+712,2026-06-01,Chevrolet,Tracker RS,92700,2,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+713,2026-01-30,Glory,Glory 560 Luxury,102500,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+714,2026-04-13,Audi,Q5 S Line,290700,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+715,2026-01-10,Subaru,XV Dynamic,132200,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+716,2026-04-23,Hyundai,Accent Full,66500,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+717,2026-02-15,Hyundai,Santa Fe Premium,152100,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+718,2026-03-01,Toyota,Corolla Cross XEI,99200,2,Wigo Motors Trujillo,Leasing,Jose Castillo
+719,2026-02-24,Kia,Soluto LX,65100,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+720,2026-04-16,Suzuki,Swift Sport,61200,2,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+721,2026-02-14,Kia,Sonet GT Line,75200,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+722,2026-02-07,Toyota,Yaris Sport,74800,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+723,2026-03-17,Kia,Seltos EX,89500,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+724,2026-04-10,Toyota,RAV4 Limited,142000,2,Wigo Motors Lima Centro,Leasing,Luis Medina
+725,2026-03-19,Glory,Glory i-Auto Turbo,112600,1,Wigo Motors Arequipa,Contado,Jose Castillo
+726,2026-06-30,Hyundai,Creta Premium,88500,1,Wigo Motors Miraflores,Leasing,Maria Torres
+727,2026-01-18,Kia,Soluto EX,65100,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+728,2026-04-28,Suzuki,Jimny 5 Puertas,100000,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+729,2026-05-29,Toyota,Corolla Cross GR-S,96900,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+730,2026-04-08,Kia,Sonet EX,76300,2,Wigo Motors Trujillo,Contado,Jose Castillo
+731,2026-02-01,Kia,Seltos EX,90700,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+732,2026-04-08,Hyundai,Santa Fe Limited,162800,1,Wigo Motors Trujillo,Contado,Andrea Flores
+733,2026-04-03,Subaru,Outback Limited,208900,1,Wigo Motors Miraflores,Contado,Jose Castillo
+734,2026-01-26,Hyundai,Creta Comfort,85700,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+735,2026-06-10,Suzuki,Fronx Hybrid,84500,2,Wigo Motors Cusco,Leasing,Luis Medina
+736,2026-05-18,Toyota,Corolla Cross XEI,95800,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+737,2026-02-06,Glory,Glory 560 CVT,102100,2,Wigo Motors Miraflores,Leasing,Maria Torres
+738,2026-02-28,Glory,Glory 560 CVT,101000,2,Wigo Motors Trujillo,Leasing,Luis Medina
+739,2026-05-19,Suzuki,Swift Sport,61000,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+740,2026-05-27,Kia,Seltos LX,95000,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+741,2026-01-08,Suzuki,Ertiga GL,84900,1,Wigo Motors Cusco,Leasing,Luis Medina
+742,2026-01-02,Suzuki,Ertiga GL,81800,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+743,2026-03-15,Kia,Sportage GT Line,131200,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+744,2026-06-08,Suzuki,Swift GLX,59600,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+745,2026-05-06,Mazda,Mazda 3 Sedan,120600,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+746,2026-01-09,Suzuki,Swift GL,62300,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+747,2026-01-21,Toyota,RAV4 LE,142800,1,Wigo Motors Arequipa,Contado,Luis Medina
+748,2026-02-13,Toyota,Hilux DX,135800,1,Wigo Motors Cusco,Contado,Jose Castillo
+749,2026-06-16,Glory,Glory 500 Luxury,81300,2,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+750,2026-06-17,Mazda,CX-5 Grand Touring,159000,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+751,2026-03-29,Glory,Glory 500 Luxury,81200,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+752,2026-03-26,Toyota,Yaris XL,70300,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+753,2026-04-11,Toyota,Hilux DX,135900,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+754,2026-01-12,Kia,Sonet EX,77600,1,Wigo Motors Cusco,Contado,Jose Castillo
+755,2026-02-07,Toyota,Hilux SRV,134900,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+756,2026-01-04,Mazda,CX-30 Touring,146300,1,Wigo Motors Miraflores,Contado,Luis Medina
+757,2026-03-08,Toyota,Corolla Cross XLI,99600,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+758,2026-01-07,Toyota,Hilux DX,129600,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+759,2026-01-31,Toyota,Corolla Cross XEI,98100,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+760,2026-01-23,Glory,Glory 500 Turbo,82400,2,Wigo Motors Trujillo,Contado,Andrea Flores
+761,2026-05-28,BMW,320i M Sport,209500,1,Wigo Motors Miraflores,Contado,Luis Medina
+762,2026-05-16,Toyota,Hilux SR,139200,1,Wigo Motors Cusco,Leasing,Luis Medina
+763,2026-03-30,Kia,Seltos GT Line,91400,2,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+764,2026-06-02,Mazda,CX-5 Touring,159600,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+765,2026-06-29,Glory,Glory 500 Luxury,78900,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+766,2026-05-12,Suzuki,Fronx Hybrid,84000,2,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+767,2026-05-27,Toyota,Hilux DX,141300,1,Wigo Motors Miraflores,Contado,Maria Torres
+768,2026-05-03,Hyundai,Santa Fe Limited,160900,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+769,2026-04-29,Suzuki,Jimny 5 Puertas,102500,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+770,2026-02-21,Subaru,XV Limited,129500,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+771,2026-06-10,Glory,Glory 560 Luxury,94400,2,Wigo Motors Trujillo,Contado,Andrea Flores
+772,2026-02-16,Kia,Sportage GT Line,120100,1,Wigo Motors Miraflores,Leasing,Maria Torres
+773,2026-03-01,Hyundai,Accent GL,68500,1,Wigo Motors Arequipa,Contado,Jose Castillo
+774,2026-04-21,Hyundai,Tucson Limited,120100,1,Wigo Motors Cusco,Leasing,Andrea Flores
+775,2026-06-25,Suzuki,Fronx GL,86600,2,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+776,2026-06-27,Mazda,CX-30 Grand Touring,143100,1,Wigo Motors Arequipa,Contado,Jose Castillo
+777,2026-03-25,Suzuki,Swift GLX,59800,2,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+778,2026-03-25,Kia,Sportage LX,130200,2,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+779,2026-05-20,Suzuki,Fronx Hybrid,81700,1,Wigo Motors Arequipa,Contado,Luis Medina
+780,2026-06-10,Toyota,Corolla Cross XLI,102900,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+781,2026-04-12,Glory,Glory 500 Luxury,84200,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+782,2026-02-16,BMW,X3 M Sport,259100,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+783,2026-01-14,Toyota,Hilux DX,137900,1,Wigo Motors Miraflores,Contado,Luis Medina
+784,2026-06-05,Kia,Sportage EX,125100,2,Wigo Motors Trujillo,Contado,Maria Torres
+785,2026-03-26,Suzuki,Ertiga GLX,79500,2,Wigo Motors Arequipa,Contado,Carmen Ruiz
+786,2026-05-01,Toyota,RAV4 Limited,146000,1,Wigo Motors Trujillo,Leasing,Maria Torres
+787,2026-04-01,Kia,Sportage EX,124500,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+788,2026-03-05,Glory,Glory 500 Luxury,82300,2,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+789,2026-06-13,Hyundai,Creta Premium,88700,1,Wigo Motors Cusco,Leasing,Andrea Flores
+790,2026-02-17,Chevrolet,Onix LS,70200,2,Wigo Motors Lima Centro,Leasing,Maria Torres
+791,2026-03-25,Mazda,CX-5 Touring,163800,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+792,2026-02-01,Chevrolet,Captiva Premier,113400,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+793,2026-05-03,Mazda,Mazda 3 Sedan,122300,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+794,2026-06-26,Hyundai,Santa Fe Limited,152200,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+795,2026-06-13,Toyota,Corolla Cross GR-S,101100,2,Wigo Motors Miraflores,Credito Vehicular,Andrea Flores
+796,2026-03-10,Glory,Glory i-Auto Turbo,108100,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+797,2026-03-22,Suzuki,Fronx GL,84600,1,Wigo Motors Cusco,Contado,Luis Medina
+798,2026-01-27,Kia,Sportage LX,126100,1,Wigo Motors Arequipa,Leasing,Luis Medina
+799,2026-05-04,Toyota,RAV4 LE,141200,1,Wigo Motors Miraflores,Contado,Andrea Flores
+800,2026-01-10,Kia,Sonet LX,77500,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+801,2026-01-16,Subaru,Outback Touring,202500,1,Wigo Motors Arequipa,Leasing,Luis Medina
+802,2026-06-16,Mazda,CX-5 Touring,163100,1,Wigo Motors Trujillo,Contado,Andrea Flores
+803,2026-06-01,Hyundai,Creta Premium,85000,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+804,2026-01-04,Toyota,Hilux DX,134800,2,Wigo Motors Miraflores,Contado,Luis Medina
+805,2026-02-22,Toyota,Corolla Cross XLI,101000,2,Wigo Motors Arequipa,Leasing,Luis Medina
+806,2026-04-01,Glory,Glory 560 CVT,97400,2,Wigo Motors Arequipa,Leasing,Andrea Flores
+807,2026-04-28,Kia,Sonet GT Line,76300,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+808,2026-05-25,Subaru,Outback Limited,203600,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+809,2026-01-04,Mazda,CX-30 Touring,140500,1,Wigo Motors Trujillo,Leasing,Maria Torres
+810,2026-03-08,Kia,Seltos GT Line,95500,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+811,2026-05-22,Kia,Soluto LX,65400,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+812,2026-04-20,Glory,Glory 560 CVT,102300,1,Wigo Motors Cusco,Contado,Maria Torres
+813,2026-02-20,Hyundai,Tucson Limited,120300,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+814,2026-03-18,Hyundai,Accent Full,71800,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+815,2026-04-03,Hyundai,Santa Fe Limited,165500,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+816,2026-02-21,Toyota,Corolla Cross XEI,94200,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+817,2026-01-08,Suzuki,Fronx Hybrid,79700,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+818,2026-02-08,Chevrolet,Captiva LT,112200,2,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+819,2026-04-22,Glory,Glory 500 Turbo,84500,2,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+820,2026-03-06,Toyota,Corolla Cross XLI,102500,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+821,2026-06-10,Toyota,Hilux SRV,141500,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+822,2026-03-28,Toyota,Hilux SR,140100,2,Wigo Motors Arequipa,Leasing,Andrea Flores
+823,2026-05-01,Subaru,Outback Touring,208600,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+824,2026-06-14,Kia,Sonet GT Line,77000,2,Wigo Motors Trujillo,Contado,Andrea Flores
+825,2026-03-19,Subaru,XV Dynamic,137800,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+826,2026-03-24,Toyota,Hilux DX,133100,2,Wigo Motors Cusco,Leasing,Carlos Rojas
+827,2026-05-14,Suzuki,Ertiga GL,79300,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+828,2026-04-13,Suzuki,Fronx GLX,85300,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+829,2026-04-03,Hyundai,Creta Premium,87000,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+830,2026-03-01,Hyundai,Accent GL,66300,1,Wigo Motors Trujillo,Contado,Jose Castillo
+831,2026-05-18,Toyota,Corolla Cross XEI,100600,2,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+832,2026-02-05,Audi,A3 S Line,195400,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+833,2026-06-06,Audi,Q3 S Line,190300,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+834,2026-03-07,Glory,Glory 500 Turbo,81400,2,Wigo Motors Cusco,Leasing,Andrea Flores
+835,2026-05-25,Kia,Soluto LX,66900,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+836,2026-04-10,Hyundai,Santa Fe Limited,152700,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+837,2026-04-15,BMW,X1 xDrive25i,185800,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+838,2026-01-16,Hyundai,Tucson Premium,117100,1,Wigo Motors Cusco,Leasing,Luis Medina
+839,2026-02-03,Glory,Glory i-Auto Luxury,106000,1,Wigo Motors Cusco,Contado,Carlos Rojas
+840,2026-02-16,Suzuki,Jimny 5 Puertas,98800,1,Wigo Motors Arequipa,Contado,Jose Castillo
+841,2026-01-29,Glory,Glory i-Auto Turbo,105900,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+842,2026-04-29,Toyota,Hilux SR,136000,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+843,2026-03-14,Hyundai,Accent Full,71400,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+844,2026-02-06,Toyota,RAV4 Limited,148900,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+845,2026-02-17,Hyundai,Tucson Premium,122400,1,Wigo Motors Lima Centro,Credito Vehicular,Andrea Flores
+846,2026-06-19,Suzuki,Jimny 3 Puertas,100200,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+847,2026-01-04,Hyundai,Accent GL,71100,1,Wigo Motors Cusco,Contado,Carlos Rojas
+848,2026-04-23,Glory,Glory i-Auto Luxury,104000,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+849,2026-05-29,Suzuki,Swift GL,61300,1,Wigo Motors Trujillo,Contado,Andrea Flores
+850,2026-06-27,Hyundai,Tucson Premium,121000,1,Wigo Motors Trujillo,Contado,Jose Castillo
+851,2026-02-17,Chevrolet,Captiva LT,117900,1,Wigo Motors Arequipa,Contado,Andrea Flores
+852,2026-01-23,Kia,Sportage LX,130400,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+853,2026-02-07,Suzuki,Jimny 5 Puertas,99200,2,Wigo Motors Arequipa,Contado,Andrea Flores
+854,2026-03-29,Kia,Seltos LX,93100,1,Wigo Motors Arequipa,Leasing,Maria Torres
+855,2026-03-31,Mazda,CX-5 Touring,168500,1,Wigo Motors Cusco,Leasing,Maria Torres
+856,2026-01-10,Suzuki,Ertiga GLX,81000,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+857,2026-04-29,Toyota,Hilux SR,131900,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+858,2026-03-25,Glory,Glory 560 CVT,102800,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+859,2026-05-11,Suzuki,Jimny 3 Puertas,106800,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+860,2026-01-31,Hyundai,Accent Full,69500,1,Wigo Motors Cusco,Leasing,Maria Torres
+861,2026-02-01,Chevrolet,Captiva Premier,111800,2,Wigo Motors Miraflores,Leasing,Carlos Rojas
+862,2026-03-09,Toyota,Corolla Cross XLI,102300,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+863,2026-02-01,Glory,Glory i-Auto Luxury,109300,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+864,2026-05-04,Toyota,Hilux SR,135200,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+865,2026-05-01,Mazda,CX-5 Touring,162100,1,Wigo Motors Miraflores,Leasing,Luis Medina
+866,2026-05-16,Hyundai,Creta Premium,88800,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+867,2026-05-11,Suzuki,Swift GLX,62300,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+868,2026-06-15,Toyota,Corolla Cross XLI,94700,1,Wigo Motors Miraflores,Contado,Luis Medina
+869,2026-06-17,Suzuki,Fronx Hybrid,85600,1,Wigo Motors Arequipa,Leasing,Luis Medina
+870,2026-02-06,Toyota,Yaris XS,75000,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+871,2026-02-10,Suzuki,Ertiga GL,79600,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+872,2026-06-22,Suzuki,Ertiga GLX,83500,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+873,2026-03-20,Chevrolet,Captiva Premier,115500,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+874,2026-03-17,Hyundai,Accent GL,67300,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+875,2026-01-29,Chevrolet,Captiva Premier,110700,2,Wigo Motors Cusco,Leasing,Andrea Flores
+876,2026-02-26,Mazda,Mazda 3 Sport,116400,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+877,2026-06-15,Glory,Glory i-Auto Turbo,106800,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+878,2026-04-25,Toyota,Yaris Sport,73100,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+879,2026-01-21,Chevrolet,Captiva Premier,113300,1,Wigo Motors Cusco,Contado,Andrea Flores
+880,2026-05-08,Suzuki,Jimny 5 Puertas,104200,2,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+881,2026-03-08,Hyundai,Santa Fe Limited,155300,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+882,2026-03-07,Glory,Glory i-Auto Turbo,112600,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+883,2026-04-02,Hyundai,Accent GL,66600,1,Wigo Motors Lima Centro,Contado,Maria Torres
+884,2026-05-22,Toyota,Yaris XS,71500,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+885,2026-03-03,Subaru,Forester Limited,163500,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+886,2026-05-26,Mazda,Mazda 3 Sedan,114500,1,Wigo Motors Arequipa,Leasing,Luis Medina
+887,2026-03-14,Glory,Glory 500 Turbo,85500,1,Wigo Motors Trujillo,Contado,Andrea Flores
+888,2026-03-26,Toyota,RAV4 LE,142000,2,Wigo Motors Cusco,Contado,Carlos Rojas
+889,2026-03-03,Toyota,Yaris Sport,70000,2,Wigo Motors Arequipa,Contado,Maria Torres
+890,2026-03-27,Suzuki,Ertiga GLX,84300,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+891,2026-01-14,Kia,Seltos EX,93700,1,Wigo Motors Cusco,Leasing,Maria Torres
+892,2026-01-04,Hyundai,Accent Full,69700,2,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+893,2026-04-13,Mazda,CX-5 Grand Touring,156100,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+894,2026-05-02,Hyundai,Tucson Comfort,115900,2,Wigo Motors Lima Centro,Contado,Andrea Flores
+895,2026-01-09,Kia,Sonet EX,77500,1,Wigo Motors Arequipa,Contado,Andrea Flores
+896,2026-06-24,Suzuki,Jimny 5 Puertas,105600,1,Wigo Motors Trujillo,Contado,Andrea Flores
+897,2026-03-16,Suzuki,Jimny 5 Puertas,101400,1,Wigo Motors Cusco,Contado,Jose Castillo
+898,2026-04-16,Hyundai,Santa Fe Limited,164600,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+899,2026-05-24,Toyota,Corolla Cross GR-S,96700,1,Wigo Motors Trujillo,Contado,Jose Castillo
+900,2026-03-31,Kia,Seltos GT Line,89100,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+901,2026-05-23,Toyota,RAV4 Limited,151800,1,Wigo Motors Trujillo,Leasing,Luis Medina
+902,2026-04-26,Toyota,Corolla Cross XLI,101400,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+903,2026-06-11,Toyota,Corolla Cross GR-S,96000,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+904,2026-06-09,Chevrolet,Onix LS,69000,1,Wigo Motors Trujillo,Leasing,Luis Medina
+905,2026-03-08,Toyota,RAV4 XLE,147400,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+906,2026-01-13,Glory,Glory 500 Luxury,85600,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+907,2026-04-13,Chevrolet,Onix LTZ,68200,2,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+908,2026-03-15,Toyota,Yaris XL,72600,1,Wigo Motors Miraflores,Contado,Jose Castillo
+909,2026-03-05,Mazda,Mazda 3 Sport,113700,1,Wigo Motors Arequipa,Leasing,Maria Torres
+910,2026-06-11,Toyota,Hilux DX,132000,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+911,2026-06-17,Audi,Q5 S Line,284700,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+912,2026-05-06,Kia,Soluto EX,64900,1,Wigo Motors Trujillo,Leasing,Maria Torres
+913,2026-03-04,Suzuki,Ertiga GL,79700,2,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+914,2026-05-21,Hyundai,Accent Full,71900,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+915,2026-05-05,Toyota,Yaris XL,73200,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+916,2026-05-12,Kia,Soluto LX,63400,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+917,2026-05-11,Chevrolet,Captiva Premier,120100,1,Wigo Motors Arequipa,Contado,Jose Castillo
+918,2026-03-20,Suzuki,Jimny 5 Puertas,106500,1,Wigo Motors Miraflores,Contado,Luis Medina
+919,2026-01-16,Hyundai,Santa Fe Limited,164600,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+920,2026-06-13,Chevrolet,Captiva LT,117700,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+921,2026-02-06,Hyundai,Creta Premium,85600,2,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+922,2026-05-02,BMW,X3 xDrive20i,270100,1,Wigo Motors Cusco,Contado,Maria Torres
+923,2026-03-20,Kia,Seltos LX,91000,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+924,2026-01-19,Mazda,CX-30 Grand Touring,137000,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+925,2026-05-04,Toyota,Hilux SR,135900,2,Wigo Motors Trujillo,Contado,Jose Castillo
+926,2026-04-24,Subaru,Outback Limited,212500,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+927,2026-03-12,Glory,Glory 500 Turbo,81000,1,Wigo Motors Arequipa,Leasing,Luis Medina
+928,2026-05-11,Suzuki,Fronx GLX,80100,2,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+929,2026-02-05,Kia,Seltos LX,89600,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+930,2026-04-22,Glory,Glory 500 Turbo,83600,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+931,2026-04-13,Hyundai,Creta Premium,84300,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+932,2026-06-05,Chevrolet,Captiva LT,114500,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+933,2026-02-16,Hyundai,Accent Full,71200,1,Wigo Motors Cusco,Leasing,Maria Torres
+934,2026-02-22,Subaru,Forester Limited,171100,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+935,2026-01-04,Suzuki,Fronx GL,86900,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+936,2026-05-09,Kia,Seltos EX,96100,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+937,2026-06-07,Toyota,Yaris XS,75500,2,Wigo Motors Trujillo,Contado,Carmen Ruiz
+938,2026-04-17,Kia,Seltos EX,89000,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+939,2026-06-27,Kia,Seltos GT Line,92500,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+940,2026-03-02,Hyundai,Accent Full,70000,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+941,2026-03-22,Hyundai,Accent Full,71800,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+942,2026-06-07,Kia,Sonet EX,75900,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+943,2026-06-03,Hyundai,Creta Comfort,88700,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+944,2026-05-08,Suzuki,Fronx Hybrid,84500,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+945,2026-03-27,Chevrolet,Captiva Premier,116500,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+946,2026-03-25,BMW,X1 sDrive20i,179900,1,Wigo Motors Lima Centro,Contado,Luis Medina
+947,2026-05-04,Glory,Glory i-Auto Turbo,105700,1,Wigo Motors Trujillo,Contado,Jose Castillo
+948,2026-06-11,Suzuki,Ertiga GL,78700,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+949,2026-05-11,Suzuki,Ertiga GLX,83800,2,Wigo Motors Arequipa,Contado,Andrea Flores
+950,2026-02-04,Kia,Sonet LX,76100,1,Wigo Motors Arequipa,Contado,Andrea Flores
+951,2026-01-16,Glory,Glory i-Auto Turbo,104300,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+952,2026-04-09,Glory,Glory i-Auto Luxury,109100,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+953,2026-04-01,Hyundai,Tucson Premium,123100,1,Wigo Motors Cusco,Contado,Andrea Flores
+954,2026-01-27,Chevrolet,Tracker LT,93100,2,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+955,2026-06-02,Chevrolet,Captiva LT,116000,2,Wigo Motors Trujillo,Leasing,Jose Castillo
+956,2026-06-01,Hyundai,Creta Comfort,87800,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+957,2026-06-07,Glory,Glory 560 Luxury,97400,2,Wigo Motors Trujillo,Leasing,Luis Medina
+958,2026-04-12,Mazda,Mazda 3 Sport,121900,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+959,2026-03-06,Hyundai,Creta Comfort,84700,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+960,2026-03-31,Toyota,Corolla Cross XLI,98900,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+961,2026-04-13,Chevrolet,Onix LTZ,65400,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+962,2026-05-23,Mazda,CX-5 Grand Touring,160200,1,Wigo Motors Arequipa,Leasing,Luis Medina
+963,2026-04-23,Hyundai,Creta Comfort,84000,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+964,2026-05-03,Toyota,Yaris Sport,73900,1,Wigo Motors Cusco,Contado,Luis Medina
+965,2026-04-17,Suzuki,Swift GL,63400,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+966,2026-02-15,Toyota,RAV4 XLE,148400,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+967,2026-06-23,Chevrolet,Onix LTZ,67600,2,Wigo Motors Trujillo,Leasing,Andrea Flores
+968,2026-05-28,Kia,Sonet EX,77800,1,Wigo Motors Cusco,Contado,Maria Torres
+969,2026-02-02,Glory,Glory 500 Luxury,79800,2,Wigo Motors Arequipa,Contado,Luis Medina
+970,2026-01-19,Toyota,Corolla Cross XEI,101900,2,Wigo Motors Trujillo,Contado,Maria Torres
+971,2026-02-20,Hyundai,Accent Full,67500,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+972,2026-01-01,Kia,Seltos GT Line,91600,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+973,2026-05-21,Subaru,Forester Limited,162800,1,Wigo Motors Miraflores,Contado,Luis Medina
+974,2026-01-12,Toyota,Yaris XL,73800,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+975,2026-04-11,Toyota,Corolla Cross XLI,102000,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+976,2026-04-09,Kia,Seltos EX,92800,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+977,2026-01-12,Toyota,Hilux SR,133800,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+978,2026-06-27,Hyundai,Creta Premium,84200,2,Wigo Motors Lima Centro,Leasing,Andrea Flores
+979,2026-05-26,Subaru,Outback Limited,202600,1,Wigo Motors Miraflores,Leasing,Maria Torres
+980,2026-01-19,Toyota,Corolla Cross XEI,102400,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+981,2026-03-22,Toyota,RAV4 LE,149700,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+982,2026-06-27,Suzuki,Fronx GL,80700,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+983,2026-05-08,Toyota,Hilux SRV,137000,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+984,2026-02-25,Hyundai,Accent GL,68200,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+985,2026-04-01,Kia,Sonet LX,74900,1,Wigo Motors Lima Centro,Contado,Luis Medina
+986,2026-05-23,Audi,A3 Advanced,197500,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+987,2026-02-11,Kia,Sportage GT Line,122200,2,Wigo Motors Miraflores,Leasing,Luis Medina
+988,2026-04-23,Chevrolet,Tracker Premier,98900,2,Wigo Motors Miraflores,Contado,Jose Castillo
+989,2026-02-04,Kia,Seltos EX,90700,1,Wigo Motors Cusco,Contado,Andrea Flores
+990,2026-02-06,Hyundai,Accent Full,71300,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+991,2026-04-12,Toyota,Corolla Cross XEI,102100,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+992,2026-01-06,Subaru,XV Limited,136700,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+993,2026-04-17,Suzuki,Swift GLX,63100,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+994,2026-04-04,Kia,Sonet GT Line,78100,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+995,2026-02-16,Kia,Sportage EX,124400,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+996,2026-02-09,Hyundai,Tucson Limited,121200,2,Wigo Motors Trujillo,Contado,Luis Medina
+997,2026-04-30,Hyundai,Tucson Premium,120700,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+998,2026-01-28,Toyota,Corolla Cross XEI,98100,1,Wigo Motors Arequipa,Contado,Andrea Flores
+999,2026-05-12,Toyota,RAV4 LE,143800,2,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+1000,2026-03-02,Hyundai,Tucson Premium,121400,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+1001,2026-01-07,Suzuki,Jimny 5 Puertas,104900,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1002,2026-01-29,Hyundai,Santa Fe Limited,160700,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1003,2026-02-17,Chevrolet,Tracker LT,94900,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1004,2026-05-21,Toyota,Hilux DX,137700,2,Wigo Motors Cusco,Leasing,Carmen Ruiz
+1005,2026-05-17,Suzuki,Jimny 3 Puertas,99400,2,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1006,2026-03-31,Subaru,Forester Dynamic,162900,1,Wigo Motors Lima Centro,Contado,Luis Medina
+1007,2026-04-27,Suzuki,Jimny 3 Puertas,104400,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1008,2026-02-27,Chevrolet,Onix LS,65400,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1009,2026-02-02,Glory,Glory 500 Luxury,81200,1,Wigo Motors Cusco,Leasing,Maria Torres
+1010,2026-01-06,Chevrolet,Tracker RS,99300,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1011,2026-02-10,Kia,Soluto EX,61800,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+1012,2026-02-05,Suzuki,Jimny 3 Puertas,99600,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+1013,2026-06-04,Kia,Soluto EX,63600,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+1014,2026-02-11,Toyota,RAV4 XLE,142400,1,Wigo Motors Cusco,Leasing,Andrea Flores
+1015,2026-05-26,Glory,Glory i-Auto Turbo,103800,2,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+1016,2026-02-11,Toyota,Hilux DX,134500,2,Wigo Motors Arequipa,Leasing,Luis Medina
+1017,2026-02-25,Chevrolet,Tracker RS,96600,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+1018,2026-05-21,Kia,Sonet LX,74700,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1019,2026-01-28,Hyundai,Santa Fe Limited,164300,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1020,2026-01-15,Kia,Sportage LX,129600,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1021,2026-04-27,Chevrolet,Onix Premier,65600,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1022,2026-03-22,Hyundai,Santa Fe Premium,156000,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1023,2026-02-28,Toyota,RAV4 XLE,141700,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+1024,2026-03-07,Toyota,Corolla Cross XEI,97300,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1025,2026-02-19,Glory,Glory i-Auto Luxury,108100,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+1026,2026-03-24,Suzuki,Swift GLX,63300,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+1027,2026-06-05,Kia,Sonet LX,79800,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1028,2026-02-10,Hyundai,Tucson Comfort,119400,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1029,2026-06-19,Toyota,Yaris XL,71500,2,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1030,2026-06-04,Kia,Sportage LX,129100,1,Wigo Motors Miraflores,Contado,Maria Torres
+1031,2026-04-01,Suzuki,Swift Sport,61300,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1032,2026-01-04,Suzuki,Swift GLX,63300,1,Wigo Motors Cusco,Leasing,Maria Torres
+1033,2026-04-24,Glory,Glory 560 CVT,101800,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1034,2026-02-28,Hyundai,Creta Comfort,85600,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1035,2026-02-15,Hyundai,Santa Fe Premium,161500,2,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1036,2026-01-01,Hyundai,Santa Fe Limited,163900,2,Wigo Motors Arequipa,Contado,Jose Castillo
+1037,2026-03-24,Suzuki,Swift Sport,61600,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1038,2026-05-25,Hyundai,Creta Premium,85800,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1039,2026-01-19,BMW,320i Sport,215200,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1040,2026-01-13,Kia,Seltos EX,93400,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+1041,2026-05-15,Kia,Seltos EX,95600,1,Wigo Motors Cusco,Contado,Carlos Rojas
+1042,2026-02-28,Glory,Glory 560 Luxury,95100,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+1043,2026-05-01,Chevrolet,Onix LTZ,67700,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1044,2026-02-06,Suzuki,Swift GL,62700,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1045,2026-05-25,Hyundai,Accent GL,68100,1,Wigo Motors Arequipa,Contado,Luis Medina
+1046,2026-01-20,Suzuki,Fronx GL,83600,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1047,2026-04-18,Suzuki,Fronx Hybrid,83100,2,Wigo Motors Cusco,Contado,Carlos Rojas
+1048,2026-03-18,Kia,Sonet EX,75200,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+1049,2026-01-06,Hyundai,Creta Premium,82000,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1050,2026-01-21,Chevrolet,Captiva LT,114800,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1051,2026-03-05,Hyundai,Tucson Limited,119900,2,Wigo Motors Trujillo,Contado,Carlos Rojas
+1052,2026-02-13,Chevrolet,Onix LS,67000,1,Wigo Motors Cusco,Contado,Jose Castillo
+1053,2026-01-26,Suzuki,Jimny 3 Puertas,103900,2,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1054,2026-01-10,Toyota,RAV4 Limited,148300,2,Wigo Motors Miraflores,Contado,Luis Medina
+1055,2026-05-28,Hyundai,Creta Premium,86400,1,Wigo Motors Miraflores,Contado,Maria Torres
+1056,2026-01-03,Suzuki,Jimny 3 Puertas,104200,2,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1057,2026-05-07,Hyundai,Santa Fe Limited,159100,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+1058,2026-04-23,Hyundai,Accent GL,69300,2,Wigo Motors Lima Centro,Contado,Jose Castillo
+1059,2026-04-07,Toyota,Hilux DX,137000,2,Wigo Motors Cusco,Leasing,Luis Medina
+1060,2026-03-26,Mazda,CX-30 Grand Touring,139300,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1061,2026-01-21,Subaru,Forester Limited,172900,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1062,2026-04-25,Hyundai,Creta Comfort,86800,2,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1063,2026-04-07,Hyundai,Accent GL,66500,1,Wigo Motors Arequipa,Contado,Maria Torres
+1064,2026-03-06,Toyota,Corolla Cross XEI,98500,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1065,2026-01-18,Chevrolet,Tracker LT,98000,2,Wigo Motors Miraflores,Contado,Jose Castillo
+1066,2026-02-10,Hyundai,Creta Comfort,82200,1,Wigo Motors Arequipa,Contado,Andrea Flores
+1067,2026-02-10,Toyota,Yaris XL,71000,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1068,2026-03-03,Toyota,Hilux DX,138900,2,Wigo Motors Arequipa,Contado,Carlos Rojas
+1069,2026-06-02,Toyota,Yaris XS,73900,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1070,2026-06-29,Suzuki,Ertiga GLX,84500,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1071,2026-06-08,Toyota,Hilux DX,137200,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1072,2026-05-30,Glory,Glory i-Auto Luxury,110400,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+1073,2026-06-26,Mazda,Mazda 3 Sedan,119100,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1074,2026-06-28,Chevrolet,Onix Premier,65300,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1075,2026-04-15,Toyota,RAV4 Limited,148600,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+1076,2026-02-16,Toyota,RAV4 XLE,146700,2,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1077,2026-05-08,Subaru,XV Dynamic,128200,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1078,2026-06-13,Suzuki,Ertiga GL,84000,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1079,2026-02-15,Kia,Sonet EX,74600,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+1080,2026-06-02,Toyota,Corolla Cross XEI,99000,2,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1081,2026-06-04,Hyundai,Accent GL,66700,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1082,2026-01-10,Suzuki,Fronx GLX,80100,1,Wigo Motors Lima Centro,Contado,Luis Medina
+1083,2026-02-17,Hyundai,Tucson Comfort,120800,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1084,2026-04-11,Hyundai,Accent Full,71300,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1085,2026-04-20,Toyota,Hilux SRV,132300,2,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+1086,2026-04-22,Suzuki,Fronx Hybrid,84900,1,Wigo Motors Cusco,Leasing,Carmen Ruiz
+1087,2026-05-05,Hyundai,Accent Full,70100,1,Wigo Motors Miraflores,Credito Vehicular,Jose Castillo
+1088,2026-02-18,Toyota,Hilux DX,131600,1,Wigo Motors Cusco,Contado,Andrea Flores
+1089,2026-05-30,Hyundai,Santa Fe Limited,164200,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+1090,2026-02-15,Glory,Glory 500 Luxury,84900,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1091,2026-01-06,Glory,Glory 500 Turbo,85800,2,Wigo Motors Cusco,Contado,Carmen Ruiz
+1092,2026-05-06,Glory,Glory 560 Luxury,98300,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1093,2026-03-30,Suzuki,Ertiga GLX,83800,2,Wigo Motors Cusco,Contado,Maria Torres
+1094,2026-05-16,Hyundai,Accent Full,67500,1,Wigo Motors Arequipa,Contado,Luis Medina
+1095,2026-06-20,Glory,Glory i-Auto Turbo,107200,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1096,2026-05-03,Suzuki,Fronx GLX,80200,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1097,2026-03-25,Toyota,Corolla Cross XLI,95800,1,Wigo Motors Trujillo,Contado,Jose Castillo
+1098,2026-02-17,Hyundai,Santa Fe Premium,152400,2,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1099,2026-04-20,Glory,Glory 500 Turbo,81900,2,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1100,2026-06-03,Kia,Seltos EX,94600,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1101,2026-02-15,Kia,Seltos LX,94300,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1102,2026-01-07,Toyota,RAV4 LE,145700,1,Wigo Motors Miraflores,Leasing,Luis Medina
+1103,2026-03-03,Glory,Glory 560 CVT,99400,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+1104,2026-03-20,Hyundai,Santa Fe Limited,160600,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1105,2026-01-10,Hyundai,Santa Fe Premium,160200,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1106,2026-04-24,Kia,Sportage LX,130700,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1107,2026-05-08,Suzuki,Fronx GLX,85500,1,Wigo Motors Cusco,Contado,Andrea Flores
+1108,2026-01-11,Suzuki,Ertiga GL,82500,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+1109,2026-01-15,Hyundai,Creta Premium,83200,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1110,2026-02-24,Toyota,RAV4 Limited,144700,2,Wigo Motors Trujillo,Leasing,Carlos Rojas
+1111,2026-01-09,Hyundai,Tucson Limited,121400,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1112,2026-01-13,Hyundai,Tucson Limited,116100,1,Wigo Motors Arequipa,Contado,Luis Medina
+1113,2026-03-07,Hyundai,Creta Comfort,84900,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+1114,2026-05-22,Hyundai,Accent GL,72400,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1115,2026-01-13,Toyota,Hilux SR,139800,1,Wigo Motors Lima Centro,Credito Vehicular,Andrea Flores
+1116,2026-03-30,Toyota,Hilux SR,140100,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1117,2026-01-13,Hyundai,Tucson Premium,113500,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+1118,2026-04-16,Hyundai,Santa Fe Limited,152500,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1119,2026-05-06,Hyundai,Creta Comfort,85000,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1120,2026-04-04,Hyundai,Creta Comfort,83700,1,Wigo Motors Miraflores,Leasing,Maria Torres
+1121,2026-04-09,Toyota,RAV4 XLE,151200,2,Wigo Motors Cusco,Contado,Luis Medina
+1122,2026-06-26,Hyundai,Creta Premium,88600,2,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1123,2026-02-25,BMW,X3 M Sport,252500,1,Wigo Motors Arequipa,Contado,Maria Torres
+1124,2026-06-23,Suzuki,Jimny 3 Puertas,103000,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1125,2026-05-14,Hyundai,Accent GL,71000,1,Wigo Motors Cusco,Contado,Jose Castillo
+1126,2026-03-26,BMW,X3 M Sport,256500,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1127,2026-05-10,Chevrolet,Onix LS,66800,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1128,2026-01-23,Hyundai,Accent Full,70300,1,Wigo Motors Miraflores,Leasing,Maria Torres
+1129,2026-03-04,Hyundai,Creta Comfort,82500,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1130,2026-04-13,Suzuki,Fronx Hybrid,81000,2,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+1131,2026-02-16,Kia,Sonet GT Line,77200,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1132,2026-03-09,Chevrolet,Tracker RS,92000,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1133,2026-03-06,Toyota,Yaris Sport,74900,2,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1134,2026-05-31,Kia,Seltos EX,88400,1,Wigo Motors Arequipa,Contado,Jose Castillo
+1135,2026-01-27,Suzuki,Swift GLX,62600,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1136,2026-03-06,Kia,Sportage LX,127000,1,Wigo Motors Trujillo,Contado,Maria Torres
+1137,2026-06-22,Toyota,Corolla Cross XLI,96700,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1138,2026-05-07,Toyota,Corolla Cross GR-S,100800,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1139,2026-03-15,Toyota,Corolla Cross XLI,100700,1,Wigo Motors Miraflores,Leasing,Luis Medina
+1140,2026-02-25,Subaru,Forester Limited,161300,1,Wigo Motors Trujillo,Contado,Jose Castillo
+1141,2026-05-19,Hyundai,Accent GL,69900,1,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+1142,2026-04-29,Kia,Sportage GT Line,129900,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1143,2026-03-21,Mazda,Mazda 3 Sport,115200,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1144,2026-05-08,BMW,X1 xDrive25i,178600,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1145,2026-03-15,Hyundai,Tucson Comfort,114500,1,Wigo Motors Arequipa,Contado,Maria Torres
+1146,2026-01-05,Toyota,RAV4 XLE,149000,2,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1147,2026-03-20,Kia,Soluto EX,64200,1,Wigo Motors Cusco,Contado,Luis Medina
+1148,2026-02-14,Suzuki,Ertiga GL,79500,2,Wigo Motors Miraflores,Leasing,Maria Torres
+1149,2026-06-25,Kia,Seltos GT Line,95900,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1150,2026-06-22,Kia,Sonet EX,75600,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1151,2026-06-07,BMW,X1 xDrive25i,186300,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1152,2026-01-06,Suzuki,Fronx Hybrid,85300,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1153,2026-06-14,Hyundai,Tucson Premium,123600,2,Wigo Motors Trujillo,Credito Vehicular,Jose Castillo
+1154,2026-04-04,Hyundai,Santa Fe Premium,160200,1,Wigo Motors Cusco,Leasing,Luis Medina
+1155,2026-03-05,Chevrolet,Onix Premier,67500,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1156,2026-03-25,Hyundai,Accent GL,68100,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+1157,2026-04-27,Mazda,CX-5 Touring,164100,1,Wigo Motors Cusco,Contado,Luis Medina
+1158,2026-06-03,Hyundai,Creta Comfort,87100,2,Wigo Motors Trujillo,Leasing,Carlos Rojas
+1159,2026-01-08,Glory,Glory 500 Turbo,80800,1,Wigo Motors Cusco,Leasing,Luis Medina
+1160,2026-06-20,Hyundai,Tucson Premium,118400,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1161,2026-05-20,Chevrolet,Tracker LT,96900,1,Wigo Motors Cusco,Leasing,Andrea Flores
+1162,2026-01-01,Kia,Sonet EX,78300,2,Wigo Motors Miraflores,Contado,Andrea Flores
+1163,2026-03-03,Kia,Sportage LX,121800,2,Wigo Motors Arequipa,Contado,Carlos Rojas
+1164,2026-02-24,Hyundai,Tucson Premium,123400,1,Wigo Motors Arequipa,Leasing,Luis Medina
+1165,2026-04-03,Toyota,Corolla Cross XLI,98200,1,Wigo Motors Miraflores,Leasing,Luis Medina
+1166,2026-03-23,Hyundai,Creta Premium,89000,2,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1167,2026-04-04,Kia,Seltos EX,90800,1,Wigo Motors Cusco,Leasing,Maria Torres
+1168,2026-05-12,Chevrolet,Onix LTZ,67500,2,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1169,2026-06-29,Toyota,Yaris XS,75500,2,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1170,2026-06-26,Kia,Soluto LX,67000,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+1171,2026-03-28,Suzuki,Swift Sport,59700,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1172,2026-02-14,Hyundai,Tucson Comfort,121600,1,Wigo Motors Miraflores,Leasing,Maria Torres
+1173,2026-01-30,Hyundai,Creta Premium,85700,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1174,2026-05-18,Toyota,RAV4 LE,144000,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1175,2026-01-24,Suzuki,Swift GL,60300,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+1176,2026-01-06,Chevrolet,Onix LTZ,68500,1,Wigo Motors Arequipa,Contado,Jose Castillo
+1177,2026-01-01,Kia,Sonet EX,76300,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+1178,2026-01-31,Hyundai,Tucson Premium,116900,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+1179,2026-02-25,Mazda,CX-5 Grand Touring,161900,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1180,2026-01-27,Chevrolet,Captiva Premier,119200,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1181,2026-02-03,Toyota,Corolla Cross XLI,100900,2,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1182,2026-03-09,Hyundai,Santa Fe Premium,162100,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1183,2026-03-01,Kia,Seltos LX,95700,2,Wigo Motors Lima Centro,Leasing,Luis Medina
+1184,2026-05-01,Mazda,Mazda 3 Sport,122300,1,Wigo Motors Trujillo,Contado,Maria Torres
+1185,2026-01-19,Toyota,RAV4 XLE,151400,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1186,2026-02-05,Subaru,Outback Limited,211900,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+1187,2026-04-04,Suzuki,Fronx GLX,86700,1,Wigo Motors Cusco,Contado,Carlos Rojas
+1188,2026-05-24,Chevrolet,Tracker Premier,93900,1,Wigo Motors Lima Centro,Contado,Luis Medina
+1189,2026-05-01,Suzuki,Fronx Hybrid,81200,2,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1190,2026-01-20,Subaru,Forester Limited,167900,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1191,2026-01-05,Glory,Glory i-Auto Turbo,111600,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+1192,2026-04-10,Suzuki,Jimny 3 Puertas,102000,2,Wigo Motors Cusco,Contado,Carmen Ruiz
+1193,2026-05-18,Kia,Seltos EX,96000,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1194,2026-01-12,Subaru,Outback Limited,209100,1,Wigo Motors Miraflores,Leasing,Jose Castillo
+1195,2026-02-02,Hyundai,Accent GL,71700,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1196,2026-06-08,Mazda,CX-30 Grand Touring,148100,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1197,2026-05-11,Chevrolet,Captiva Premier,112500,2,Wigo Motors Cusco,Contado,Jose Castillo
+1198,2026-02-13,Hyundai,Tucson Premium,121800,2,Wigo Motors Cusco,Contado,Carlos Rojas
+1199,2026-05-25,Chevrolet,Tracker RS,99500,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1200,2026-03-23,Kia,Seltos GT Line,90100,1,Wigo Motors Lima Centro,Contado,Luis Medina
+1201,2026-03-06,Hyundai,Santa Fe Premium,158700,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1202,2026-04-13,Subaru,XV Dynamic,135300,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+1203,2026-05-28,BMW,X3 M Sport,256700,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1204,2026-05-29,Glory,Glory i-Auto Turbo,108900,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1205,2026-02-08,Chevrolet,Tracker Premier,93600,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1206,2026-06-09,Suzuki,Fronx Hybrid,86400,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1207,2026-04-19,Subaru,XV Limited,135600,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1208,2026-01-17,Toyota,Corolla Cross XEI,101000,1,Wigo Motors Arequipa,Contado,Jose Castillo
+1209,2026-02-07,Kia,Soluto LX,66200,2,Wigo Motors Cusco,Contado,Luis Medina
+1210,2026-01-10,Toyota,RAV4 XLE,140300,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1211,2026-03-17,Suzuki,Ertiga GL,77800,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1212,2026-06-22,Toyota,RAV4 Limited,143800,2,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1213,2026-03-04,Suzuki,Fronx GLX,79900,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1214,2026-02-22,Glory,Glory 560 Luxury,97400,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1215,2026-02-04,Glory,Glory i-Auto Turbo,104100,1,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+1216,2026-05-16,Toyota,RAV4 Limited,150700,2,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1217,2026-01-03,Hyundai,Creta Premium,85500,1,Wigo Motors Lima Centro,Contado,Luis Medina
+1218,2026-03-21,Kia,Soluto LX,66700,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1219,2026-05-07,Hyundai,Tucson Comfort,115700,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1220,2026-02-16,BMW,X1 sDrive20i,186600,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1221,2026-03-26,Kia,Sonet EX,79300,2,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+1222,2026-06-28,Kia,Seltos LX,93400,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1223,2026-05-10,Glory,Glory 500 Luxury,78800,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1224,2026-05-27,Subaru,Forester Dynamic,169300,1,Wigo Motors Trujillo,Contado,Maria Torres
+1225,2026-01-24,Glory,Glory 560 CVT,95900,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+1226,2026-03-07,Toyota,Yaris Sport,73300,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+1227,2026-02-09,Hyundai,Tucson Premium,115000,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1228,2026-01-10,Kia,Soluto EX,62100,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+1229,2026-01-12,Glory,Glory 500 Turbo,84900,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1230,2026-05-02,Subaru,Outback Limited,220300,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1231,2026-02-27,Hyundai,Creta Comfort,82100,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1232,2026-02-18,Kia,Sonet GT Line,78400,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1233,2026-03-17,Kia,Seltos EX,92500,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1234,2026-05-09,Glory,Glory i-Auto Luxury,111700,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1235,2026-01-19,Toyota,Corolla Cross GR-S,95900,1,Wigo Motors Miraflores,Contado,Maria Torres
+1236,2026-03-09,Kia,Seltos LX,94200,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+1237,2026-01-28,Toyota,RAV4 Limited,142800,2,Wigo Motors Lima Centro,Leasing,Luis Medina
+1238,2026-03-20,Toyota,Hilux DX,140700,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+1239,2026-05-13,Chevrolet,Captiva Premier,114600,1,Wigo Motors Cusco,Credito Vehicular,Carlos Rojas
+1240,2026-05-11,Kia,Sonet LX,78300,2,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1241,2026-02-13,Kia,Sonet EX,76300,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1242,2026-04-24,Chevrolet,Captiva LT,111900,2,Wigo Motors Miraflores,Leasing,Jose Castillo
+1243,2026-01-12,Kia,Seltos LX,90700,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1244,2026-04-14,Chevrolet,Captiva Premier,120600,1,Wigo Motors Miraflores,Leasing,Luis Medina
+1245,2026-02-11,Chevrolet,Captiva Premier,118300,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1246,2026-03-26,Kia,Sonet GT Line,77900,1,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1247,2026-06-17,Hyundai,Accent Full,69800,1,Wigo Motors Cusco,Contado,Andrea Flores
+1248,2026-03-31,Kia,Sportage GT Line,126200,1,Wigo Motors Miraflores,Contado,Maria Torres
+1249,2026-03-06,Suzuki,Fronx GL,85500,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+1250,2026-04-12,Suzuki,Ertiga GL,79000,2,Wigo Motors Cusco,Contado,Andrea Flores
+1251,2026-06-20,Toyota,Yaris XL,74500,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1252,2026-04-22,Hyundai,Accent Full,69900,2,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1253,2026-04-06,Hyundai,Tucson Premium,118600,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1254,2026-06-23,Suzuki,Fronx GLX,86100,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1255,2026-03-02,Toyota,Yaris Sport,74400,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1256,2026-01-22,Suzuki,Fronx GL,82000,1,Wigo Motors Cusco,Contado,Luis Medina
+1257,2026-03-12,Toyota,Yaris Sport,69700,2,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1258,2026-03-07,Audi,A3 S Line,187000,1,Wigo Motors Cusco,Contado,Maria Torres
+1259,2026-06-04,BMW,X1 sDrive20i,177700,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+1260,2026-04-22,Toyota,Corolla Cross XLI,96100,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1261,2026-05-13,Mazda,Mazda 3 Sport,122900,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1262,2026-06-01,Kia,Seltos GT Line,93500,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1263,2026-04-16,Toyota,RAV4 XLE,146600,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+1264,2026-03-14,Kia,Sportage LX,127400,2,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1265,2026-01-28,Kia,Seltos GT Line,91600,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1266,2026-05-09,Chevrolet,Captiva LT,115900,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1267,2026-02-26,Hyundai,Accent Full,66400,2,Wigo Motors Arequipa,Contado,Maria Torres
+1268,2026-05-05,Hyundai,Santa Fe Premium,163100,1,Wigo Motors Lima Centro,Leasing,Luis Medina
+1269,2026-02-28,Hyundai,Santa Fe Premium,153300,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1270,2026-04-10,Hyundai,Santa Fe Premium,155100,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+1271,2026-01-12,Suzuki,Jimny 3 Puertas,104600,1,Wigo Motors Arequipa,Contado,Andrea Flores
+1272,2026-05-16,Hyundai,Creta Premium,84700,2,Wigo Motors Miraflores,Contado,Jose Castillo
+1273,2026-04-29,Kia,Seltos GT Line,95400,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+1274,2026-03-30,Subaru,Forester Limited,168500,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1275,2026-05-27,Kia,Sonet EX,74100,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1276,2026-05-22,Suzuki,Fronx Hybrid,83100,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1277,2026-05-03,Mazda,Mazda 3 Sport,116000,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1278,2026-02-22,Kia,Soluto LX,64700,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1279,2026-06-17,Suzuki,Swift Sport,61000,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1280,2026-03-10,Glory,Glory i-Auto Luxury,107800,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1281,2026-02-03,Suzuki,Ertiga GL,79500,1,Wigo Motors Cusco,Leasing,Maria Torres
+1282,2026-06-10,Kia,Sonet EX,74800,2,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1283,2026-01-06,Hyundai,Accent Full,67400,1,Wigo Motors Arequipa,Leasing,Andrea Flores
+1284,2026-06-04,Glory,Glory i-Auto Luxury,111300,1,Wigo Motors Cusco,Leasing,Luis Medina
+1285,2026-04-04,Glory,Glory 560 CVT,102600,2,Wigo Motors Miraflores,Contado,Andrea Flores
+1286,2026-01-10,Suzuki,Fronx GLX,86400,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+1287,2026-03-25,Chevrolet,Onix LS,67200,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+1288,2026-03-03,Kia,Seltos EX,91300,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1289,2026-01-07,Suzuki,Jimny 5 Puertas,102000,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1290,2026-03-02,Hyundai,Accent Full,67400,1,Wigo Motors Cusco,Credito Vehicular,Maria Torres
+1291,2026-03-08,Kia,Sportage EX,124100,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1292,2026-01-03,Hyundai,Tucson Premium,118700,2,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1293,2026-04-01,Kia,Seltos GT Line,93600,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+1294,2026-05-06,Glory,Glory 500 Turbo,80800,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1295,2026-02-07,Hyundai,Santa Fe Premium,162400,1,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1296,2026-01-26,Suzuki,Fronx GLX,81500,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1297,2026-03-14,Hyundai,Accent Full,72300,1,Wigo Motors Arequipa,Contado,Carlos Rojas
+1298,2026-03-31,Kia,Sportage EX,131000,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1299,2026-05-28,Hyundai,Tucson Comfort,117800,1,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1300,2026-02-16,Subaru,Outback Limited,217000,1,Wigo Motors Trujillo,Leasing,Jose Castillo
+1301,2026-06-07,Kia,Sonet EX,74700,2,Wigo Motors Lima Centro,Leasing,Carmen Ruiz
+1302,2026-06-24,Kia,Seltos GT Line,95300,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+1303,2026-06-21,Chevrolet,Onix LTZ,71000,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1304,2026-03-08,Toyota,Yaris XS,72200,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1305,2026-02-25,Toyota,Corolla Cross GR-S,98100,2,Wigo Motors Trujillo,Contado,Maria Torres
+1306,2026-03-16,Suzuki,Fronx Hybrid,80500,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+1307,2026-05-07,Toyota,Yaris XL,72800,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1308,2026-02-14,Suzuki,Jimny 5 Puertas,105600,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1309,2026-06-14,Subaru,XV Limited,133100,1,Wigo Motors Cusco,Contado,Jose Castillo
+1310,2026-05-27,Glory,Glory i-Auto Luxury,110600,2,Wigo Motors Lima Centro,Leasing,Maria Torres
+1311,2026-03-17,Hyundai,Tucson Premium,116500,1,Wigo Motors Arequipa,Leasing,Luis Medina
+1312,2026-03-29,Suzuki,Jimny 3 Puertas,100800,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1313,2026-02-16,Hyundai,Santa Fe Premium,155500,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1314,2026-03-11,Glory,Glory i-Auto Luxury,104500,2,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1315,2026-06-13,Suzuki,Fronx Hybrid,82500,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1316,2026-01-06,Hyundai,Santa Fe Premium,164200,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+1317,2026-03-30,Suzuki,Ertiga GLX,81700,2,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1318,2026-05-27,Hyundai,Tucson Limited,113900,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1319,2026-02-26,Glory,Glory 500 Luxury,81300,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1320,2026-04-29,Hyundai,Accent Full,71000,2,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+1321,2026-06-02,Kia,Sonet EX,79200,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1322,2026-03-29,Glory,Glory 500 Turbo,83600,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1323,2026-03-09,Glory,Glory 500 Luxury,85800,2,Wigo Motors Cusco,Contado,Andrea Flores
+1324,2026-01-30,Kia,Sportage GT Line,127800,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+1325,2026-01-31,Hyundai,Tucson Comfort,120100,2,Wigo Motors Trujillo,Contado,Carlos Rojas
+1326,2026-03-24,Mazda,Mazda 3 Sport,118300,1,Wigo Motors Arequipa,Leasing,Luis Medina
+1327,2026-04-06,Glory,Glory 500 Luxury,82100,2,Wigo Motors Cusco,Leasing,Andrea Flores
+1328,2026-05-31,Toyota,Corolla Cross GR-S,97400,1,Wigo Motors Arequipa,Leasing,Maria Torres
+1329,2026-01-24,Toyota,Yaris XS,71400,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1330,2026-02-02,Glory,Glory 560 Luxury,94900,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1331,2026-01-25,Kia,Seltos GT Line,93000,2,Wigo Motors Cusco,Contado,Andrea Flores
+1332,2026-01-09,Hyundai,Tucson Comfort,115600,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1333,2026-05-14,Hyundai,Santa Fe Premium,160200,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+1334,2026-03-04,Kia,Sportage GT Line,128900,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+1335,2026-03-21,Suzuki,Ertiga GLX,80000,2,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+1336,2026-01-09,Kia,Seltos GT Line,95900,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1337,2026-06-27,Glory,Glory 500 Luxury,81400,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1338,2026-01-04,Mazda,Mazda 3 Sport,118900,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1339,2026-01-23,Kia,Seltos EX,96500,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+1340,2026-02-24,Kia,Sonet GT Line,74800,1,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+1341,2026-06-21,Glory,Glory 500 Luxury,79000,1,Wigo Motors Arequipa,Leasing,Jose Castillo
+1342,2026-05-09,Chevrolet,Captiva Premier,111000,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1343,2026-06-12,Mazda,CX-5 Touring,159300,1,Wigo Motors Trujillo,Contado,Luis Medina
+1344,2026-02-05,Suzuki,Ertiga GLX,82000,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1345,2026-03-07,BMW,X1 xDrive25i,173100,1,Wigo Motors Trujillo,Contado,Luis Medina
+1346,2026-06-09,Kia,Soluto LX,62500,1,Wigo Motors Arequipa,Contado,Jose Castillo
+1347,2026-03-29,Hyundai,Tucson Comfort,120800,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1348,2026-02-12,Mazda,CX-5 Grand Touring,168700,1,Wigo Motors Trujillo,Contado,Luis Medina
+1349,2026-04-17,Kia,Sonet GT Line,78900,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1350,2026-02-14,Hyundai,Creta Comfort,86300,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1351,2026-06-07,Subaru,Outback Limited,210000,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1352,2026-05-17,Glory,Glory i-Auto Turbo,110900,1,Wigo Motors Miraflores,Contado,Maria Torres
+1353,2026-01-15,Suzuki,Ertiga GLX,78300,1,Wigo Motors Trujillo,Leasing,Carmen Ruiz
+1354,2026-05-09,Toyota,Hilux SRV,131400,2,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1355,2026-03-07,Suzuki,Swift Sport,62700,1,Wigo Motors Trujillo,Contado,Andrea Flores
+1356,2026-04-20,Subaru,Forester Dynamic,165200,1,Wigo Motors Lima Centro,Contado,Carmen Ruiz
+1357,2026-03-02,Glory,Glory 560 CVT,95900,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1358,2026-02-22,Toyota,RAV4 XLE,139200,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1359,2026-03-27,Hyundai,Accent GL,67400,2,Wigo Motors Miraflores,Contado,Luis Medina
+1360,2026-06-17,Chevrolet,Captiva LT,112500,1,Wigo Motors Arequipa,Credito Vehicular,Carlos Rojas
+1361,2026-06-07,Kia,Soluto LX,64300,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+1362,2026-03-12,Glory,Glory 560 CVT,98300,1,Wigo Motors Cusco,Contado,Luis Medina
+1363,2026-02-15,Suzuki,Ertiga GLX,80100,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+1364,2026-01-03,Hyundai,Accent GL,69800,1,Wigo Motors Miraflores,Leasing,Maria Torres
+1365,2026-02-17,Kia,Sportage GT Line,123000,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+1366,2026-06-09,Suzuki,Jimny 5 Puertas,103800,1,Wigo Motors Arequipa,Contado,Luis Medina
+1367,2026-02-27,BMW,X1 xDrive25i,184200,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1368,2026-02-21,Kia,Sonet LX,73100,1,Wigo Motors Miraflores,Contado,Luis Medina
+1369,2026-05-28,Glory,Glory i-Auto Luxury,107400,1,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1370,2026-04-30,Hyundai,Creta Comfort,86300,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1371,2026-06-11,Chevrolet,Captiva LT,116400,1,Wigo Motors Miraflores,Leasing,Carlos Rojas
+1372,2026-06-29,Toyota,Corolla Cross GR-S,98800,1,Wigo Motors Lima Centro,Contado,Andrea Flores
+1373,2026-02-28,Glory,Glory i-Auto Turbo,112100,1,Wigo Motors Arequipa,Contado,Jose Castillo
+1374,2026-02-08,Chevrolet,Captiva LT,114400,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1375,2026-05-01,Toyota,Corolla Cross XEI,96000,1,Wigo Motors Miraflores,Leasing,Andrea Flores
+1376,2026-06-18,Toyota,Corolla Cross GR-S,96300,1,Wigo Motors Cusco,Leasing,Luis Medina
+1377,2026-04-24,Toyota,Yaris Sport,71400,1,Wigo Motors Trujillo,Credito Vehicular,Maria Torres
+1378,2026-02-11,Suzuki,Swift Sport,64100,2,Wigo Motors Cusco,Contado,Jose Castillo
+1379,2026-02-08,Kia,Seltos EX,95900,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1380,2026-01-27,Suzuki,Fronx Hybrid,87000,2,Wigo Motors Arequipa,Credito Vehicular,Carmen Ruiz
+1381,2026-05-18,Hyundai,Tucson Comfort,120200,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1382,2026-05-07,Suzuki,Swift GL,63600,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1383,2026-06-25,Kia,Seltos GT Line,95900,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1384,2026-06-01,Hyundai,Tucson Limited,115300,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1385,2026-04-11,Suzuki,Ertiga GLX,83800,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+1386,2026-01-31,Chevrolet,Tracker RS,91700,1,Wigo Motors Trujillo,Contado,Luis Medina
+1387,2026-05-07,Suzuki,Ertiga GLX,81600,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1388,2026-04-11,Kia,Seltos EX,91300,2,Wigo Motors Lima Centro,Credito Vehicular,Maria Torres
+1389,2026-03-04,Glory,Glory 560 Luxury,97900,1,Wigo Motors Lima Centro,Leasing,Carlos Rojas
+1390,2026-01-28,Hyundai,Tucson Premium,120000,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1391,2026-02-15,Mazda,Mazda 3 Sport,117100,1,Wigo Motors Trujillo,Contado,Andrea Flores
+1392,2026-03-03,Chevrolet,Tracker RS,97300,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1393,2026-05-10,Kia,Soluto LX,64300,1,Wigo Motors Arequipa,Credito Vehicular,Maria Torres
+1394,2026-01-28,Toyota,Hilux SRV,135500,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1395,2026-05-23,Suzuki,Swift GLX,63800,1,Wigo Motors Lima Centro,Credito Vehicular,Carlos Rojas
+1396,2026-03-06,Subaru,XV Dynamic,128100,1,Wigo Motors Cusco,Contado,Andrea Flores
+1397,2026-03-20,Toyota,RAV4 Limited,139600,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1398,2026-05-26,Suzuki,Ertiga GL,83800,1,Wigo Motors Cusco,Contado,Andrea Flores
+1399,2026-03-26,Hyundai,Accent GL,72400,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+1400,2026-02-12,Hyundai,Tucson Comfort,118900,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1401,2026-05-20,Toyota,Yaris Sport,70300,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+1402,2026-05-23,Suzuki,Swift GLX,63700,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1403,2026-05-23,Glory,Glory i-Auto Turbo,112000,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1404,2026-03-19,Toyota,Yaris Sport,75100,2,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1405,2026-05-30,Subaru,Forester Dynamic,163300,1,Wigo Motors Cusco,Contado,Luis Medina
+1406,2026-05-15,Glory,Glory 560 Luxury,94100,1,Wigo Motors Cusco,Leasing,Luis Medina
+1407,2026-05-07,Mazda,CX-5 Grand Touring,157900,1,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1408,2026-03-05,Toyota,Corolla Cross XEI,98300,1,Wigo Motors Miraflores,Credito Vehicular,Carmen Ruiz
+1409,2026-01-17,Toyota,Hilux SR,131100,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1410,2026-05-04,Subaru,Outback Touring,202200,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1411,2026-06-21,Toyota,Hilux DX,141700,2,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1412,2026-05-12,Kia,Sonet GT Line,75000,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1413,2026-03-11,Toyota,RAV4 LE,148600,2,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1414,2026-05-25,Hyundai,Santa Fe Premium,161200,2,Wigo Motors Lima Centro,Contado,Carlos Rojas
+1415,2026-03-11,Chevrolet,Captiva Premier,119400,2,Wigo Motors Miraflores,Contado,Carlos Rojas
+1416,2026-06-26,Kia,Sportage GT Line,130700,1,Wigo Motors Miraflores,Credito Vehicular,Maria Torres
+1417,2026-01-04,Toyota,Corolla Cross GR-S,94600,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1418,2026-05-27,Hyundai,Accent GL,67200,1,Wigo Motors Trujillo,Leasing,Maria Torres
+1419,2026-06-07,Kia,Sonet GT Line,78700,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1420,2026-01-01,Kia,Seltos EX,91400,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1421,2026-05-23,Toyota,RAV4 Limited,142600,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1422,2026-04-03,Toyota,Hilux DX,139400,1,Wigo Motors Miraflores,Leasing,Maria Torres
+1423,2026-05-25,Toyota,RAV4 XLE,144600,1,Wigo Motors Cusco,Leasing,Andrea Flores
+1424,2026-05-23,Suzuki,Ertiga GL,83400,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1425,2026-06-27,Glory,Glory 500 Turbo,81200,1,Wigo Motors Miraflores,Credito Vehicular,Luis Medina
+1426,2026-01-10,Suzuki,Fronx GLX,84700,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1427,2026-05-11,Kia,Sportage EX,128500,1,Wigo Motors Arequipa,Leasing,Carmen Ruiz
+1428,2026-02-15,Hyundai,Santa Fe Limited,155700,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1429,2026-06-15,Audi,Q3 S Line,192900,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1430,2026-02-18,Hyundai,Creta Comfort,85800,1,Wigo Motors Miraflores,Contado,Carlos Rojas
+1431,2026-06-12,Toyota,Hilux DX,140100,1,Wigo Motors Cusco,Credito Vehicular,Luis Medina
+1432,2026-01-10,Glory,Glory 560 CVT,99200,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1433,2026-06-04,Suzuki,Jimny 5 Puertas,102800,1,Wigo Motors Miraflores,Contado,Jose Castillo
+1434,2026-05-28,Toyota,Corolla Cross XLI,101600,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1435,2026-05-29,Toyota,Corolla Cross GR-S,96300,1,Wigo Motors Arequipa,Contado,Luis Medina
+1436,2026-06-26,Kia,Sonet LX,75200,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1437,2026-03-09,Hyundai,Creta Premium,88500,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1438,2026-02-12,Toyota,Yaris XL,75200,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1439,2026-05-01,Hyundai,Tucson Comfort,123700,1,Wigo Motors Trujillo,Credito Vehicular,Andrea Flores
+1440,2026-06-08,Toyota,Corolla Cross GR-S,102200,2,Wigo Motors Miraflores,Leasing,Jose Castillo
+1441,2026-06-17,Suzuki,Swift GLX,59900,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1442,2026-03-05,Kia,Sportage EX,130900,1,Wigo Motors Miraflores,Contado,Maria Torres
+1443,2026-05-11,Hyundai,Tucson Limited,119900,1,Wigo Motors Trujillo,Credito Vehicular,Luis Medina
+1444,2026-02-05,Mazda,Mazda 3 Sport,123600,1,Wigo Motors Arequipa,Contado,Maria Torres
+1445,2026-05-20,Mazda,CX-30 Grand Touring,137600,1,Wigo Motors Miraflores,Credito Vehicular,Carlos Rojas
+1446,2026-01-22,Kia,Seltos LX,88400,1,Wigo Motors Lima Centro,Credito Vehicular,Jose Castillo
+1447,2026-03-12,Chevrolet,Captiva Premier,111000,2,Wigo Motors Lima Centro,Leasing,Jose Castillo
+1448,2026-04-18,Audi,A3 Advanced,188100,1,Wigo Motors Cusco,Contado,Carmen Ruiz
+1449,2026-03-26,Toyota,Corolla Cross GR-S,98200,1,Wigo Motors Cusco,Leasing,Andrea Flores
+1450,2026-05-23,Hyundai,Accent Full,69200,2,Wigo Motors Lima Centro,Contado,Luis Medina
+1451,2026-01-29,Kia,Sonet GT Line,79600,2,Wigo Motors Trujillo,Contado,Jose Castillo
+1452,2026-04-26,Hyundai,Santa Fe Limited,155500,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1453,2026-06-13,Suzuki,Swift Sport,61300,1,Wigo Motors Lima Centro,Contado,Jose Castillo
+1454,2026-02-19,Hyundai,Accent GL,70600,1,Wigo Motors Cusco,Contado,Carlos Rojas
+1455,2026-03-10,Kia,Sonet LX,75900,1,Wigo Motors Cusco,Leasing,Jose Castillo
+1456,2026-02-03,BMW,X3 M Sport,260000,1,Wigo Motors Miraflores,Contado,Carmen Ruiz
+1457,2026-02-18,Hyundai,Creta Comfort,86300,1,Wigo Motors Cusco,Credito Vehicular,Andrea Flores
+1458,2026-03-12,Suzuki,Swift Sport,60000,1,Wigo Motors Miraflores,Leasing,Carmen Ruiz
+1459,2026-04-18,Suzuki,Fronx GL,84300,1,Wigo Motors Trujillo,Leasing,Carlos Rojas
+1460,2026-05-23,Kia,Sportage GT Line,128700,1,Wigo Motors Trujillo,Contado,Carlos Rojas
+1461,2026-06-21,Suzuki,Jimny 3 Puertas,100600,1,Wigo Motors Trujillo,Contado,Luis Medina
+1462,2026-04-22,Kia,Soluto EX,66900,1,Wigo Motors Trujillo,Credito Vehicular,Carlos Rojas
+1463,2026-04-19,Kia,Sportage EX,126200,1,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1464,2026-04-22,Glory,Glory i-Auto Turbo,112300,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1465,2026-03-25,Suzuki,Swift GL,61300,2,Wigo Motors Trujillo,Leasing,Andrea Flores
+1466,2026-04-04,Hyundai,Creta Comfort,87300,1,Wigo Motors Trujillo,Leasing,Luis Medina
+1467,2026-04-16,Hyundai,Accent Full,66500,1,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1468,2026-01-18,Kia,Sportage EX,125700,1,Wigo Motors Lima Centro,Leasing,Andrea Flores
+1469,2026-04-17,Hyundai,Accent GL,69000,2,Wigo Motors Lima Centro,Credito Vehicular,Carmen Ruiz
+1470,2026-06-22,Mazda,CX-5 Grand Touring,167300,1,Wigo Motors Trujillo,Contado,Luis Medina
+1471,2026-02-22,Hyundai,Tucson Limited,121700,2,Wigo Motors Cusco,Credito Vehicular,Jose Castillo
+1472,2026-06-21,Chevrolet,Onix LTZ,69700,2,Wigo Motors Miraflores,Leasing,Andrea Flores
+1473,2026-04-28,Hyundai,Tucson Limited,117400,2,Wigo Motors Arequipa,Leasing,Luis Medina
+1474,2026-05-30,Toyota,Yaris XS,71700,2,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1475,2026-01-20,Hyundai,Accent GL,71600,1,Wigo Motors Cusco,Leasing,Carlos Rojas
+1476,2026-05-31,Mazda,CX-5 Grand Touring,170100,1,Wigo Motors Arequipa,Contado,Luis Medina
+1477,2026-01-28,Suzuki,Fronx GL,85300,1,Wigo Motors Lima Centro,Credito Vehicular,Andrea Flores
+1478,2026-05-08,Hyundai,Creta Premium,84500,2,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1479,2026-05-19,Suzuki,Swift GLX,63400,1,Wigo Motors Lima Centro,Leasing,Maria Torres
+1480,2026-03-12,Toyota,RAV4 XLE,143900,2,Wigo Motors Arequipa,Contado,Carmen Ruiz
+1481,2026-05-19,Subaru,Forester Dynamic,167500,1,Wigo Motors Arequipa,Credito Vehicular,Jose Castillo
+1482,2026-06-14,Suzuki,Fronx GL,86500,1,Wigo Motors Miraflores,Contado,Andrea Flores
+1483,2026-04-05,Hyundai,Santa Fe Premium,164200,1,Wigo Motors Trujillo,Credito Vehicular,Carmen Ruiz
+1484,2026-03-19,Suzuki,Ertiga GLX,81300,2,Wigo Motors Trujillo,Contado,Luis Medina
+1485,2026-03-19,Toyota,Corolla Cross GR-S,94800,2,Wigo Motors Cusco,Leasing,Andrea Flores
+1486,2026-04-15,Hyundai,Santa Fe Limited,163100,1,Wigo Motors Arequipa,Credito Vehicular,Luis Medina
+1487,2026-03-03,Hyundai,Tucson Comfort,115700,1,Wigo Motors Cusco,Contado,Carlos Rojas
+1488,2026-03-12,Suzuki,Ertiga GLX,80100,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1489,2026-05-20,Subaru,XV Limited,128500,1,Wigo Motors Trujillo,Leasing,Andrea Flores
+1490,2026-05-28,Toyota,RAV4 LE,143200,2,Wigo Motors Cusco,Credito Vehicular,Carmen Ruiz
+1491,2026-04-11,Kia,Seltos GT Line,90700,1,Wigo Motors Lima Centro,Credito Vehicular,Luis Medina
+1492,2026-01-30,Hyundai,Tucson Limited,120400,1,Wigo Motors Miraflores,Leasing,Luis Medina
+1493,2026-05-16,Glory,Glory 560 Luxury,96100,1,Wigo Motors Trujillo,Contado,Andrea Flores
+1494,2026-05-05,Kia,Seltos LX,91000,1,Wigo Motors Arequipa,Credito Vehicular,Andrea Flores
+1495,2026-06-26,Toyota,Yaris XS,71400,1,Wigo Motors Lima Centro,Contado,Maria Torres
+1496,2026-02-19,Toyota,Corolla Cross XLI,98700,1,Wigo Motors Arequipa,Leasing,Carlos Rojas
+1497,2026-01-12,Hyundai,Santa Fe Limited,163400,1,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1498,2026-03-05,Glory,Glory i-Auto Turbo,107200,2,Wigo Motors Trujillo,Contado,Luis Medina
+1499,2026-03-29,Kia,Seltos LX,92200,2,Wigo Motors Trujillo,Contado,Carmen Ruiz
+1500,2026-05-20,Hyundai,Creta Premium,85300,1,Wigo Motors Cusco,Leasing,Jose Castillo
